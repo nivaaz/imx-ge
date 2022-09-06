@@ -13,14 +13,7 @@ const {
 
 // TODO: MOVE CONFIG
 // Your web app's Firebase configuration
-const firebaseConfig = {
-  apiKey: "AIzaSyA1Cq8PUV6Nvdb69UvoaJfsqvqG5SoB-hw",
-  authDomain: "imx-growth-eng.firebaseapp.com",
-  projectId: "imx-growth-eng",
-  storageBucket: "imx-growth-eng.appspot.com",
-  messagingSenderId: "830653434300",
-  appId: "1:830653434300:web:9a9f9017f85975483a83b9",
-};
+
 
 const readCollectionByName = async (db, collectionName) => {
   const querySnapshot = await getDocs(collection(db, collectionName));
