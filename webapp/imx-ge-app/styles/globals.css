@@ -1,0 +1,49 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+main{
+  max-width: 800px;
+  margin: auto;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+table {
+  border-radius: 1em;
+  background-color: #ffffffde;
+  color: #111;
+  padding: 1em;
+  margin-top:1rem;
+  width: 100%;
+}
+tr{
+  border-bottom: 1px solid red;
+  align-content: center;
+}
+
+table.immutascan {
+  background-color: #e3ffe9;  
+}
+.tableHeading{
+  font-weight: 500;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: #111;
+  }
+}

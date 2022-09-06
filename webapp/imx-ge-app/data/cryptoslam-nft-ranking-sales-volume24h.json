@@ -1,0 +1,2492 @@
+[
+  {
+    "Collection": "Ethereum Name Service",
+    "Sales (USD)": "1750,056",
+    "Change (24h)": "115.10%",
+    "Sales": "1085.42",
+    "Buyers": "1291",
+    "Sellers": "1269",
+    "Txns": "3,091",
+    "Owners": "456,124"
+  },
+  {
+    "Collection": "Bored Ape Yacht Club",
+    "Sales (USD)": "1269,187",
+    "Change (24h)": "175.00%",
+    "Sales": "797.84",
+    "Buyers": "11",
+    "Sellers": "11",
+    "Txns": "11",
+    "Owners": "0"
+  },
+  {
+    "Collection": "ImmutaSwap.io",
+    "Sales (USD)": "1157,361",
+    "Change (24h)": "42.86%",
+    "Sales": "730.31",
+    "Buyers": "152",
+    "Sellers": "153",
+    "Txns": "244",
+    "Owners": "672"
+  },
+  {
+    "Collection": "Sorare",
+    "Sales (USD)": "1096,848",
+    "Change (24h)": "26.05%",
+    "Sales": "677.09",
+    "Buyers": "6,325",
+    "Sellers": "7,437",
+    "Txns": "15,319",
+    "Owners": "150,471"
+  },
+  {
+    "Collection": "Otherdeed",
+    "Sales (USD)": "762,308",
+    "Change (24h)": "2.88%",
+    "Sales": "478.84",
+    "Buyers": "83",
+    "Sellers": "82",
+    "Txns": "107",
+    "Owners": "0"
+  },
+  {
+    "Collection": "CryptoSimeji",
+    "Sales (USD)": "677,832",
+    "Change (24h)": "322.73%",
+    "Sales": "428.74",
+    "Buyers": "923",
+    "Sellers": "932",
+    "Txns": "1395",
+    "Owners": "0"
+  },
+  {
+    "Collection": "ABC",
+    "Sales (USD)": "593,895",
+    "Change (24h)": "200.76%",
+    "Sales": "18,276.13SOL",
+    "Buyers": "373",
+    "Sellers": "488",
+    "Txns": "791",
+    "Owners": "1"
+  },
+  {
+    "Collection": "Satori",
+    "Sales (USD)": "438,329",
+    "Change (24h)": "-",
+    "Sales": "13,667.75SOL",
+    "Buyers": "2,298",
+    "Sellers": "2,456",
+    "Txns": "4,423",
+    "Owners": "1287"
+  },
+  {
+    "Collection": "CloneX",
+    "Sales (USD)": "399,935",
+    "Change (24h)": "2.70%",
+    "Sales": "250.87",
+    "Buyers": "27",
+    "Sellers": "29",
+    "Txns": "36",
+    "Owners": "0"
+  },
+  {
+    "Collection": "NBA Top Shot",
+    "Sales (USD)": "294,440",
+    "Change (24h)": "55.40%",
+    "Sales": "294,440.00Flow",
+    "Buyers": "1615",
+    "Sellers": "2,904",
+    "Txns": "10,381",
+    "Owners": "694,560"
+  },
+  {
+    "Collection": "Uniswap V3 NFTV1 Polygon",
+    "Sales (USD)": "292,244",
+    "Change (24h)": "9.09%",
+    "Sales": "6,030,289,457.56",
+    "Buyers": "45",
+    "Sellers": "19",
+    "Txns": "70",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Genuine Undead",
+    "Sales (USD)": "260,612",
+    "Change (24h)": "120.21%",
+    "Sales": "164.25",
+    "Buyers": "435",
+    "Sellers": "414",
+    "Txns": "643",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Mutant Ape Yacht Club",
+    "Sales (USD)": "256,407",
+    "Change (24h)": "27.27%",
+    "Sales": "3,022.28",
+    "Buyers": "13",
+    "Sellers": "14",
+    "Txns": "14",
+    "Owners": "0"
+  },
+  {
+    "Collection": "AnonymousCactusClub",
+    "Sales (USD)": "242,578",
+    "Change (24h)": "37.78%",
+    "Sales": "152.13",
+    "Buyers": "267",
+    "Sellers": "284",
+    "Txns": "410",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Moonbirds",
+    "Sales (USD)": "239,531",
+    "Change (24h)": "8.33%",
+    "Sales": "150.41",
+    "Buyers": "11",
+    "Sellers": "11",
+    "Txns": "13",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Azuki",
+    "Sales (USD)": "237,236",
+    "Change (24h)": "533.33%",
+    "Sales": "149.09",
+    "Buyers": "17",
+    "Sellers": "18",
+    "Txns": "19",
+    "Owners": "0"
+  },
+  {
+    "Collection": "DeGods",
+    "Sales (USD)": "220,628",
+    "Change (24h)": "13.33%",
+    "Sales": "6,759.68SOL",
+    "Buyers": "13",
+    "Sellers": "13",
+    "Txns": "13",
+    "Owners": "4,270"
+  },
+  {
+    "Collection": "Panini America",
+    "Sales (USD)": "219,292",
+    "Change (24h)": "62.16%",
+    "Sales": "219,292.00USD",
+    "Buyers": "213",
+    "Sellers": "417",
+    "Txns": "2,708",
+    "Owners": "12,955"
+  },
+  {
+    "Collection": "CryptoPunks",
+    "Sales (USD)": "202,696",
+    "Change (24h)": "33.33%",
+    "Sales": "122.95",
+    "Buyers": "2",
+    "Sellers": "2",
+    "Txns": "2",
+    "Owners": "3,778"
+  },
+  {
+    "Collection": "Emblem Vault",
+    "Sales (USD)": "182,622",
+    "Change (24h)": "117.39%",
+    "Sales": "114.81",
+    "Buyers": "26",
+    "Sellers": "38",
+    "Txns": "50",
+    "Owners": "6,180"
+  },
+  {
+    "Collection": "DigiDaigaku",
+    "Sales (USD)": "168,839",
+    "Change (24h)": "14.29%",
+    "Sales": "105.81",
+    "Buyers": "8",
+    "Sellers": "7",
+    "Txns": "8",
+    "Owners": "0"
+  },
+  {
+    "Collection": "RENGA",
+    "Sales (USD)": "150,303",
+    "Change (24h)": "10.73%",
+    "Sales": "94.06",
+    "Buyers": "136",
+    "Sellers": "139",
+    "Txns": "208",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Black Box",
+    "Sales (USD)": "148,088",
+    "Change (24h)": "31.72%",
+    "Sales": "92.73",
+    "Buyers": "93",
+    "Sellers": "124",
+    "Txns": "191",
+    "Owners": "0"
+  },
+  {
+    "Collection": "CryptoDickbutts S3",
+    "Sales (USD)": "147,042",
+    "Change (24h)": "129.41%",
+    "Sales": "92.54",
+    "Buyers": "11",
+    "Sellers": "14",
+    "Txns": "39",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Digital Tycoons Club (Tykes)",
+    "Sales (USD)": "144,688",
+    "Change (24h)": "14.63%",
+    "Sales": "90.87",
+    "Buyers": "20",
+    "Sellers": "30",
+    "Txns": "35",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Doodles",
+    "Sales (USD)": "135,146",
+    "Change (24h)": "10.00%",
+    "Sales": "85.14",
+    "Buyers": "10",
+    "Sellers": "11",
+    "Txns": "11",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Axie Infinity",
+    "Sales (USD)": "133,095",
+    "Change (24h)": "1.36%",
+    "Sales": "82.03",
+    "Buyers": "4,327",
+    "Sellers": "4,163",
+    "Txns": "12,666",
+    "Owners": "2,179,756"
+  },
+  {
+    "Collection": "Bored Ape Kennel Club",
+    "Sales (USD)": "132,237",
+    "Change (24h)": "140.00%",
+    "Sales": "83.63",
+    "Buyers": "11",
+    "Sellers": "12",
+    "Txns": "12",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Blocksmith Labs",
+    "Sales (USD)": "128,544",
+    "Change (24h)": "227.27%",
+    "Sales": "3,954.56SOL",
+    "Buyers": "25",
+    "Sellers": "32",
+    "Txns": "36",
+    "Owners": "2,614"
+  },
+  {
+    "Collection": "Acid Monkeys",
+    "Sales (USD)": "117,033",
+    "Change (24h)": "8.73%",
+    "Sales": "3,641.14SOL",
+    "Buyers": "374",
+    "Sellers": "440",
+    "Txns": "623",
+    "Owners": "2,188"
+  },
+  {
+    "Collection": "NFL All Day",
+    "Sales (USD)": "109,713",
+    "Change (24h)": "51.12%",
+    "Sales": "109,713.00Flow",
+    "Buyers": "1096",
+    "Sellers": "1607",
+    "Txns": "3,849",
+    "Owners": "92,556"
+  },
+  {
+    "Collection": "Jenkins the Valet The Writers Room",
+    "Sales (USD)": "86,692",
+    "Change (24h)": "200.00%",
+    "Sales": "52.36",
+    "Buyers": "4",
+    "Sellers": "6",
+    "Txns": "6",
+    "Owners": "2,835"
+  },
+  {
+    "Collection": "Potatoz",
+    "Sales (USD)": "84,998",
+    "Change (24h)": "39.66%",
+    "Sales": "53.65",
+    "Buyers": "32",
+    "Sellers": "34",
+    "Txns": "35",
+    "Owners": "0"
+  },
+  {
+    "Collection": "RareApepeYachtClub",
+    "Sales (USD)": "84,509",
+    "Change (24h)": "25.00%",
+    "Sales": "53.33",
+    "Buyers": "65",
+    "Sellers": "68",
+    "Txns": "85",
+    "Owners": "0"
+  },
+  {
+    "Collection": "YOLO Bunny",
+    "Sales (USD)": "82,815",
+    "Change (24h)": "2,100.00%",
+    "Sales": "52.07",
+    "Buyers": "14",
+    "Sellers": "20",
+    "Txns": "22",
+    "Owners": "0"
+  },
+  {
+    "Collection": "VeeFriends",
+    "Sales (USD)": "78,814",
+    "Change (24h)": "-",
+    "Sales": "50.29",
+    "Buyers": "3",
+    "Sellers": "4",
+    "Txns": "4",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Gutter Cat Gang",
+    "Sales (USD)": "72,455",
+    "Change (24h)": "40.00%",
+    "Sales": "45.41",
+    "Buyers": "7",
+    "Sellers": "7",
+    "Txns": "7",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Amazy Sneaker",
+    "Sales (USD)": "70,442",
+    "Change (24h)": "21.35%",
+    "Sales": "253.15",
+    "Buyers": "137",
+    "Sellers": "1",
+    "Txns": "221",
+    "Owners": "0"
+  },
+  {
+    "Collection": "ZED RUN",
+    "Sales (USD)": "70,395",
+    "Change (24h)": "17.26%",
+    "Sales": "11399.07",
+    "Buyers": "771",
+    "Sellers": "705",
+    "Txns": "1189",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Pudgy Penguins",
+    "Sales (USD)": "69,771",
+    "Change (24h)": "20.00%",
+    "Sales": "43.08",
+    "Buyers": "8",
+    "Sellers": "12",
+    "Txns": "12",
+    "Owners": "4,606"
+  },
+  {
+    "Collection": "Galactic Gecko Space Garage",
+    "Sales (USD)": "63,596",
+    "Change (24h)": "66.15%",
+    "Sales": "1941.41SOL",
+    "Buyers": "71",
+    "Sellers": "89",
+    "Txns": "110",
+    "Owners": "3,998"
+  },
+  {
+    "Collection": "Primate Academy",
+    "Sales (USD)": "62,557",
+    "Change (24h)": "4.81%",
+    "Sales": "1939.07SOL",
+    "Buyers": "83",
+    "Sellers": "82",
+    "Txns": "109",
+    "Owners": "5,138"
+  },
+  {
+    "Collection": "DigiDaigakuSpirits",
+    "Sales (USD)": "61416",
+    "Change (24h)": "-",
+    "Sales": "38.59",
+    "Buyers": "12",
+    "Sellers": "9",
+    "Txns": "13",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Raft",
+    "Sales (USD)": "61416",
+    "Change (24h)": "50.00%",
+    "Sales": "38.31",
+    "Buyers": "3",
+    "Sellers": "3",
+    "Txns": "3",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Jikan Studio",
+    "Sales (USD)": "61387",
+    "Change (24h)": "14.69%",
+    "Sales": "1894.82SOL",
+    "Buyers": "164",
+    "Sellers": "209",
+    "Txns": "273",
+    "Owners": "4,246"
+  },
+  {
+    "Collection": "Art Blocks",
+    "Sales (USD)": "60,170",
+    "Change (24h)": "18.18%",
+    "Sales": "37.24",
+    "Buyers": "43",
+    "Sellers": "58",
+    "Txns": "65",
+    "Owners": "35,829"
+  },
+  {
+    "Collection": "RTFKT MNLTH",
+    "Sales (USD)": "58,913",
+    "Change (24h)": "366.67%",
+    "Sales": "36.20",
+    "Buyers": "8",
+    "Sellers": "14",
+    "Txns": "14",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Lazy Ape Yacht Club",
+    "Sales (USD)": "58,451",
+    "Change (24h)": "7.02%",
+    "Sales": "36.74",
+    "Buyers": "172",
+    "Sellers": "168",
+    "Txns": "259",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Isekai Meta",
+    "Sales (USD)": "56,925",
+    "Change (24h)": "40.44%",
+    "Sales": "35.89",
+    "Buyers": "103",
+    "Sellers": "107",
+    "Txns": "134",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Ordinem",
+    "Sales (USD)": "51914",
+    "Change (24h)": "470.77%",
+    "Sales": "1581.21SOL",
+    "Buyers": "345",
+    "Sellers": "412",
+    "Txns": "742",
+    "Owners": "530"
+  },
+  {
+    "Collection": "MurakamiFlowers",
+    "Sales (USD)": "50,339",
+    "Change (24h)": "20.00%",
+    "Sales": "31.63",
+    "Buyers": "11",
+    "Sellers": "17",
+    "Txns": "18",
+    "Owners": "0"
+  },
+  {
+    "Collection": "GODA Mint Pass",
+    "Sales (USD)": "50,220",
+    "Change (24h)": "-",
+    "Sales": "31.82",
+    "Buyers": "5",
+    "Sellers": "3",
+    "Txns": "5",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Meebits",
+    "Sales (USD)": "48,287",
+    "Change (24h)": "75.00%",
+    "Sales": "30.48",
+    "Buyers": "7",
+    "Sellers": "6",
+    "Txns": "7",
+    "Owners": "0"
+  },
+  {
+    "Collection": "goblintown",
+    "Sales (USD)": "45,395",
+    "Change (24h)": "25.00%",
+    "Sales": "28.94",
+    "Buyers": "21",
+    "Sellers": "20",
+    "Txns": "25",
+    "Owners": "0"
+  },
+  {
+    "Collection": "shremps",
+    "Sales (USD)": "45,273",
+    "Change (24h)": "107.89%",
+    "Sales": "1400.78SOL",
+    "Buyers": "181",
+    "Sellers": "230",
+    "Txns": "316",
+    "Owners": "1964"
+  },
+  {
+    "Collection": "KaijuKingz",
+    "Sales (USD)": "44,309",
+    "Change (24h)": "5.00%",
+    "Sales": "6,777.76",
+    "Buyers": "21",
+    "Sellers": "17",
+    "Txns": "21",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Rtfkt Nike x Monolith",
+    "Sales (USD)": "43,917",
+    "Change (24h)": "33.33%",
+    "Sales": "27.26",
+    "Buyers": "18",
+    "Sellers": "17",
+    "Txns": "20",
+    "Owners": "0"
+  },
+  {
+    "Collection": "FGDNFT",
+    "Sales (USD)": "43,409",
+    "Change (24h)": "32.36%",
+    "Sales": "155.68",
+    "Buyers": "167",
+    "Sellers": "170",
+    "Txns": "186",
+    "Owners": "0"
+  },
+  {
+    "Collection": "JellyDawgs",
+    "Sales (USD)": "43,388",
+    "Change (24h)": "76.43%",
+    "Sales": "1345.71SOL",
+    "Buyers": "323",
+    "Sellers": "349",
+    "Txns": "494",
+    "Owners": "3,080"
+  },
+  {
+    "Collection": "Cets on Crek",
+    "Sales (USD)": "42,235",
+    "Change (24h)": "3.33%",
+    "Sales": "1304.89SOL",
+    "Buyers": "22",
+    "Sellers": "27",
+    "Txns": "31",
+    "Owners": "4,005"
+  },
+  {
+    "Collection": "Dooplicator",
+    "Sales (USD)": "40,057",
+    "Change (24h)": "91.67%",
+    "Sales": "25.38",
+    "Buyers": "20",
+    "Sellers": "9",
+    "Txns": "23",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Moonbirds Oddities",
+    "Sales (USD)": "39,375",
+    "Change (24h)": "13.04%",
+    "Sales": "25.10",
+    "Buyers": "18",
+    "Sellers": "14",
+    "Txns": "20",
+    "Owners": "0"
+  },
+  {
+    "Collection": "FLACATDkpP4dLdxj5PhspxoazNSLqRFcBUpHFENGYoraxrp4dH",
+    "Sales (USD)": "38,542",
+    "Change (24h)": "-",
+    "Sales": "1180.69SOL",
+    "Buyers": "180",
+    "Sellers": "104",
+    "Txns": "3,212",
+    "Owners": "13"
+  },
+  {
+    "Collection": "Degen Toonz",
+    "Sales (USD)": "38,223",
+    "Change (24h)": "13.64%",
+    "Sales": "23.91",
+    "Buyers": "24",
+    "Sellers": "22",
+    "Txns": "25",
+    "Owners": "0"
+  },
+  {
+    "Collection": "VaynerSports Pass",
+    "Sales (USD)": "38,096",
+    "Change (24h)": "71.43%",
+    "Sales": "24.06",
+    "Buyers": "22",
+    "Sellers": "35",
+    "Txns": "48",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Bear Market Bar",
+    "Sales (USD)": "36,454",
+    "Change (24h)": "98.64%",
+    "Sales": "1148.14SOL",
+    "Buyers": "468",
+    "Sellers": "460",
+    "Txns": "1166",
+    "Owners": "1419"
+  },
+  {
+    "Collection": "Degenerate Ape Kindergarten",
+    "Sales (USD)": "36,014",
+    "Change (24h)": "800.00%",
+    "Sales": "1119.74SOL",
+    "Buyers": "7",
+    "Sellers": "9",
+    "Txns": "9",
+    "Owners": "1529"
+  },
+  {
+    "Collection": "The BFG's",
+    "Sales (USD)": "35,383",
+    "Change (24h)": "430.36%",
+    "Sales": "1089.94SOL",
+    "Buyers": "212",
+    "Sellers": "206",
+    "Txns": "297",
+    "Owners": "403"
+  },
+  {
+    "Collection": "Women Ape Yacht Club",
+    "Sales (USD)": "34,564",
+    "Change (24h)": "49.06%",
+    "Sales": "21.84",
+    "Buyers": "147",
+    "Sellers": "102",
+    "Txns": "244",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Okay Bears",
+    "Sales (USD)": "34,309",
+    "Change (24h)": "14.29%",
+    "Sales": "1055.40SOL",
+    "Buyers": "14",
+    "Sellers": "15",
+    "Txns": "16",
+    "Owners": "10,005"
+  },
+  {
+    "Collection": "FXHASH",
+    "Sales (USD)": "33,441",
+    "Change (24h)": "20.56%",
+    "Sales": "21394.99XTZ",
+    "Buyers": "96",
+    "Sellers": "115",
+    "Txns": "143",
+    "Owners": "10,406"
+  },
+  {
+    "Collection": "10KTF Stockroom",
+    "Sales (USD)": "33,176",
+    "Change (24h)": "112.50%",
+    "Sales": "20.43",
+    "Buyers": "22",
+    "Sellers": "32",
+    "Txns": "34",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Quirkies",
+    "Sales (USD)": "33,003",
+    "Change (24h)": "200.00%",
+    "Sales": "20.87",
+    "Buyers": "14",
+    "Sellers": "14",
+    "Txns": "15",
+    "Owners": "0"
+  },
+  {
+    "Collection": "World Of Women",
+    "Sales (USD)": "32,454",
+    "Change (24h)": "25.00%",
+    "Sales": "20.36",
+    "Buyers": "4",
+    "Sellers": "6",
+    "Txns": "6",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Mindfolk",
+    "Sales (USD)": "31759",
+    "Change (24h)": "2,058.33%",
+    "Sales": "996.37SOL",
+    "Buyers": "114",
+    "Sellers": "139",
+    "Txns": "259",
+    "Owners": "985"
+  },
+  {
+    "Collection": "VeeFriends Series 2",
+    "Sales (USD)": "31663",
+    "Change (24h)": "24.19%",
+    "Sales": "19.88",
+    "Buyers": "24",
+    "Sellers": "41",
+    "Txns": "47",
+    "Owners": "0"
+  },
+  {
+    "Collection": "FLUF World",
+    "Sales (USD)": "30,418",
+    "Change (24h)": "60.00%",
+    "Sales": "19.15",
+    "Buyers": "7",
+    "Sellers": "8",
+    "Txns": "8",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Eternal Dragon",
+    "Sales (USD)": "30,245",
+    "Change (24h)": "554.55%",
+    "Sales": "940.15SOL",
+    "Buyers": "164",
+    "Sellers": "139",
+    "Txns": "216",
+    "Owners": "443"
+  },
+  {
+    "Collection": "Gods Unchained Immutable",
+    "Sales (USD)": "29,734",
+    "Change (24h)": "3.50%",
+    "Sales": "303.04",
+    "Buyers": "1754",
+    "Sellers": "2,914",
+    "Txns": "22,351",
+    "Owners": "157,887"
+  },
+  {
+    "Collection": "mfer",
+    "Sales (USD)": "29,690",
+    "Change (24h)": "64.29%",
+    "Sales": "8,018.65",
+    "Buyers": "18",
+    "Sellers": "16",
+    "Txns": "23",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Phoenixes",
+    "Sales (USD)": "28,850",
+    "Change (24h)": "141.90%",
+    "Sales": "18.08",
+    "Buyers": "129",
+    "Sellers": "176",
+    "Txns": "254",
+    "Owners": "0"
+  },
+  {
+    "Collection": "lizards",
+    "Sales (USD)": "28,629",
+    "Change (24h)": "333.33%",
+    "Sales": "17.79",
+    "Buyers": "10",
+    "Sellers": "4",
+    "Txns": "13",
+    "Owners": "0"
+  },
+  {
+    "Collection": "V1 Cryptopunks Wrapped",
+    "Sales (USD)": "27,494",
+    "Change (24h)": "50.00%",
+    "Sales": "17.42",
+    "Buyers": "3",
+    "Sellers": "3",
+    "Txns": "3",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Sappy Seals",
+    "Sales (USD)": "27,436",
+    "Change (24h)": "92.31%",
+    "Sales": "17.25",
+    "Buyers": "24",
+    "Sellers": "22",
+    "Txns": "25",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Chikn",
+    "Sales (USD)": "26,916",
+    "Change (24h)": "6.90%",
+    "Sales": "1400.17",
+    "Buyers": "24",
+    "Sellers": "26",
+    "Txns": "31",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Shadowy Super Coder",
+    "Sales (USD)": "26,363",
+    "Change (24h)": "160.00%",
+    "Sales": "817.48SOL",
+    "Buyers": "9",
+    "Sellers": "7",
+    "Txns": "13",
+    "Owners": "2,255"
+  },
+  {
+    "Collection": "Trippin Ape Tribe",
+    "Sales (USD)": "26,185",
+    "Change (24h)": "160.00%",
+    "Sales": "809.54SOL",
+    "Buyers": "39",
+    "Sellers": "48",
+    "Txns": "52",
+    "Owners": "5,584"
+  },
+  {
+    "Collection": "Beanz",
+    "Sales (USD)": "25,785",
+    "Change (24h)": "15.79%",
+    "Sales": "16.17",
+    "Buyers": "15",
+    "Sellers": "21",
+    "Txns": "22",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Sentry",
+    "Sales (USD)": "24,105",
+    "Change (24h)": "145.83%",
+    "Sales": "735.84SOL",
+    "Buyers": "129",
+    "Sellers": "137",
+    "Txns": "236",
+    "Owners": "2,221"
+  },
+  {
+    "Collection": "EZU",
+    "Sales (USD)": "23,379",
+    "Change (24h)": "21.84%",
+    "Sales": "14.66",
+    "Buyers": "97",
+    "Sellers": "91",
+    "Txns": "136",
+    "Owners": "0"
+  },
+  {
+    "Collection": "This Thing Of Ours",
+    "Sales (USD)": "23,280",
+    "Change (24h)": "82.61%",
+    "Sales": "14.63",
+    "Buyers": "15",
+    "Sellers": "16",
+    "Txns": "20",
+    "Owners": "0"
+  },
+  {
+    "Collection": "10KTF",
+    "Sales (USD)": "21821",
+    "Change (24h)": "-",
+    "Sales": "73.53",
+    "Buyers": "21",
+    "Sellers": "17",
+    "Txns": "28",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Oak Paradise",
+    "Sales (USD)": "21551",
+    "Change (24h)": "23.37%",
+    "Sales": "669.23SOL",
+    "Buyers": "119",
+    "Sellers": "144",
+    "Txns": "227",
+    "Owners": "2,262"
+  },
+  {
+    "Collection": "Webaverse Genesis Pass",
+    "Sales (USD)": "21481",
+    "Change (24h)": "191.67%",
+    "Sales": "13.55",
+    "Buyers": "17",
+    "Sellers": "20",
+    "Txns": "35",
+    "Owners": "0"
+  },
+  {
+    "Collection": "JRNY NFT Club",
+    "Sales (USD)": "21119",
+    "Change (24h)": "325.00%",
+    "Sales": "13.04",
+    "Buyers": "10",
+    "Sellers": "14",
+    "Txns": "17",
+    "Owners": "5,835"
+  },
+  {
+    "Collection": "My Pet Hooligan",
+    "Sales (USD)": "20,973",
+    "Change (24h)": "90.00%",
+    "Sales": "13.19",
+    "Buyers": "14",
+    "Sellers": "10",
+    "Txns": "19",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Town Star",
+    "Sales (USD)": "20,964",
+    "Change (24h)": "1.15%",
+    "Sales": "12.97",
+    "Buyers": "63",
+    "Sellers": "56",
+    "Txns": "86",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Gutter Rats",
+    "Sales (USD)": "20,638",
+    "Change (24h)": "450.00%",
+    "Sales": "12.76",
+    "Buyers": "10",
+    "Sellers": "10",
+    "Txns": "11",
+    "Owners": "0"
+  },
+  {
+    "Collection": "KINGSHIP",
+    "Sales (USD)": "20,600",
+    "Change (24h)": "53.33%",
+    "Sales": "12.79",
+    "Buyers": "18",
+    "Sellers": "16",
+    "Txns": "23",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Solana Monkey Business",
+    "Sales (USD)": "20,193",
+    "Change (24h)": "200.00%",
+    "Sales": "624.00SOL",
+    "Buyers": "3",
+    "Sellers": "3",
+    "Txns": "3",
+    "Owners": "6,892"
+  },
+  {
+    "Collection": "Communi3 Mad Scientist",
+    "Sales (USD)": "19,751",
+    "Change (24h)": "425.00%",
+    "Sales": "602.71SOL",
+    "Buyers": "16",
+    "Sellers": "20",
+    "Txns": "21",
+    "Owners": "2,601"
+  },
+  {
+    "Collection": "Cryptoadz",
+    "Sales (USD)": "19,651",
+    "Change (24h)": "100.00%",
+    "Sales": "12.47",
+    "Buyers": "8",
+    "Sellers": "7",
+    "Txns": "8",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Parallel Alpha",
+    "Sales (USD)": "19,528",
+    "Change (24h)": "26.29%",
+    "Sales": "12.01",
+    "Buyers": "73",
+    "Sellers": "91",
+    "Txns": "157",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Wolf Game",
+    "Sales (USD)": "19,511",
+    "Change (24h)": "18.18%",
+    "Sales": "12.31",
+    "Buyers": "11",
+    "Sellers": "11",
+    "Txns": "13",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Invisible Friends",
+    "Sales (USD)": "19,232",
+    "Change (24h)": "55.56%",
+    "Sales": "12.14",
+    "Buyers": "4",
+    "Sellers": "4",
+    "Txns": "4",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Famous Fox Federation",
+    "Sales (USD)": "18,964",
+    "Change (24h)": "36.67%",
+    "Sales": "588.48SOL",
+    "Buyers": "16",
+    "Sellers": "17",
+    "Txns": "19",
+    "Owners": "4,510"
+  },
+  {
+    "Collection": "Jadu Hoverboard",
+    "Sales (USD)": "18,899",
+    "Change (24h)": "9.09%",
+    "Sales": "11.88",
+    "Buyers": "15",
+    "Sellers": "18",
+    "Txns": "20",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Blueberry Club",
+    "Sales (USD)": "18,504",
+    "Change (24h)": "71.62%",
+    "Sales": "12.06",
+    "Buyers": "18",
+    "Sellers": "21",
+    "Txns": "21",
+    "Owners": "0"
+  },
+  {
+    "Collection": "BlackGodNFT",
+    "Sales (USD)": "18,444",
+    "Change (24h)": "11.11%",
+    "Sales": "66.41",
+    "Buyers": "8",
+    "Sellers": "9",
+    "Txns": "10",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Stable",
+    "Sales (USD)": "17,837",
+    "Change (24h)": "3,461.54%",
+    "Sales": "552.62SOL",
+    "Buyers": "181",
+    "Sellers": "207",
+    "Txns": "463",
+    "Owners": "350"
+  },
+  {
+    "Collection": "CryptoPhunksV2",
+    "Sales (USD)": "17,555",
+    "Change (24h)": "225.00%",
+    "Sales": "10.89",
+    "Buyers": "18",
+    "Sellers": "6",
+    "Txns": "26",
+    "Owners": "0"
+  },
+  {
+    "Collection": "adidas Originals",
+    "Sales (USD)": "17,553",
+    "Change (24h)": "66.67%",
+    "Sales": "10.90",
+    "Buyers": "13",
+    "Sellers": "19",
+    "Txns": "20",
+    "Owners": "0"
+  },
+  {
+    "Collection": "ALIENFRENS",
+    "Sales (USD)": "17,323",
+    "Change (24h)": "10.53%",
+    "Sales": "10.89",
+    "Buyers": "16",
+    "Sellers": "17",
+    "Txns": "17",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Admit One",
+    "Sales (USD)": "17,235",
+    "Change (24h)": "-",
+    "Sales": "11.00",
+    "Buyers": "2",
+    "Sellers": "2",
+    "Txns": "2",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Aurory",
+    "Sales (USD)": "17,184",
+    "Change (24h)": "600.00%",
+    "Sales": "538.58SOL",
+    "Buyers": "6",
+    "Sellers": "12",
+    "Txns": "14",
+    "Owners": "4,340"
+  },
+  {
+    "Collection": "Froots",
+    "Sales (USD)": "17,011",
+    "Change (24h)": "53.00%",
+    "Sales": "528.10SOL",
+    "Buyers": "123",
+    "Sellers": "105",
+    "Txns": "153",
+    "Owners": "3,041"
+  },
+  {
+    "Collection": "Alien Worlds",
+    "Sales (USD)": "16,877",
+    "Change (24h)": "22.21%",
+    "Sales": "176,498.36WAX",
+    "Buyers": "630",
+    "Sellers": "268",
+    "Txns": "2,482",
+    "Owners": "3,712,266"
+  },
+  {
+    "Collection": "Degenerate Ape Academy",
+    "Sales (USD)": "16,819",
+    "Change (24h)": "-",
+    "Sales": "524.09SOL",
+    "Buyers": "7",
+    "Sellers": "8",
+    "Txns": "8",
+    "Owners": "5,307"
+  },
+  {
+    "Collection": "Habitat",
+    "Sales (USD)": "16,689",
+    "Change (24h)": "32.50%",
+    "Sales": "514.51SOL",
+    "Buyers": "23",
+    "Sellers": "26",
+    "Txns": "27",
+    "Owners": "197"
+  },
+  {
+    "Collection": "GentsCroquetClub",
+    "Sales (USD)": "15,938",
+    "Change (24h)": "100.00%",
+    "Sales": "10.10",
+    "Buyers": "2",
+    "Sellers": "2",
+    "Txns": "2",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Lasogette NFT",
+    "Sales (USD)": "15,666",
+    "Change (24h)": "10.22%",
+    "Sales": "9.80",
+    "Buyers": "82",
+    "Sellers": "75",
+    "Txns": "123",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Akutars",
+    "Sales (USD)": "15,599",
+    "Change (24h)": "23.08%",
+    "Sales": "9.76",
+    "Buyers": "13",
+    "Sellers": "9",
+    "Txns": "16",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Terraforms",
+    "Sales (USD)": "15,564",
+    "Change (24h)": "10.00%",
+    "Sales": "9.73",
+    "Buyers": "8",
+    "Sellers": "11",
+    "Txns": "11",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Curio Cards",
+    "Sales (USD)": "15,531",
+    "Change (24h)": "340.00%",
+    "Sales": "9.62",
+    "Buyers": "13",
+    "Sellers": "13",
+    "Txns": "22",
+    "Owners": "0"
+  },
+  {
+    "Collection": "MNLTHRVLD",
+    "Sales (USD)": "14,725",
+    "Change (24h)": "18.75%",
+    "Sales": "9.22",
+    "Buyers": "18",
+    "Sellers": "16",
+    "Txns": "19",
+    "Owners": "0"
+  },
+  {
+    "Collection": "We All Survived Death",
+    "Sales (USD)": "14,639",
+    "Change (24h)": "13.49%",
+    "Sales": "9.21",
+    "Buyers": "96",
+    "Sellers": "112",
+    "Txns": "143",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Candy Digital NFT",
+    "Sales (USD)": "14,274",
+    "Change (24h)": "9.30%",
+    "Sales": "14,273.79",
+    "Buyers": "179",
+    "Sellers": "284",
+    "Txns": "917",
+    "Owners": "0"
+  },
+  {
+    "Collection": "World Of Women Galaxy",
+    "Sales (USD)": "14,193",
+    "Change (24h)": "35.29%",
+    "Sales": "8.90",
+    "Buyers": "21",
+    "Sellers": "21",
+    "Txns": "23",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Cool Cats",
+    "Sales (USD)": "14,063",
+    "Change (24h)": "55.56%",
+    "Sales": "8.81",
+    "Buyers": "4",
+    "Sellers": "4",
+    "Txns": "4",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Kikiverse",
+    "Sales (USD)": "13,948",
+    "Change (24h)": "34.87%",
+    "Sales": "436.38SOL",
+    "Buyers": "123",
+    "Sellers": "210",
+    "Txns": "468",
+    "Owners": "1882"
+  },
+  {
+    "Collection": "Infected Mob",
+    "Sales (USD)": "13,670",
+    "Change (24h)": "20.83%",
+    "Sales": "418.71SOL",
+    "Buyers": "47",
+    "Sellers": "45",
+    "Txns": "57",
+    "Owners": "2,467"
+  },
+  {
+    "Collection": "Imaginary Ones",
+    "Sales (USD)": "13,469",
+    "Change (24h)": "87.50%",
+    "Sales": "8.50",
+    "Buyers": "12",
+    "Sellers": "15",
+    "Txns": "15",
+    "Owners": "0"
+  },
+  {
+    "Collection": "KILLABEARS",
+    "Sales (USD)": "13,393",
+    "Change (24h)": "20.00%",
+    "Sales": "8.53",
+    "Buyers": "6",
+    "Sellers": "8",
+    "Txns": "8",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Bored--Dangerous",
+    "Sales (USD)": "13,230",
+    "Change (24h)": "14.29%",
+    "Sales": "8.28",
+    "Buyers": "11",
+    "Sellers": "15",
+    "Txns": "18",
+    "Owners": "0"
+  },
+  {
+    "Collection": "UFC Strike",
+    "Sales (USD)": "13,094",
+    "Change (24h)": "8.82%",
+    "Sales": "13,094.00Flow",
+    "Buyers": "269",
+    "Sellers": "365",
+    "Txns": "1116",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Super Cool World",
+    "Sales (USD)": "13,054",
+    "Change (24h)": "57.14%",
+    "Sales": "8.21",
+    "Buyers": "9",
+    "Sellers": "8",
+    "Txns": "11",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Chimpers",
+    "Sales (USD)": "12,850",
+    "Change (24h)": "250.00%",
+    "Sales": "8.19",
+    "Buyers": "5",
+    "Sellers": "7",
+    "Txns": "7",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Eco Balloons",
+    "Sales (USD)": "12,798",
+    "Change (24h)": "10,100.00%",
+    "Sales": "402.87SOL",
+    "Buyers": "6",
+    "Sellers": "5",
+    "Txns": "204",
+    "Owners": "4"
+  },
+  {
+    "Collection": "Flippin' Rabbits",
+    "Sales (USD)": "12,604",
+    "Change (24h)": "161.11%",
+    "Sales": "395.32SOL",
+    "Buyers": "60",
+    "Sellers": "78",
+    "Txns": "94",
+    "Owners": "1224"
+  },
+  {
+    "Collection": "hic et nunc",
+    "Sales (USD)": "12,561",
+    "Change (24h)": "10.93%",
+    "Sales": "8,165.32XTZ",
+    "Buyers": "593",
+    "Sellers": "307",
+    "Txns": "1350",
+    "Owners": "19,969"
+  },
+  {
+    "Collection": "mcgoblinwtf",
+    "Sales (USD)": "12,553",
+    "Change (24h)": "100.00%",
+    "Sales": "7.98",
+    "Buyers": "12",
+    "Sellers": "12",
+    "Txns": "12",
+    "Owners": "0"
+  },
+  {
+    "Collection": "The Shiboshis",
+    "Sales (USD)": "12,551",
+    "Change (24h)": "175.00%",
+    "Sales": "7.73",
+    "Buyers": "10",
+    "Sellers": "7",
+    "Txns": "11",
+    "Owners": "3,671"
+  },
+  {
+    "Collection": "God Hates NFTees",
+    "Sales (USD)": "12,279",
+    "Change (24h)": "120.00%",
+    "Sales": "7.72",
+    "Buyers": "19",
+    "Sellers": "15",
+    "Txns": "22",
+    "Owners": "0"
+  },
+  {
+    "Collection": "oncyber labs",
+    "Sales (USD)": "12,192",
+    "Change (24h)": "16.67%",
+    "Sales": "7.44",
+    "Buyers": "13",
+    "Sellers": "14",
+    "Txns": "21",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Murakami Lucky Cat Coin Bank",
+    "Sales (USD)": "11939",
+    "Change (24h)": "55.08%",
+    "Sales": "7.50",
+    "Buyers": "38",
+    "Sellers": "42",
+    "Txns": "53",
+    "Owners": "0"
+  },
+  {
+    "Collection": "LOSTPOETS",
+    "Sales (USD)": "11878",
+    "Change (24h)": "487.50%",
+    "Sales": "7.33",
+    "Buyers": "24",
+    "Sellers": "25",
+    "Txns": "47",
+    "Owners": "5,735"
+  },
+  {
+    "Collection": "Ledger Market Pass - Genesis Edition",
+    "Sales (USD)": "11805",
+    "Change (24h)": "83.33%",
+    "Sales": "7.45",
+    "Buyers": "22",
+    "Sellers": "20",
+    "Txns": "22",
+    "Owners": "0"
+  },
+  {
+    "Collection": "LilPudgys",
+    "Sales (USD)": "11743",
+    "Change (24h)": "38.30%",
+    "Sales": "7.16",
+    "Buyers": "23",
+    "Sellers": "23",
+    "Txns": "29",
+    "Owners": "6,825"
+  },
+  {
+    "Collection": "Psychedelics Anonymous Genesis",
+    "Sales (USD)": "11534",
+    "Change (24h)": "33.33%",
+    "Sales": "7.25",
+    "Buyers": "9",
+    "Sellers": "8",
+    "Txns": "10",
+    "Owners": "0"
+  },
+  {
+    "Collection": "CyberBrokers",
+    "Sales (USD)": "11199",
+    "Change (24h)": "75.00%",
+    "Sales": "7.00",
+    "Buyers": "7",
+    "Sellers": "7",
+    "Txns": "7",
+    "Owners": "0"
+  },
+  {
+    "Collection": "VOX Series 2",
+    "Sales (USD)": "11018",
+    "Change (24h)": "-",
+    "Sales": "7.01",
+    "Buyers": "7",
+    "Sellers": "7",
+    "Txns": "7",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Mooncats",
+    "Sales (USD)": "10,983",
+    "Change (24h)": "450.00%",
+    "Sales": "6.70",
+    "Buyers": "15",
+    "Sellers": "7",
+    "Txns": "22",
+    "Owners": "6,599"
+  },
+  {
+    "Collection": "Dynamic Shields",
+    "Sales (USD)": "10,934",
+    "Change (24h)": "78.57%",
+    "Sales": "334.00SOL",
+    "Buyers": "26",
+    "Sellers": "41",
+    "Txns": "50",
+    "Owners": "7,056"
+  },
+  {
+    "Collection": "Dracoo Master",
+    "Sales (USD)": "10,915",
+    "Change (24h)": "1800.00%",
+    "Sales": "39.45",
+    "Buyers": "16",
+    "Sellers": "14",
+    "Txns": "19",
+    "Owners": "0"
+  },
+  {
+    "Collection": "The Humanoids",
+    "Sales (USD)": "10,867",
+    "Change (24h)": "58.11%",
+    "Sales": "6.72",
+    "Buyers": "21",
+    "Sellers": "22",
+    "Txns": "31",
+    "Owners": "4,799"
+  },
+  {
+    "Collection": "Hro",
+    "Sales (USD)": "10,860",
+    "Change (24h)": "38.65%",
+    "Sales": "9.60",
+    "Buyers": "40",
+    "Sellers": "19",
+    "Txns": "965",
+    "Owners": "855"
+  },
+  {
+    "Collection": "CNP Jobs",
+    "Sales (USD)": "10,641",
+    "Change (24h)": "82.35%",
+    "Sales": "6.67",
+    "Buyers": "22",
+    "Sellers": "26",
+    "Txns": "31",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Doodle",
+    "Sales (USD)": "10,186",
+    "Change (24h)": "558.10%",
+    "Sales": "316.86SOL",
+    "Buyers": "334",
+    "Sellers": "264",
+    "Txns": "691",
+    "Owners": "1762"
+  },
+  {
+    "Collection": "Finiliar",
+    "Sales (USD)": "9,998",
+    "Change (24h)": "33.33%",
+    "Sales": "6.29",
+    "Buyers": "24",
+    "Sellers": "27",
+    "Txns": "28",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Genesis Box",
+    "Sales (USD)": "9,952",
+    "Change (24h)": "94.44%",
+    "Sales": "6.26",
+    "Buyers": "25",
+    "Sellers": "19",
+    "Txns": "35",
+    "Owners": "0"
+  },
+  {
+    "Collection": "The Sevens",
+    "Sales (USD)": "9,916",
+    "Change (24h)": "-",
+    "Sales": "6.06",
+    "Buyers": "14",
+    "Sellers": "29",
+    "Txns": "33",
+    "Owners": "3,365"
+  },
+  {
+    "Collection": "Lazy Lions",
+    "Sales (USD)": "9,556",
+    "Change (24h)": "71.43%",
+    "Sales": "5.94",
+    "Buyers": "10",
+    "Sellers": "10",
+    "Txns": "12",
+    "Owners": "5,131"
+  },
+  {
+    "Collection": "Shellz Orb",
+    "Sales (USD)": "9,525",
+    "Change (24h)": "32.26%",
+    "Sales": "5.99",
+    "Buyers": "54",
+    "Sellers": "61",
+    "Txns": "82",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Lotus Gang NFT",
+    "Sales (USD)": "9,525",
+    "Change (24h)": "83.33%",
+    "Sales": "294.38SOL",
+    "Buyers": "9",
+    "Sellers": "21",
+    "Txns": "22",
+    "Owners": "1912"
+  },
+  {
+    "Collection": "Book Games",
+    "Sales (USD)": "9,383",
+    "Change (24h)": "333.33%",
+    "Sales": "5.75",
+    "Buyers": "7",
+    "Sellers": "9",
+    "Txns": "13",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Derby Stars",
+    "Sales (USD)": "9,280",
+    "Change (24h)": "457.14%",
+    "Sales": "5.88",
+    "Buyers": "4",
+    "Sellers": "22",
+    "Txns": "39",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Playboy Rabbitars Official",
+    "Sales (USD)": "9,264",
+    "Change (24h)": "2,500.00%",
+    "Sales": "5.79",
+    "Buyers": "9",
+    "Sellers": "19",
+    "Txns": "26",
+    "Owners": "5,250"
+  },
+  {
+    "Collection": "Taiyo Robotics",
+    "Sales (USD)": "9,102",
+    "Change (24h)": "50.00%",
+    "Sales": "274.00SOL",
+    "Buyers": "2",
+    "Sellers": "1",
+    "Txns": "2",
+    "Owners": "1051"
+  },
+  {
+    "Collection": "Portals",
+    "Sales (USD)": "9,091",
+    "Change (24h)": "33.33%",
+    "Sales": "284.64SOL",
+    "Buyers": "4",
+    "Sellers": "4",
+    "Txns": "4",
+    "Owners": "2,881"
+  },
+  {
+    "Collection": "MyBeautifulDarkTwistedFantasy",
+    "Sales (USD)": "8,831",
+    "Change (24h)": "54.87%",
+    "Sales": "5.58",
+    "Buyers": "45",
+    "Sellers": "44",
+    "Txns": "51",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Smol Brain",
+    "Sales (USD)": "8,821",
+    "Change (24h)": "16.67%",
+    "Sales": "13,571.61",
+    "Buyers": "8",
+    "Sellers": "10",
+    "Txns": "10",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Pixelmon",
+    "Sales (USD)": "8,659",
+    "Change (24h)": "81.82%",
+    "Sales": "5.39",
+    "Buyers": "13",
+    "Sellers": "11",
+    "Txns": "20",
+    "Owners": "0"
+  },
+  {
+    "Collection": "DCWTF",
+    "Sales (USD)": "8,625",
+    "Change (24h)": "333.33%",
+    "Sales": "267.62SOL",
+    "Buyers": "33",
+    "Sellers": "33",
+    "Txns": "39",
+    "Owners": "326"
+  },
+  {
+    "Collection": "Cubist Collective",
+    "Sales (USD)": "8,517",
+    "Change (24h)": "202.86%",
+    "Sales": "265.71SOL",
+    "Buyers": "80",
+    "Sellers": "84",
+    "Txns": "106",
+    "Owners": "2,751"
+  },
+  {
+    "Collection": "gmDAO Token v2",
+    "Sales (USD)": "8,403",
+    "Change (24h)": "50.00%",
+    "Sales": "5.20",
+    "Buyers": "1",
+    "Sellers": "1",
+    "Txns": "1",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Impostors Genesis",
+    "Sales (USD)": "8,207",
+    "Change (24h)": "11.11%",
+    "Sales": "5.12",
+    "Buyers": "6",
+    "Sellers": "6",
+    "Txns": "8",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Combat Crates",
+    "Sales (USD)": "8,148",
+    "Change (24h)": "600.00%",
+    "Sales": "5.16",
+    "Buyers": "4",
+    "Sellers": "6",
+    "Txns": "7",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Wool Pouch",
+    "Sales (USD)": "8,056",
+    "Change (24h)": "57.14%",
+    "Sales": "5.03",
+    "Buyers": "3",
+    "Sellers": "3",
+    "Txns": "3",
+    "Owners": "3,311"
+  },
+  {
+    "Collection": "glaba 1",
+    "Sales (USD)": "7,925",
+    "Change (24h)": "42.11%",
+    "Sales": "244.49SOL",
+    "Buyers": "26",
+    "Sellers": "45",
+    "Txns": "54",
+    "Owners": "652"
+  },
+  {
+    "Collection": "BLXCK",
+    "Sales (USD)": "7,799",
+    "Change (24h)": "1347.06%",
+    "Sales": "236.41SOL",
+    "Buyers": "79",
+    "Sellers": "115",
+    "Txns": "246",
+    "Owners": "903"
+  },
+  {
+    "Collection": "NUKE",
+    "Sales (USD)": "7,783",
+    "Change (24h)": "8.28%",
+    "Sales": "240.73SOL",
+    "Buyers": "96",
+    "Sellers": "96",
+    "Txns": "144",
+    "Owners": "1473"
+  },
+  {
+    "Collection": "Illuvium Land",
+    "Sales (USD)": "7,781",
+    "Change (24h)": "11.11%",
+    "Sales": "4.81",
+    "Buyers": "7",
+    "Sellers": "8",
+    "Txns": "8",
+    "Owners": "6,407"
+  },
+  {
+    "Collection": "Rakkudo",
+    "Sales (USD)": "7,752",
+    "Change (24h)": "19.30%",
+    "Sales": "239.60SOL",
+    "Buyers": "31",
+    "Sellers": "38",
+    "Txns": "46",
+    "Owners": "2,334"
+  },
+  {
+    "Collection": "Taiyo Oil",
+    "Sales (USD)": "7,751",
+    "Change (24h)": "100.00%",
+    "Sales": "240.00SOL",
+    "Buyers": "16",
+    "Sellers": "16",
+    "Txns": "18",
+    "Owners": "814"
+  },
+  {
+    "Collection": "Mirror Passes",
+    "Sales (USD)": "7,676",
+    "Change (24h)": "5.26%",
+    "Sales": "4.82",
+    "Buyers": "17",
+    "Sellers": "15",
+    "Txns": "20",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Degen Fat Cat",
+    "Sales (USD)": "7,552",
+    "Change (24h)": "18.75%",
+    "Sales": "235.08SOL",
+    "Buyers": "8",
+    "Sellers": "13",
+    "Txns": "13",
+    "Owners": "1744"
+  },
+  {
+    "Collection": "HOWL",
+    "Sales (USD)": "7,504",
+    "Change (24h)": "34.62%",
+    "Sales": "227.21SOL",
+    "Buyers": "58",
+    "Sellers": "64",
+    "Txns": "70",
+    "Owners": "270"
+  },
+  {
+    "Collection": "Silks Genesis Avatar",
+    "Sales (USD)": "7,458",
+    "Change (24h)": "42.86%",
+    "Sales": "4.66",
+    "Buyers": "9",
+    "Sellers": "8",
+    "Txns": "12",
+    "Owners": "0"
+  },
+  {
+    "Collection": "RaptOriginZ",
+    "Sales (USD)": "7,433",
+    "Change (24h)": "100.00%",
+    "Sales": "395.50",
+    "Buyers": "4",
+    "Sellers": "1",
+    "Txns": "12",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Pixels",
+    "Sales (USD)": "7,429",
+    "Change (24h)": "400.00%",
+    "Sales": "227.68SOL",
+    "Buyers": "7",
+    "Sellers": "15",
+    "Txns": "15",
+    "Owners": "1949"
+  },
+  {
+    "Collection": "Illuminati",
+    "Sales (USD)": "7,381",
+    "Change (24h)": "45.45%",
+    "Sales": "4.66",
+    "Buyers": "5",
+    "Sellers": "6",
+    "Txns": "6",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Loot",
+    "Sales (USD)": "7,373",
+    "Change (24h)": "57.14%",
+    "Sales": "4.67",
+    "Buyers": "3",
+    "Sellers": "3",
+    "Txns": "3",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Roostr",
+    "Sales (USD)": "7,318",
+    "Change (24h)": "42.31%",
+    "Sales": "381.40",
+    "Buyers": "20",
+    "Sellers": "22",
+    "Txns": "30",
+    "Owners": "0"
+  },
+  {
+    "Collection": "TYR-Infant",
+    "Sales (USD)": "7,172",
+    "Change (24h)": "150.00%",
+    "Sales": "220.75SOL",
+    "Buyers": "4",
+    "Sellers": "4",
+    "Txns": "5",
+    "Owners": "534"
+  },
+  {
+    "Collection": "MadMeerkatBurrow",
+    "Sales (USD)": "7,158",
+    "Change (24h)": "44.00%",
+    "Sales": "87,124.00",
+    "Buyers": "14",
+    "Sellers": "12",
+    "Txns": "14",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Chain Runners",
+    "Sales (USD)": "7,114",
+    "Change (24h)": "900.00%",
+    "Sales": "4.36",
+    "Buyers": "9",
+    "Sellers": "5",
+    "Txns": "10",
+    "Owners": "3,371"
+  },
+  {
+    "Collection": "Hello Kitty and Friends World ",
+    "Sales (USD)": "7,059",
+    "Change (24h)": "22.73%",
+    "Sales": "4.42",
+    "Buyers": "28",
+    "Sellers": "34",
+    "Txns": "34",
+    "Owners": "0"
+  },
+  {
+    "Collection": "CryptoSkulls",
+    "Sales (USD)": "7,032",
+    "Change (24h)": "266.67%",
+    "Sales": "4.41",
+    "Buyers": "9",
+    "Sellers": "9",
+    "Txns": "11",
+    "Owners": "0"
+  },
+  {
+    "Collection": "BBRC OFFICIAL IVY BOYS",
+    "Sales (USD)": "7,028",
+    "Change (24h)": "66.67%",
+    "Sales": "4.46",
+    "Buyers": "15",
+    "Sellers": "11",
+    "Txns": "15",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Adam Bomb Squad",
+    "Sales (USD)": "6,931",
+    "Change (24h)": "8.33%",
+    "Sales": "4.33",
+    "Buyers": "12",
+    "Sellers": "13",
+    "Txns": "13",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Onigiri Pepes",
+    "Sales (USD)": "6,905",
+    "Change (24h)": "37.50%",
+    "Sales": "4.37",
+    "Buyers": "23",
+    "Sellers": "34",
+    "Txns": "44",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Forgotten Runes",
+    "Sales (USD)": "6,899",
+    "Change (24h)": "33.33%",
+    "Sales": "4.29",
+    "Buyers": "4",
+    "Sellers": "3",
+    "Txns": "4",
+    "Owners": "3,075"
+  },
+  {
+    "Collection": "DeadFellaz",
+    "Sales (USD)": "6,869",
+    "Change (24h)": "28.57%",
+    "Sales": "4.34",
+    "Buyers": "5",
+    "Sellers": "5",
+    "Txns": "5",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Pancake Squad",
+    "Sales (USD)": "6,823",
+    "Change (24h)": "40.00%",
+    "Sales": "24.69",
+    "Buyers": "3",
+    "Sellers": "3",
+    "Txns": "3",
+    "Owners": "0"
+  },
+  {
+    "Collection": "CyberKongz",
+    "Sales (USD)": "6,727",
+    "Change (24h)": "50.00%",
+    "Sales": "4.21",
+    "Buyers": "2",
+    "Sellers": "2",
+    "Txns": "2",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Arcade Land",
+    "Sales (USD)": "6,706",
+    "Change (24h)": "61.11%",
+    "Sales": "4.23",
+    "Buyers": "16",
+    "Sellers": "15",
+    "Txns": "21",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Bubblegoose Baller",
+    "Sales (USD)": "6,695",
+    "Change (24h)": "161.54%",
+    "Sales": "206.46SOL",
+    "Buyers": "25",
+    "Sellers": "16",
+    "Txns": "34",
+    "Owners": "2,980"
+  },
+  {
+    "Collection": "Vox Collectibles",
+    "Sales (USD)": "6,690",
+    "Change (24h)": "14.29%",
+    "Sales": "4.12",
+    "Buyers": "5",
+    "Sellers": "4",
+    "Txns": "6",
+    "Owners": "3,280"
+  },
+  {
+    "Collection": "GhostKid",
+    "Sales (USD)": "6,675",
+    "Change (24h)": "5.71%",
+    "Sales": "207.21SOL",
+    "Buyers": "27",
+    "Sellers": "29",
+    "Txns": "33",
+    "Owners": "2,564"
+  },
+  {
+    "Collection": "Best Buds",
+    "Sales (USD)": "6,578",
+    "Change (24h)": "425.00%",
+    "Sales": "199.95SOL",
+    "Buyers": "29",
+    "Sellers": "28",
+    "Txns": "42",
+    "Owners": "2,214"
+  },
+  {
+    "Collection": "ALE",
+    "Sales (USD)": "6,542",
+    "Change (24h)": "17.52%",
+    "Sales": "205.39SOL",
+    "Buyers": "357",
+    "Sellers": "314",
+    "Txns": "965",
+    "Owners": "577"
+  },
+  {
+    "Collection": "Prime Ape Planet",
+    "Sales (USD)": "6,491",
+    "Change (24h)": "100.00%",
+    "Sales": "4.11",
+    "Buyers": "4",
+    "Sellers": "8",
+    "Txns": "8",
+    "Owners": "0"
+  },
+  {
+    "Collection": "8liens",
+    "Sales (USD)": "6,448",
+    "Change (24h)": "12.82%",
+    "Sales": "4.08",
+    "Buyers": "32",
+    "Sellers": "32",
+    "Txns": "44",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Rarikey",
+    "Sales (USD)": "6,263",
+    "Change (24h)": "19.05%",
+    "Sales": "194.30SOL",
+    "Buyers": "16",
+    "Sellers": "17",
+    "Txns": "17",
+    "Owners": "2,541"
+  },
+  {
+    "Collection": "The Sandbox",
+    "Sales (USD)": "6,253",
+    "Change (24h)": "15.58%",
+    "Sales": "3.90",
+    "Buyers": "48",
+    "Sellers": "49",
+    "Txns": "65",
+    "Owners": "19,033"
+  },
+  {
+    "Collection": "COWS",
+    "Sales (USD)": "6,160",
+    "Change (24h)": "50.50%",
+    "Sales": "190.57SOL",
+    "Buyers": "34",
+    "Sellers": "40",
+    "Txns": "50",
+    "Owners": "2,725"
+  },
+  {
+    "Collection": "Ape Reunion",
+    "Sales (USD)": "6,135",
+    "Change (24h)": "-",
+    "Sales": "3.84",
+    "Buyers": "28",
+    "Sellers": "27",
+    "Txns": "35",
+    "Owners": "0"
+  },
+  {
+    "Collection": "OG Atadians",
+    "Sales (USD)": "6,098",
+    "Change (24h)": "86.76%",
+    "Sales": "191.55SOL",
+    "Buyers": "9",
+    "Sellers": "9",
+    "Txns": "9",
+    "Owners": "2,272"
+  },
+  {
+    "Collection": "DDs",
+    "Sales (USD)": "6,038",
+    "Change (24h)": "119.61%",
+    "Sales": "187.91SOL",
+    "Buyers": "41",
+    "Sellers": "77",
+    "Txns": "112",
+    "Owners": "937"
+  },
+  {
+    "Collection": "ENS Maxis",
+    "Sales (USD)": "5,959",
+    "Change (24h)": "13.43%",
+    "Sales": "3.74",
+    "Buyers": "49",
+    "Sellers": "61",
+    "Txns": "76",
+    "Owners": "0"
+  },
+  {
+    "Collection": "adidasCapsule",
+    "Sales (USD)": "5,957",
+    "Change (24h)": "5.56%",
+    "Sales": "1520.24",
+    "Buyers": "12",
+    "Sellers": "15",
+    "Txns": "17",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Quirklings",
+    "Sales (USD)": "5,892",
+    "Change (24h)": "81.63%",
+    "Sales": "3.76",
+    "Buyers": "18",
+    "Sellers": "17",
+    "Txns": "18",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Infected Solympus",
+    "Sales (USD)": "5,882",
+    "Change (24h)": "28.57%",
+    "Sales": "182.00SOL",
+    "Buyers": "5",
+    "Sellers": "5",
+    "Txns": "5",
+    "Owners": "183"
+  },
+  {
+    "Collection": "DCity",
+    "Sales (USD)": "5,879",
+    "Change (24h)": "222.95%",
+    "Sales": "177.71SOL",
+    "Buyers": "259",
+    "Sellers": "281",
+    "Txns": "1534",
+    "Owners": "2,005"
+  },
+  {
+    "Collection": "Pengsol",
+    "Sales (USD)": "5,841",
+    "Change (24h)": "204.76%",
+    "Sales": "179.97SOL",
+    "Buyers": "42",
+    "Sellers": "46",
+    "Txns": "64",
+    "Owners": "2,177"
+  },
+  {
+    "Collection": "Smart Sea Society",
+    "Sales (USD)": "5,775",
+    "Change (24h)": "2.53%",
+    "Sales": "178.16SOL",
+    "Buyers": "52",
+    "Sellers": "64",
+    "Txns": "77",
+    "Owners": "2,679"
+  },
+  {
+    "Collection": "Gutter Juice",
+    "Sales (USD)": "5,762",
+    "Change (24h)": "650.00%",
+    "Sales": "3.59",
+    "Buyers": "14",
+    "Sellers": "6",
+    "Txns": "15",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Rags to Richie by Alec Monopoly",
+    "Sales (USD)": "5,754",
+    "Change (24h)": "36.36%",
+    "Sales": "3.62",
+    "Buyers": "5",
+    "Sellers": "6",
+    "Txns": "7",
+    "Owners": "0"
+  },
+  {
+    "Collection": "MV3NFT",
+    "Sales (USD)": "5,718",
+    "Change (24h)": "26.32%",
+    "Sales": "3.60",
+    "Buyers": "12",
+    "Sellers": "11",
+    "Txns": "14",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Degenerate Trash Pandas",
+    "Sales (USD)": "5,717",
+    "Change (24h)": "34.15%",
+    "Sales": "177.15SOL",
+    "Buyers": "19",
+    "Sellers": "22",
+    "Txns": "27",
+    "Owners": "19,369"
+  },
+  {
+    "Collection": "AI DeMobs ????",
+    "Sales (USD)": "5,653",
+    "Change (24h)": "-",
+    "Sales": "176.44SOL",
+    "Buyers": "84",
+    "Sellers": "94",
+    "Txns": "191",
+    "Owners": "215"
+  },
+  {
+    "Collection": "GensoKishiOnline",
+    "Sales (USD)": "5,592",
+    "Change (24h)": "63.33%",
+    "Sales": "6.98",
+    "Buyers": "26",
+    "Sellers": "35",
+    "Txns": "98",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Grumpy Dragon",
+    "Sales (USD)": "5,540",
+    "Change (24h)": "90.00%",
+    "Sales": "171.41SOL",
+    "Buyers": "27",
+    "Sellers": "35",
+    "Txns": "57",
+    "Owners": "5,146"
+  },
+  {
+    "Collection": "MetaHero",
+    "Sales (USD)": "5,501",
+    "Change (24h)": "400.00%",
+    "Sales": "3.44",
+    "Buyers": "3",
+    "Sellers": "4",
+    "Txns": "5",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Kaizoku Mechanics",
+    "Sales (USD)": "5,500",
+    "Change (24h)": "2,060.00%",
+    "Sales": "171.64SOL",
+    "Buyers": "125",
+    "Sellers": "152",
+    "Txns": "216",
+    "Owners": "2,015"
+  },
+  {
+    "Collection": "projectPXN",
+    "Sales (USD)": "5,487",
+    "Change (24h)": "14.29%",
+    "Sales": "3.44",
+    "Buyers": "15",
+    "Sellers": "15",
+    "Txns": "16",
+    "Owners": "0"
+  },
+  {
+    "Collection": "MOAR by Joan Cornella",
+    "Sales (USD)": "5,485",
+    "Change (24h)": "133.33%",
+    "Sales": "3.44",
+    "Buyers": "7",
+    "Sellers": "7",
+    "Txns": "7",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Blatant",
+    "Sales (USD)": "5,380",
+    "Change (24h)": "2.61%",
+    "Sales": "165.96SOL",
+    "Buyers": "106",
+    "Sellers": "134",
+    "Txns": "224",
+    "Owners": "1287"
+  },
+  {
+    "Collection": "RandomPandaClub",
+    "Sales (USD)": "5,373",
+    "Change (24h)": "78.17%",
+    "Sales": "3.34",
+    "Buyers": "6",
+    "Sellers": "27",
+    "Txns": "129",
+    "Owners": "0"
+  },
+  {
+    "Collection": "YTLSFHgtheVzPMhpoLK9mhssGoiRrkx5UzRgLp3M4RctT7V4",
+    "Sales (USD)": "5,247",
+    "Change (24h)": "604.26%",
+    "Sales": "163.67SOL",
+    "Buyers": "189",
+    "Sellers": "165",
+    "Txns": "662",
+    "Owners": "89"
+  },
+  {
+    "Collection": "ElectricSheep",
+    "Sales (USD)": "5,159",
+    "Change (24h)": "100.00%",
+    "Sales": "3.24",
+    "Buyers": "4",
+    "Sellers": "5",
+    "Txns": "6",
+    "Owners": "0"
+  },
+  {
+    "Collection": "3Landers",
+    "Sales (USD)": "5,080",
+    "Change (24h)": "5.56%",
+    "Sales": "3.20",
+    "Buyers": "15",
+    "Sellers": "19",
+    "Txns": "19",
+    "Owners": "0"
+  },
+  {
+    "Collection": "Boki",
+    "Sales (USD)": "5,078",
+    "Change (24h)": "5.00%",
+    "Sales": "3.22",
+    "Buyers": "18",
+    "Sellers": "17",
+    "Txns": "21",
+    "Owners": "0"
+  },
+  {
+    "Collection": "ABZ",
+    "Sales (USD)": "5,071",
+    "Change (24h)": "319.23%",
+    "Sales": "158.66SOL",
+    "Buyers": "97",
+    "Sellers": "121",
+    "Txns": "327",
+    "Owners": "235"
+  },
+  {
+    "Collection": "SolDough",
+    "Sales (USD)": "5,045",
+    "Change (24h)": "44.23%",
+    "Sales": "156.43SOL",
+    "Buyers": "52",
+    "Sellers": "48",
+    "Txns": "75",
+    "Owners": "10,114"
+  },
+  {
+    "Collection": "Trippy Bunny Tribe",
+    "Sales (USD)": "5,027",
+    "Change (24h)": "41.67%",
+    "Sales": "155.82SOL",
+    "Buyers": "11",
+    "Sellers": "17",
+    "Txns": "17",
+    "Owners": "738"
+  },
+  {
+    "Collection": "Tomoyoshi Masuwaka",
+    "Sales (USD)": "5,017",
+    "Change (24h)": "294.59%",
+    "Sales": "157.46SOL",
+    "Buyers": "59",
+    "Sellers": "78",
+    "Txns": "146",
+    "Owners": "1359"
+  },
+  {
+    "Collection": "MAGSKULLZ",
+    "Sales (USD)": "4,980",
+    "Change (24h)": "80.51%",
+    "Sales": "157.52SOL",
+    "Buyers": "47",
+    "Sellers": "37",
+    "Txns": "470",
+    "Owners": "48"
+  },
+  {
+    "Collection": "Magic Ticket",
+    "Sales (USD)": "4,834",
+    "Change (24h)": "68.29%",
+    "Sales": "147.55SOL",
+    "Buyers": "33",
+    "Sellers": "52",
+    "Txns": "69",
+    "Owners": "17,952"
+  }
+]
