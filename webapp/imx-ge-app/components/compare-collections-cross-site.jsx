@@ -1,5 +1,12 @@
 import PrintTable from "./print-table";
+import stringToNumber from "../utils/index";
 
+/**
+ * 
+ * @param {*} imxdata Immutable data array
+ * @param {} csData Cryptoslam data array
+ * @returns 
+ */
 export const CompareCollectionsAcrossSites = ({ imxdata, csData }) => {
   const collectionsInCommon = [];
 
@@ -17,7 +24,7 @@ export const CompareCollectionsAcrossSites = ({ imxdata, csData }) => {
         Txns: imxCollection.trade_count,
       };
       const differenceObject = {
-        Sales: mappedImxObject.Sales - matchingcsCollection.Sales,
+        Sales: mappedImxObject.Sales -  matchingcsCollection.Sales,
         Change: mappedImxObject.Change - matchingcsCollection.Change,
         Owners: mappedImxObject.Owners - matchingcsCollection.Owners,
         Txns: mappedImxObject.Txns - matchingcsCollection.Txns,

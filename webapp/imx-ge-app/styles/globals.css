@@ -19,20 +19,26 @@ a {
 }
 
 table {
-  border-radius: 1em;
-  background-color: #ffffffde;
-  color: #111;
   padding: 1em;
   margin-top:1rem;
   width: 100%;
+  border-collapse: collapse;
+  background-color: whitesmoke;
+  color: #000;
 }
 tr{
-  border-bottom: 1px solid red;
-  align-content: center;
+  border-bottom: 1px solid #999;
+  border-top: 1px solid #999;
+}
+td{
+  border-right: 1px solid #999;
+  border-left: 1px solid #999;
+  padding:  0px 1em;
 }
 
 table.immutascan {
-  background-color: #e3ffe9;  
+  color: #000;
+  background-color: azure;
 }
 .tableHeading{
   font-weight: 500;
