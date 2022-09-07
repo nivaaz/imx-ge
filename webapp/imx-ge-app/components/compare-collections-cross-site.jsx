@@ -54,7 +54,7 @@ export const CompareCollectionsAcrossSites = ({ imxdata, csData }) => {
           {c?.ima && <PrintTable tableType="immutascan" data={[c.ima]} />}
           <p> Cryptoslam </p>
           {c?.cs && <PrintTable data={[c.cs]} />}
-          <p>Difference </p>
+          <p>Difference between both websites</p>
           {c?.change && <PrintTable data={[c.change]} />}
         </>
       ))}
