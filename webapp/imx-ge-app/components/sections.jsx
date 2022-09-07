@@ -52,7 +52,7 @@ export const Sections = () => {
               might be coming from, we have pulled together some numbers to
               understand the differences.
             </p>
-
+            <p> All Immutascan tables will be in blue and Cryptoscan in grey.</p>
             <section>
               <h2> ✨ Section 1</h2>
               <p>

@@ -1,5 +1,9 @@
 import PrintTable from "./print-table";
 
+const getPercentageChange = (change, total) =>{
+  return Math.round(change/total*100)/100
+}
+
 /**
  * 
  * @param {*} imxdata Immutable data array
@@ -18,18 +22,17 @@ export const CompareCollectionsAcrossSites = ({ imxdata, csData }) => {
     if (!!matchingcsCollection?.Collection) {
       const mappedImxObject = {
         Sales: imxCollection.trade_volume_usd,
-        Change: imxCollection.change.trade_volume_usd,
+        "Change% (30d)": getPercentageChange(imxCollection.change.trade_volume_usd,imxCollection.trade_volume_usd ),
         Owners: imxCollection.owner_count,
         Txns: imxCollection.trade_count,
       };
       const differenceObject = {
-        Sales: mappedImxObject.Sales -  matchingcsCollection.Sales,
-        Change: mappedImxObject.Change - matchingcsCollection.Change,
+        Sales: Math.round((mappedImxObject.Sales -  matchingcsCollection["Sales (USD)"])*100)/100,
+        Owners: mappedImxObject['Change% (30d)'] - matchingcsCollection['Change% (30d)'],
         Owners: mappedImxObject.Owners - matchingcsCollection.Owners,
-        Txns: mappedImxObject.Txns - matchingcsCollection.Txns,
+        Txns: Math.round((mappedImxObject.Txns - matchingcsCollection.Txns)*100)/100,
       };
       const csObject = { ...matchingcsCollection };
-
       delete csObject.Collection;
       collectionsInCommon.push({
         name: imxName,
@@ -46,9 +49,12 @@ export const CompareCollectionsAcrossSites = ({ imxdata, csData }) => {
       from Cryptoslam and Immutascan.
       {collectionsInCommon.map((c) => (
         <>
-          <p> 🚀{c?.name} </p>
+          <h4> 🚀{c?.name} </h4>
+          <p> Immutascan </p>
           {c?.ima && <PrintTable tableType="immutascan" data={[c.ima]} />}
+          <p> Cryptoslam </p>
           {c?.cs && <PrintTable data={[c.cs]} />}
+          <p>Difference </p>
           {c?.change && <PrintTable data={[c.change]} />}
         </>
       ))}
