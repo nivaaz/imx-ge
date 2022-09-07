@@ -27,10 +27,10 @@ export const CompareCollectionsAcrossSites = ({ imxdata, csData }) => {
         Txns: imxCollection.trade_count,
       };
       const differenceObject = {
-        Sales: Math.round((mappedImxObject.Sales -  matchingcsCollection["Sales (USD)"])*100)/100,
-        Owners: mappedImxObject['Change% (30d)'] - matchingcsCollection['Change% (30d)'],
-        Owners: mappedImxObject.Owners - matchingcsCollection.Owners,
-        Txns: Math.round((mappedImxObject.Txns - matchingcsCollection.Txns)*100)/100,
+        Sales: Math.abs(Math.round((mappedImxObject.Sales -  matchingcsCollection["Sales (USD)"])*100)/100),
+        Change: Math.abs(mappedImxObject['Change% (30d)'] - matchingcsCollection['Change% (30d)']),
+        Owners: Math.abs(mappedImxObject.Owners - matchingcsCollection.Owners),
+        Txns: Math.abs(Math.round((mappedImxObject.Txns - matchingcsCollection.Txns)*100)/100),
       };
       const csObject = { ...matchingcsCollection };
       delete csObject.Collection;
