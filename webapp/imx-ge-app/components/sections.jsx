@@ -1,5 +1,3 @@
-import { GetDataButton } from "./get-data-button";
-import { UploadDataButton } from "./upload-data-button";
 import styles from "../styles/Home.module.css";
 import FirebaseContext from "../pages/api/firebaseContext";
 import { ChainsTable } from "./compare-chains-table";
