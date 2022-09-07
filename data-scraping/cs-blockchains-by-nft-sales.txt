@@ -1,0 +1,46 @@
+// from here https://cryptoslam.io/
+
+	Blockchain	Sales	Change (24h)	Buyers	Txns
+1	 Ethereum	$11019376	 26.09	14211	26928
+2	 Solana	    $2978328	 21.56	14794	65069
+3	 BNB	    $606115	     41.03	4032	1938
+4	 Polygon	$479264	     69.00	3645	5653
+5	 Flow	    $388192	     67.07	3116	17859
+6	 Ronin	    $176781	     2.51	5175	11286
+7	 WAX	    $36454	     31.63	1170	9102
+8	 Tezos	    $26569	     2.32	854	    1716
+9	 Avalanche	$21784	     6.87	199	    371
+10	 Panini	    $21322	     7.24	189	    1331
+
+
+Immutascan:
+change in the last 24 hours give todays data and yesterdays data.
+// ideally you would compare this to the hour and not just todays total and yesterdays total.
+// for item idx 2 and 3 i.e. 31st aug
+{
+  type: '24h diff'
+  trade_volume_usd: -19493.85
+  trade_volume_eth: -18.246372286000113
+  trade_count: 4642
+  owner_count: -906
+}
+{ 
+    "type": "2022-08-31",
+    "trade_volume_usd": 2031563.99,
+    "trade_volume_eth": 1294.945671843,
+    "trade_count": 27808,
+    "owner_count": 1199073,
+},
+{
+    "type": "2022-08-30",
+    "trade_volume_usd": 2051057.84,
+    "trade_volume_eth": 1313.192044129,
+    "trade_count": 23166,
+    "owner_count": 1199979,
+},
+
+Cryptoslam: https://cryptoslam.io/blockchains/ImmutableX
+table: date             sales      uniqbuyers uniqsellers totatxn averafesalesinusd
+entry:31-08-22	$107060.53	        681	       1580	       7884   	$13.58
+change in sales USD: 1951586.28
+sales for the day before: 2,058,646.81

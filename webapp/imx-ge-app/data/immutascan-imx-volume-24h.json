@@ -1,0 +1,49 @@
+{
+  "name": "immutable x",
+  "address": "0xacb3c6a43d15b907e8433077b6d38ae40936fe2c",
+  "24h": {
+    "trade_volume_usd": 54102.28,
+    "trade_volume_eth": 32.780051455,
+    "trade_count": 10371,
+    "owner_count": 1199816,
+    "change": {
+      "trade_volume_usd": -1164757.0999999999,
+      "trade_volume_eth": -729.7612038039999,
+      "trade_count": -15313,
+      "owner_count": -30
+    }
+  },
+  "7d": {
+    "trade_volume_usd": 9136994.799999999,
+    "trade_volume_eth": 5801.638567522,
+    "trade_count": 171390,
+    "owner_count": 8397113,
+    "change": {
+      "trade_volume_usd": -1996955.56,
+      "trade_volume_eth": -1280.411992674,
+      "trade_count": -12795,
+      "owner_count": -163
+    }
+  },
+  "30d": {
+    "trade_volume_usd": 33065911.19,
+    "trade_volume_eth": 19922.434320480006,
+    "trade_count": 594631,
+    "owner_count": 35894394,
+    "change": {
+      "trade_volume_usd": -677402.81,
+      "trade_volume_eth": -396.93266095599995,
+      "trade_count": -4873,
+      "owner_count": 10330
+    }
+  },
+  "total": {
+    "type": "total",
+    "trade_volume_usd": 302760015.1648641,
+    "trade_volume_eth": 113371.482640603,
+    "floor_price_usd": null,
+    "floor_price_eth": null,
+    "trade_count": 9833918,
+    "owner_count": 1199816
+  }
+}

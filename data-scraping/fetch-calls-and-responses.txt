@@ -1,0 +1,108 @@
+fetch("https://3vkyshzozjep5ciwsh2fvgdxwy.appsync-api.us-west-2.amazonaws.com/graphql", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/json",
+    "sec-ch-ua": "\"Chromium\";v=\"104\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"104\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "x-api-key": "da2-ihd6lsinwbdb3e6c6ocfkab2nm"
+  },
+  "referrer": "https://immutascan.io/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"operationName\":\"getMetrics\",\"variables\":{\"address\":\"0x9e0d99b864e1ac12565125c5a82b59adea5a09cd\"},\"query\":\"query getMetrics($address: String!) {\\n  getMetrics(address: $address, type: \\\"total\\\") {\\n    trade_count\\n    owner_count\\n    transaction_count\\n    trade_proceeds_usd\\n    trade_proceeds_eth\\n    trade_spend_usd\\n    trade_spend_eth\\n    trade_volume_usd\\n    trade_volume_eth\\n    mint_token_count\\n    floor_price_usd\\n    floor_price_eth\\n    __typename\\n  }\\n}\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "omit"
+});
+
+gives response:
+ "data": {
+    "getMetrics": {
+      "trade_count": 4147,
+      "owner_count": 6393,
+      "transaction_count": null,
+      "trade_proceeds_usd": null,
+      "trade_proceeds_eth": null,
+      "trade_spend_usd": null,
+      "trade_spend_eth": null,
+      "trade_volume_usd": 6577738.78,
+      "trade_volume_eth": 4250.51256478,
+      "mint_token_count": 20000,
+      "floor_price_usd": 379.42962,
+      "floor_price_eth": 0.2374468,
+      "__typename": "Metrics"
+    }
+  }
+
+  fetch("https://3vkyshzozjep5ciwsh2fvgdxwy.appsync-api.us-west-2.amazonaws.com/graphql", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/json",
+    "sec-ch-ua": "\"Chromium\";v=\"104\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"104\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "x-api-key": "da2-ihd6lsinwbdb3e6c6ocfkab2nm"
+  },
+  "referrer": "https://immutascan.io/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"operationName\":\"listTransactionsV2\",\"variables\":{\"address\":\"0x9e0d99b864e1ac12565125c5a82b59adea5a09cd\",\"pageSize\":20,\"txnType\":null},\"query\":\"query listTransactionsV2($address: String!, $pageSize: Int, $nextToken: String, $txnType: String, $maxTime: Float) {\\n  listTransactionsV2(\\n    address: $address\\n    limit: $pageSize\\n    nextToken: $nextToken\\n    txnType: $txnType\\n    maxTime: $maxTime\\n  ) {\\n    items {\\n      txn_time\\n      txn_id\\n      txn_type\\n      transfers {\\n        from_address\\n        to_address\\n        token {\\n          type\\n          quantity\\n          usd_rate\\n          token_address\\n          token_id\\n          __typename\\n        }\\n        __typename\\n      }\\n      __typename\\n    }\\n    nextToken\\n    lastUpdated\\n    txnType\\n    maxTime\\n    scannedCount\\n    __typename\\n  }\\n}\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "omit"
+});
+
+above gives transactions list.
+
+fetch("https://3vkyshzozjep5ciwsh2fvgdxwy.appsync-api.us-west-2.amazonaws.com/graphql", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/json",
+    "sec-ch-ua": "\"Chromium\";v=\"104\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"104\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "x-api-key": "da2-ihd6lsinwbdb3e6c6ocfkab2nm"
+  },
+  "referrer": "https://immutascan.io/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"operationName\":\"getMetricsAll\",\"variables\":{\"address\":\"0x9e0d99b864e1ac12565125c5a82b59adea5a09cd\"},\"query\":\"query getMetricsAll($address: String!) {\\n  getMetricsAll(address: $address) {\\n    items {\\n      type\\n      trade_volume_usd\\n      trade_volume_eth\\n      floor_price_usd\\n      floor_price_eth\\n      trade_count\\n      owner_count\\n      __typename\\n    }\\n    __typename\\n  }\\n  latestTrades(address: $address) {\\n    items {\\n      transfers {\\n        token {\\n          token_address\\n          quantity\\n          token_id\\n          type\\n          usd_rate\\n          __typename\\n        }\\n        __typename\\n      }\\n      txn_time\\n      txn_id\\n      __typename\\n    }\\n    __typename\\n  }\\n}\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "omit"
+});
+
+all metrics for above
+
+fetch("https://3vkyshzozjep5ciwsh2fvgdxwy.appsync-api.us-west-2.amazonaws.com/graphql", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/json",
+    "sec-ch-ua": "\"Chromium\";v=\"104\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"104\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "x-api-key": "da2-ihd6lsinwbdb3e6c6ocfkab2nm"
+  },
+  "referrer": "https://immutascan.io/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"operationName\":\"getCollectionHolders\",\"variables\":{\"address\":\"0x9e0d99b864e1ac12565125c5a82b59adea5a09cd\"},\"query\":\"query getCollectionHolders($address: String!, $nextToken: String) {\\n  getCollectionHolders(address: $address, nextToken: $nextToken) {\\n    items {\\n      wallet_address\\n      token_count\\n      __typename\\n    }\\n    nextToken\\n    __typename\\n  }\\n}\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "omit"
+});
+
+above is collection holders.
