@@ -1,4 +1,4 @@
-const collectionAddresses = require("./imx-collection-addresses-2.json"); 
+const collectionAddresses = require("../output-data/imx-collection-addresses-2.json");
 const fetch = require("node-fetch");
 const fs = require("fs");
 
@@ -11,36 +11,39 @@ const listOfFields = [
 
 /**
  * fetched from network api call on the collection page on immutascan!
- * @param {string} addr 
+ * @param {string} addr
  * @returns {Response} https://developer.mozilla.org/en-US/docs/Web/API/Response
  */
 const getFetchCallForGivenCollectionAddress = async (addr) => {
-  const res = await fetch(
-    "https://3vkyshzozjep5ciwsh2fvgdxwy.appsync-api.us-west-2.amazonaws.com/graphql",
-    {
-      headers: {
-        accept: "application/json",
-        "content-type": "application/json",
-        "x-api-key": "da2-ihd6lsinwbdb3e6c6ocfkab2nm",
-      },
-      body:
-        '{"operationName":"getMetricsAll","variables":{"address":"' +
-        addr +
-        '"},"query":"query getMetricsAll($address: String!) {  getMetricsAll(address: $address) {    items {      type      trade_volume_usd      trade_volume_eth      floor_price_usd      floor_price_eth      trade_count      owner_count          }      }  latestTrades(address: $address) {    items {      transfers {        token {          token_address          quantity          token_id          type          usd_rate                  }              }      txn_time      txn_id          }      }}"}',
-      method: "POST",
-    }
-  );
+  const res = await fetch("https://3vkyshzozjep5ciwsh2fvgdxwy.appsync-api.us-west-2.amazonaws.com/graphql", {
+    "headers": {
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": "application/json",
+      "sec-ch-ua": "\"Chromium\";v=\"104\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"104\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "cross-site",
+      "x-api-key": "da2-ihd6lsinwbdb3e6c6ocfkab2nm",
+      "Referer": "https://immutascan.io/",
+      "Referrer-Policy": "strict-origin-when-cross-origin"
+    },
+    "body": "{\"operationName\":\"getMetricsAll\",\"variables\":{\"address\":\""+ addr+"\"},\"query\":\"query getMetricsAll($address: String!) {\\n  getMetricsAll(address: $address) {\\n    items {\\n      type\\n      trade_volume_usd\\n      trade_volume_eth\\n      floor_price_usd\\n      floor_price_eth\\n      trade_count\\n      owner_count\\n      __typename\\n    }\\n    __typename\\n  }\\n  latestTrades(address: $address) {\\n    items {\\n      transfers {\\n        token {\\n          token_address\\n          quantity\\n          token_id\\n          type\\n          usd_rate\\n          __typename\\n        }\\n        __typename\\n      }\\n      txn_time\\n      txn_id\\n      __typename\\n    }\\n    __typename\\n  }\\n}\"}",
+    "method": "POST"
+  });
+
   return res;
 };
 
 /**
  * write result into file
- * @param {string} content 
+ * @param {string} content
  */
-const writeToFile = (content) => {
+const writeToFile = (filename, content) => {
   try {
-    fs.appendFileSync("./immutascan-s2-collection-data.json", content); // for all collections
-    // fs.appendFileSync("./immutascan-imx-volume-24h.json", content); // for imx only.
+    fs.appendFileSync(filename, content); // for imx only.
   } catch (err) {
     console.error(err);
   }
@@ -102,7 +105,6 @@ const getDiffBetweenObjects = (a, b) => {
  */
 const getAllTimeTotal = (items) => {
   const totalData = items[0];
-  // verify this is the total data
   if (totalData.type !== "total") {
     throw Error("total data item not found ");
   }
@@ -162,7 +164,7 @@ const getTotalsForLastXd = (items, bottomIndexRange, topIndexRange) => {
 };
 
 /**
- * 
+ *
  * @param {{
  * latestTrades:{
  * items:{
@@ -171,21 +173,25 @@ const getTotalsForLastXd = (items, bottomIndexRange, topIndexRange) => {
  * token_address: string
  * }
  * }[]
- * }}}} data 
+ * }}}} data
  * @returns {string}
  */
 const getTokenAddressFromResponse = (data) => {
   const trades = data.latestTrades.items;
+  console.log(data)
+  console.log(trades)
+
   const trade = trades.find(
     (item) =>
       !!item.transfers.find((transfer) => !!transfer.token.token_address)
   );
-  const transferWithAddress = trade.transfers.find(
-    (transfer) => !!transfer.token.token_address
+
+  const transferWithAddress = trade?.transfers.find(
+    (transfer) => !!transfer?.token?.token_address
   );
+
   return transferWithAddress.token.token_address;
 };
-
 
 /**
  * get the volume totals for a given data response for 24h, 7d and 30d
@@ -204,43 +210,53 @@ const getTokenAddressFromResponse = (data) => {
 }[]} data 
  * @param {string} collectionName 
  */
-const getTotalsAndWrite = (data, collectionName) => {
+const getTotalsAndWrite = (filename, data, collectionName, addr) => {
   const items = data.getMetricsAll.items;
   const totals = {
     name: collectionName,
-    address: getTokenAddressFromResponse(data),
+    address: addr,
     "24h": getTotalsForLastXd(items, 1, 2),
     "7d": getTotalsForLastXd(items, 1, 8),
     "30d": getTotalsForLastXd(items, 1, 31),
     total: getAllTimeTotal(items),
   };
-  writeToFile(JSON.stringify(totals));
+  writeToFile(filename, JSON.stringify(totals));
 };
 
 /**
  * given a list of collection addresses, batch the fetch requests from immutascan and store data
  * @param {{"address":string, "name":string}[]} collections
  */
-const fetchDataFromCollections = async (collections) => {
-  writeToFile("[");
+const fetchDataFromCollections = async (filename, collections) => {
+  writeToFile(filename, "[");
 
   collections.forEach(async (collectionItem) => {
     const response = await getFetchCallForGivenCollectionAddress(
       collectionItem.address
     );
     const res = await response.json();
-    getTotalsAndWrite(res.data, collectionItem.name);
-    writeToFile(",");
+    console.log(res.data);
+    getTotalsAndWrite(filename, res.data, collectionItem.name, collectionItem.address);
+    writeToFile(filename, ",");
   });
-  writeToFile("]");
+  writeToFile(filename, "]");
 };
 
-const getVolumeForImmutableXFromImmutascanOver24h = async () =>{
-  const response = await getFetchCallForGivenCollectionAddress('global');
+const getVolumeForImmutableXFromImmutascanOver24h = async () => {
+  const response = await getFetchCallForGivenCollectionAddress("global");
   const res = await response.json();
-  getTotalsAndWrite(res.data, "immutable x");
-}
+  getTotalsAndWrite(
+    "../output-data/immutascan-imx-chain-data-24h.json",
+    res.data,
+    "immutable x"
+  );
+};
 
-// FUNCTION CALLS
-fetchDataFromCollections(collectionAddresses);
-// getVolumeForImmutableXFromImmutascanOver24h()
+/* 
+  FUNCTION CALLS  
+*/
+fetchDataFromCollections(
+  "../output-data/immutascan-collection-data.json",
+  collectionAddresses
+);
+getVolumeForImmutableXFromImmutascanOver24h();

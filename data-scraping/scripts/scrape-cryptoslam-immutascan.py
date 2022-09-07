@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from selenium import webdriver
-
+import re
 import numpy as np
 import time
 
@@ -33,7 +33,7 @@ def getIMXCollections():
     
     collections = soup.find_all('p')
     
-    f = open("imx-collections.txt", "a", encoding="utf-8")
+    f = open("../output-data/imx-collections.txt", "a", encoding="utf-8")
     
     for collection in collections:
         collectionData = collection.getText()
@@ -56,7 +56,7 @@ def getCsBlockchainsByNftSales24h():
     headings = collectionTable[2].find_all('th')
     children = collectionTable[2].findChildren('td')  # get the td elements in that table
 
-    f = open("cs-blockchains-by-nft-sales-volume.json", "a", encoding="utf-8")
+    f = open("../output-data/cs-blockchains-by-nft-sales-volume.json", "a", encoding="utf-8")
 
     fieldsList = []
     dataList = []
@@ -69,7 +69,7 @@ def getCsBlockchainsByNftSales24h():
     lengthOfArr = len(fieldsList)
     for idx, child in enumerate(children):
         stringToPrint = str(child.getText()).strip()
-        tempItem[fieldsList[idx%lengthOfArr]] = stringToPrint
+        tempItem[fieldsList[idx%lengthOfArr]] = re.sub("\,|ETH|\%|\$",'', stringToPrint)
         if (idx%lengthOfArr == 0 or idx == lengthOfArr-1 ):
             dataList.append(tempItem)
             tempItem = {}
@@ -87,7 +87,7 @@ def checkCryptoSlamDataHasAllImxCollections():
     # get all the imx collection names:
     lenImxScanFile = 600
     numLinesBetweenCollectionsImx = 6
-    f = open("imx-collections.txt", "r", encoding="utf-8")
+    f = open("../output-data/imx-collections.txt", "r", encoding="utf-8")
     fileopened = f.readlines()
 
     for counter in range(1,lenImxScanFile ,numLinesBetweenCollectionsImx):
@@ -100,12 +100,15 @@ def checkCryptoSlamDataHasAllImxCollections():
     # get all the cryptoslam collection names
     lenCryptoSlamFile = 1500 # got from looking at the number of file lines manually.
     numLinesBetweenCollections = 6 # manually worked it out
-    f = open("imx-cyptoslam-collections.txt", "r", encoding="utf-8")
+    
+    f = open("../output-data/imx-cyptoslam-collections.txt", "r", encoding="utf-8")
     fileopened = f.readlines()
+ 
     for counter in range(1,lenCryptoSlamFile ,numLinesBetweenCollections):
         collectionName = fileopened[counter]
         cryptoSlamCollectionNames.append(collectionName[:len(collectionName)//2])  #remove duplicate collection name, could be moved to when we scrape data.
     f.close()
+ 
     # get difference between two sets of data
     diff =  np.intersect1d(imxCollectionNames, cryptoSlamCollectionNames)
     print(diff)
@@ -120,10 +123,10 @@ def getImmutascanCollectionAddresses():
     collections = soup.find_all('a',  href=True)
 
     collectionData = {} 
-    f = open("imx-collection-addresses-2.json", "a", encoding="utf-8")
+    f = open("../output-data/imx-collection-addresses-2.json", "a", encoding="utf-8")
     f.write('[')
     for  collection in collections:
-        collectionData['href'] = str(collection['href']).strip() 
+        collectionData['address'] = re.sub("\/address\/|\?tab=1\&forSale=true", "", str(collection['href']).strip())  
         collectionData['name'] = str(collection.getText()).strip()
 
         if(collectionData):
@@ -146,7 +149,7 @@ def getCsCollectionRankingsByTimeFrame(timeFrame):
     headings = soup.find_all('th')
     children = soup.find_all('td')
 
-    f = open("cryptoslam-nft-ranking-sales-volume" + timeFrame + ".json", "a", encoding="utf-8")
+    f = open("../output-data/cryptoslam-nft-ranking-sales-volume" + timeFrame + ".json", "a", encoding="utf-8")
 
     fieldsList = []
     dataList = []
@@ -159,7 +162,7 @@ def getCsCollectionRankingsByTimeFrame(timeFrame):
     lengthOfArr = len(fieldsList)
     for idx, child in enumerate(children):
         stringToPrint = str(child.getText()).strip()
-        tempItem[fieldsList[idx%lengthOfArr]] = stringToPrint
+        tempItem[fieldsList[idx%lengthOfArr]] = re.sub("\,|ETH|\%|\$",'', stringToPrint)
         if (idx%lengthOfArr == 0 or idx == lengthOfArr-1 ):
             dataList.append(tempItem)
             tempItem = {}
@@ -177,6 +180,6 @@ def getAllCsCollectionRanking():
 
 # ***** FUCNTION TO RUN ***** 
 # getImmutascanCollectionAddresses()
-
 # getCsBlockchainsByNftSales24h()
-getAllCsCollectionRanking()
+# getAllCsCollectionRanking()
+getImmutascanCollectionAddresses()
