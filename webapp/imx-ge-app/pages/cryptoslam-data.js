@@ -1,6 +1,6 @@
-import cSlam7dData from "../data/cryoto-slam-nft0ranking-sales-colume7d.json";
-import cSlam24hData from "../data/cryoto-slam-nft0ranking-sales-colume24h.json";
-import cSlam30dData from "../data/cryoto-slam-nft0ranking-sales-colume30d.json";
+import cSlam7dData from "../data/cryptoslam-nft-ranking-sales-volume7d.json";
+import cSlam24hData from "../data/cryptoslam-nft-ranking-sales-volume24h.json";
+import cSlam30dData from "../data/cryptoslam-nft-ranking-sales-volume30d.json";
 import PrintTable from "../components/print-table";
 import { useState } from "react";
 
@@ -30,7 +30,7 @@ const CryptoSlamData = () => {
       {views.map((view) => {
         const isSelected = view === selectedView;
         return (
-          <button
+          <button key = {view}
             className={isSelected ? "selectedView" : ""}
             onClick={handleClick}
             value={view}
