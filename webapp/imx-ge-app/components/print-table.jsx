@@ -4,10 +4,12 @@
  * @returns 
  */
 const PrintTable = (props) => {
-  const { data, tableType } = props;
+  const { data, tableType, dontShowBlockchain } = props;
 
-  const headings = [...Object.keys(data[0])]
-
+  let headings = [...Object.keys(data[0])]
+  if (dontShowBlockchain){
+    headings = headings.filter(h=> h.toLowerCase() !== 'blockchain')
+  }
   const tableData = data.map((d) => {
     return (
       <tr key={d + tableType}>

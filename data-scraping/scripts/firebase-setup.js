@@ -1,5 +1,10 @@
 const { initializeApp } = require("firebase/app");
 
+/**
+ * 
+ * This is an initial file to start thinking about how we might interface with firebase to upload data.
+ */
+
 // Import the functions you need from the SDKs you need
 
 // TODO: Add SDKs for Firebase products that you want to use

@@ -2,7 +2,7 @@
   {
     "Collection": "Uniswap V3 NFTV1 Polygon",
     "Sales (USD)": "94269279",
-    "Change (30d)": "5.34",
+    "Change% (30d)": "5.34",
     "Sales": "1301770011947.47",
     "Buyers": "904",
     "Sellers": "141",
@@ -12,7 +12,7 @@
   {
     "Collection": "Bored Ape Yacht Club",
     "Sales (USD)": "50193571",
-    "Change (30d)": "12.67",
+    "Change% (30d)": "12.67",
     "Sales": "955054.45",
     "Buyers": "236",
     "Sellers": "261",
@@ -22,7 +22,7 @@
   {
     "Collection": "Sorare",
     "Sales (USD)": "31909645",
-    "Change (30d)": "10.23",
+    "Change% (30d)": "10.23",
     "Sales": "18585.89",
     "Buyers": "40779",
     "Sellers": "42832",
@@ -32,7 +32,7 @@
   {
     "Collection": "ImmutaSwap.io",
     "Sales (USD)": "25230539",
-    "Change (30d)": "118.33",
+    "Change% (30d)": "118.33",
     "Sales": "16151.62",
     "Buyers": "905",
     "Sellers": "817",
@@ -42,7 +42,7 @@
   {
     "Collection": "Mutant Ape Yacht Club",
     "Sales (USD)": "23265654",
-    "Change (30d)": "3.02",
+    "Change% (30d)": "3.02",
     "Sales": "94980.31",
     "Buyers": "699",
     "Sellers": "723",
@@ -52,7 +52,7 @@
   {
     "Collection": "Otherdeed",
     "Sales (USD)": "21990666",
-    "Change (30d)": "9.54",
+    "Change% (30d)": "9.54",
     "Sales": "95797.04",
     "Buyers": "1924",
     "Sellers": "2236",
@@ -62,7 +62,7 @@
   {
     "Collection": "CryptoPunks",
     "Sales (USD)": "20925945",
-    "Change (30d)": "65.44",
+    "Change% (30d)": "65.44",
     "Sales": "11924.32",
     "Buyers": "86",
     "Sellers": "93",
@@ -72,7 +72,7 @@
   {
     "Collection": "Moonbirds",
     "Sales (USD)": "15631355",
-    "Change (30d)": "31.56",
+    "Change% (30d)": "31.56",
     "Sales": "19192.42",
     "Buyers": "506",
     "Sellers": "491",
@@ -82,7 +82,7 @@
   {
     "Collection": "CloneX",
     "Sales (USD)": "12577162",
-    "Change (30d)": "37.27",
+    "Change% (30d)": "37.27",
     "Sales": "7597.43",
     "Buyers": "672",
     "Sellers": "645",
@@ -92,7 +92,7 @@
   {
     "Collection": "RareApepeYachtClub",
     "Sales (USD)": "11209710",
-    "Change (30d)": "11.02",
+    "Change% (30d)": "11.02",
     "Sales": "6418.04",
     "Buyers": "3524",
     "Sellers": "3205",
@@ -102,7 +102,7 @@
   {
     "Collection": "DigiDaigaku",
     "Sales (USD)": "10410269",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "6612.00",
     "Buyers": "1107",
     "Sellers": "1464",
@@ -112,7 +112,7 @@
   {
     "Collection": "8liens",
     "Sales (USD)": "9937884",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "5546.44",
     "Buyers": "5685",
     "Sellers": "7898",
@@ -122,7 +122,7 @@
   {
     "Collection": "Art Blocks",
     "Sales (USD)": "8989193",
-    "Change (30d)": "48.93",
+    "Change% (30d)": "48.93",
     "Sales": "5396.07",
     "Buyers": "1771",
     "Sellers": "2423",
@@ -132,7 +132,7 @@
   {
     "Collection": "Pudgy Penguins",
     "Sales (USD)": "8540343",
-    "Change (30d)": "101.65",
+    "Change% (30d)": "101.65",
     "Sales": "5115.23",
     "Buyers": "789",
     "Sellers": "788",
@@ -142,7 +142,7 @@
   {
     "Collection": "Azuki",
     "Sales (USD)": "8452542",
-    "Change (30d)": "47.38",
+    "Change% (30d)": "47.38",
     "Sales": "33094.91",
     "Buyers": "416",
     "Sellers": "423",
@@ -152,7 +152,7 @@
   {
     "Collection": "Women Ape Yacht Club",
     "Sales (USD)": "8275974",
-    "Change (30d)": "521.14",
+    "Change% (30d)": "521.14",
     "Sales": "5017.14",
     "Buyers": "2629",
     "Sellers": "1237",
@@ -162,7 +162,7 @@
   {
     "Collection": "Doodles",
     "Sales (USD)": "8032334",
-    "Change (30d)": "5.39",
+    "Change% (30d)": "5.39",
     "Sales": "162923.49",
     "Buyers": "432",
     "Sellers": "455",
@@ -172,7 +172,7 @@
   {
     "Collection": "Meebits",
     "Sales (USD)": "7341309",
-    "Change (30d)": "4.51",
+    "Change% (30d)": "4.51",
     "Sales": "4159.72",
     "Buyers": "548",
     "Sellers": "497",
@@ -182,7 +182,7 @@
   {
     "Collection": "Ethereum Name Service",
     "Sales (USD)": "7238845",
-    "Change (30d)": "11.34",
+    "Change% (30d)": "11.34",
     "Sales": "4326.12",
     "Buyers": "5986",
     "Sellers": "5826",
@@ -192,7 +192,7 @@
   {
     "Collection": "NFL All Day",
     "Sales (USD)": "7237421",
-    "Change (30d)": "97.93",
+    "Change% (30d)": "97.93",
     "Sales": "7237421.00Flow",
     "Buyers": "16469",
     "Sellers": "20806",
@@ -202,7 +202,7 @@
   {
     "Collection": "DeGods",
     "Sales (USD)": "6378676",
-    "Change (30d)": "59.45",
+    "Change% (30d)": "59.45",
     "Sales": "190041.00SOL",
     "Buyers": "313",
     "Sellers": "342",
@@ -212,7 +212,7 @@
   {
     "Collection": "y00ts mint t00b",
     "Sales (USD)": "6110381",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "186563.01SOL",
     "Buyers": "862",
     "Sellers": "1192",
@@ -222,7 +222,7 @@
   {
     "Collection": "NBA Top Shot",
     "Sales (USD)": "6067891",
-    "Change (30d)": "32.22",
+    "Change% (30d)": "32.22",
     "Sales": "6067891.00Flow",
     "Buyers": "14899",
     "Sellers": "29074",
@@ -232,7 +232,7 @@
   {
     "Collection": "Axie Infinity",
     "Sales (USD)": "5653654",
-    "Change (30d)": "12.75",
+    "Change% (30d)": "12.75",
     "Sales": "3326.94",
     "Buyers": "43395",
     "Sellers": "43121",
@@ -242,7 +242,7 @@
   {
     "Collection": "Potatoz",
     "Sales (USD)": "5310474",
-    "Change (30d)": "78.60",
+    "Change% (30d)": "78.60",
     "Sales": "4593.70",
     "Buyers": "1404",
     "Sellers": "1261",
@@ -252,7 +252,7 @@
   {
     "Collection": "Bored Ape Kennel Club",
     "Sales (USD)": "5261425",
-    "Change (30d)": "24.27",
+    "Change% (30d)": "24.27",
     "Sales": "21900.23",
     "Buyers": "310",
     "Sellers": "330",
@@ -262,7 +262,7 @@
   {
     "Collection": "ABC",
     "Sales (USD)": "4848468",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "144196.80SOL",
     "Buyers": "7777",
     "Sellers": "6340",
@@ -272,7 +272,7 @@
   {
     "Collection": "Black Box",
     "Sales (USD)": "4830767",
-    "Change (30d)": "1066.92",
+    "Change% (30d)": "1066.92",
     "Sales": "3102.86",
     "Buyers": "4006",
     "Sellers": "2210",
@@ -282,7 +282,7 @@
   {
     "Collection": "CryptoDickbutts S3",
     "Sales (USD)": "4777888",
-    "Change (30d)": "4.64",
+    "Change% (30d)": "4.64",
     "Sales": "19713.85",
     "Buyers": "298",
     "Sellers": "345",
@@ -292,7 +292,7 @@
   {
     "Collection": "Moonbirds Oddities",
     "Sales (USD)": "4461843",
-    "Change (30d)": "28.17",
+    "Change% (30d)": "28.17",
     "Sales": "9772.74",
     "Buyers": "1121",
     "Sellers": "1222",
@@ -302,7 +302,7 @@
   {
     "Collection": "Finiliar",
     "Sales (USD)": "3878705",
-    "Change (30d)": "74580.95",
+    "Change% (30d)": "74580.95",
     "Sales": "2255.81",
     "Buyers": "3942",
     "Sellers": "2707",
@@ -312,7 +312,7 @@
   {
     "Collection": "Genuine Undead",
     "Sales (USD)": "3875077",
-    "Change (30d)": "2145400.00",
+    "Change% (30d)": "2145400.00",
     "Sales": "2225.25",
     "Buyers": "6607",
     "Sellers": "6355",
@@ -322,7 +322,7 @@
   {
     "Collection": "10KTF Stockroom",
     "Sales (USD)": "3390165",
-    "Change (30d)": "256.18",
+    "Change% (30d)": "256.18",
     "Sales": "2063.41",
     "Buyers": "1300",
     "Sellers": "1579",
@@ -332,7 +332,7 @@
   {
     "Collection": "goblintown",
     "Sales (USD)": "3383288",
-    "Change (30d)": "19.59",
+    "Change% (30d)": "19.59",
     "Sales": "2866.54",
     "Buyers": "657",
     "Sellers": "723",
@@ -342,7 +342,7 @@
   {
     "Collection": "Shellz Orb",
     "Sales (USD)": "3187945",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "1889.13",
     "Buyers": "8621",
     "Sellers": "5353",
@@ -352,7 +352,7 @@
   {
     "Collection": "Isekai Meta",
     "Sales (USD)": "3093390",
-    "Change (30d)": "54.42",
+    "Change% (30d)": "54.42",
     "Sales": "1880.87",
     "Buyers": "2788",
     "Sellers": "2995",
@@ -362,7 +362,7 @@
   {
     "Collection": "EZU",
     "Sales (USD)": "2883527",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "1751.98",
     "Buyers": "6917",
     "Sellers": "2978",
@@ -372,7 +372,7 @@
   {
     "Collection": "Combat Crates",
     "Sales (USD)": "2765527",
-    "Change (30d)": "284.58",
+    "Change% (30d)": "284.58",
     "Sales": "179218.12",
     "Buyers": "1784",
     "Sellers": "767",
@@ -382,7 +382,7 @@
   {
     "Collection": "Metamon",
     "Sales (USD)": "2743576",
-    "Change (30d)": "92.02",
+    "Change% (30d)": "92.02",
     "Sales": "6597733467.59",
     "Buyers": "1356",
     "Sellers": "1",
@@ -392,7 +392,7 @@
   {
     "Collection": "CryptoSimeji",
     "Sales (USD)": "2606734",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "1703.47",
     "Buyers": "4692",
     "Sellers": "6785",
@@ -402,7 +402,7 @@
   {
     "Collection": "ZED RUN",
     "Sales (USD)": "2570449",
-    "Change (30d)": "18.28",
+    "Change% (30d)": "18.28",
     "Sales": "304504.91",
     "Buyers": "7784",
     "Sellers": "7273",
@@ -412,7 +412,7 @@
   {
     "Collection": "MV3NFT",
     "Sales (USD)": "2438452",
-    "Change (30d)": "128.11",
+    "Change% (30d)": "128.11",
     "Sales": "1459.24",
     "Buyers": "2873",
     "Sellers": "1857",
@@ -422,7 +422,7 @@
   {
     "Collection": "Grails II Mint Pass",
     "Sales (USD)": "2326404",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "1343.23",
     "Buyers": "237",
     "Sellers": "1089",
@@ -432,7 +432,7 @@
   {
     "Collection": "Webaverse Genesis Pass",
     "Sales (USD)": "2300788",
-    "Change (30d)": "71.60",
+    "Change% (30d)": "71.60",
     "Sales": "1331.59",
     "Buyers": "1878",
     "Sellers": "1416",
@@ -442,7 +442,7 @@
   {
     "Collection": "Amazy Sneaker",
     "Sales (USD)": "2298931",
-    "Change (30d)": "66.21",
+    "Change% (30d)": "66.21",
     "Sales": "7805.08",
     "Buyers": "1896",
     "Sellers": "35",
@@ -452,7 +452,7 @@
   {
     "Collection": "MOODIES BY HANUKA",
     "Sales (USD)": "2191104",
-    "Change (30d)": "1091900.00",
+    "Change% (30d)": "1091900.00",
     "Sales": "1348.28",
     "Buyers": "5791",
     "Sellers": "5811",
@@ -462,7 +462,7 @@
   {
     "Collection": "Okay Bears",
     "Sales (USD)": "2045871",
-    "Change (30d)": "47.73",
+    "Change% (30d)": "47.73",
     "Sales": "55089.80SOL",
     "Buyers": "492",
     "Sellers": "608",
@@ -472,7 +472,7 @@
   {
     "Collection": "Project Kyzen 7 Character Reveals",
     "Sales (USD)": "1997446",
-    "Change (30d)": "86.76",
+    "Change% (30d)": "86.76",
     "Sales": "1138.26",
     "Buyers": "119",
     "Sellers": "134",
@@ -482,7 +482,7 @@
   {
     "Collection": "mfer",
     "Sales (USD)": "1971669",
-    "Change (30d)": "22.29",
+    "Change% (30d)": "22.29",
     "Sales": "13819.62",
     "Buyers": "635",
     "Sellers": "643",
@@ -492,7 +492,7 @@
   {
     "Collection": "Cool Cats",
     "Sales (USD)": "1920011",
-    "Change (30d)": "32.25",
+    "Change% (30d)": "32.25",
     "Sales": "1114.66",
     "Buyers": "359",
     "Sellers": "330",
@@ -502,7 +502,7 @@
   {
     "Collection": "Town Star",
     "Sales (USD)": "1891998",
-    "Change (30d)": "22.81",
+    "Change% (30d)": "22.81",
     "Sales": "1091.29",
     "Buyers": "1207",
     "Sellers": "1188",
@@ -512,7 +512,7 @@
   {
     "Collection": "VeeFriends",
     "Sales (USD)": "1843653",
-    "Change (30d)": "3.11",
+    "Change% (30d)": "3.11",
     "Sales": "1061.04",
     "Buyers": "77",
     "Sellers": "109",
@@ -522,7 +522,7 @@
   {
     "Collection": "Gods Unchained Immutable",
     "Sales (USD)": "1709195",
-    "Change (30d)": "19.33",
+    "Change% (30d)": "19.33",
     "Sales": "1220.87",
     "Buyers": "11650",
     "Sellers": "13946",
@@ -532,7 +532,7 @@
   {
     "Collection": "Onigiri Pepes",
     "Sales (USD)": "1634048",
-    "Change (30d)": "18055.42",
+    "Change% (30d)": "18055.42",
     "Sales": "940.13",
     "Buyers": "4486",
     "Sellers": "3204",
@@ -542,7 +542,7 @@
   {
     "Collection": "OutSad",
     "Sales (USD)": "1597741",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "1018.29",
     "Buyers": "2840",
     "Sellers": "1296",
@@ -552,7 +552,7 @@
   {
     "Collection": "Panini America",
     "Sales (USD)": "1518946",
-    "Change (30d)": "56.46",
+    "Change% (30d)": "56.46",
     "Sales": "1518945.60USD",
     "Buyers": "943",
     "Sellers": "2832",
@@ -562,7 +562,7 @@
   {
     "Collection": "Digital Tycoons Club (Tykes)",
     "Sales (USD)": "1455667",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "927.59",
     "Buyers": "238",
     "Sellers": "260",
@@ -572,7 +572,7 @@
   {
     "Collection": "MurakamiFlowers",
     "Sales (USD)": "1429798",
-    "Change (30d)": "37.23",
+    "Change% (30d)": "37.23",
     "Sales": "14940.10",
     "Buyers": "342",
     "Sellers": "366",
@@ -582,7 +582,7 @@
   {
     "Collection": "Beanz",
     "Sales (USD)": "1429285",
-    "Change (30d)": "27.63",
+    "Change% (30d)": "27.63",
     "Sales": "4231.94",
     "Buyers": "761",
     "Sellers": "736",
@@ -592,7 +592,7 @@
   {
     "Collection": "NFTiff",
     "Sales (USD)": "1387733",
-    "Change (30d)": "90.70",
+    "Change% (30d)": "90.70",
     "Sales": "785.45",
     "Buyers": "25",
     "Sellers": "25",
@@ -602,7 +602,7 @@
   {
     "Collection": "LilPudgys",
     "Sales (USD)": "1387247",
-    "Change (30d)": "137.87",
+    "Change% (30d)": "137.87",
     "Sales": "840.25",
     "Buyers": "1462",
     "Sellers": "1386",
@@ -612,7 +612,7 @@
   {
     "Collection": "Genesis Habitat",
     "Sales (USD)": "1366620",
-    "Change (30d)": "278.44",
+    "Change% (30d)": "278.44",
     "Sales": "31818.20SOL",
     "Buyers": "877",
     "Sellers": "756",
@@ -622,7 +622,7 @@
   {
     "Collection": "World Of Women",
     "Sales (USD)": "1305118",
-    "Change (30d)": "25.12",
+    "Change% (30d)": "25.12",
     "Sales": "871.65",
     "Buyers": "172",
     "Sellers": "185",
@@ -632,7 +632,7 @@
   {
     "Collection": "Raft",
     "Sales (USD)": "1267333",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "807.84",
     "Buyers": "133",
     "Sellers": "151",
@@ -642,7 +642,7 @@
   {
     "Collection": "Psychedelics Anonymous Genesis",
     "Sales (USD)": "1225189",
-    "Change (30d)": "119.07",
+    "Change% (30d)": "119.07",
     "Sales": "11248.92",
     "Buyers": "491",
     "Sellers": "394",
@@ -652,7 +652,7 @@
   {
     "Collection": "VeeFriends Series 2",
     "Sales (USD)": "1220298",
-    "Change (30d)": "9.72",
+    "Change% (30d)": "9.72",
     "Sales": "711.27",
     "Buyers": "759",
     "Sellers": "881",
@@ -662,7 +662,7 @@
   {
     "Collection": "UFC Strike",
     "Sales (USD)": "1207822",
-    "Change (30d)": "1.72",
+    "Change% (30d)": "1.72",
     "Sales": "1207822.00Flow",
     "Buyers": "3200",
     "Sellers": "7110",
@@ -672,7 +672,7 @@
   {
     "Collection": "GODA Mint Pass",
     "Sales (USD)": "1183470",
-    "Change (30d)": "34.13",
+    "Change% (30d)": "34.13",
     "Sales": "9392.46",
     "Buyers": "80",
     "Sellers": "73",
@@ -682,7 +682,7 @@
   {
     "Collection": "V1 Cryptopunks Wrapped",
     "Sales (USD)": "1177292",
-    "Change (30d)": "14.91",
+    "Change% (30d)": "14.91",
     "Sales": "715.40",
     "Buyers": "71",
     "Sellers": "59",
@@ -692,7 +692,7 @@
   {
     "Collection": "10KTF",
     "Sales (USD)": "1168530",
-    "Change (30d)": "59.09",
+    "Change% (30d)": "59.09",
     "Sales": "15224.42",
     "Buyers": "1130",
     "Sellers": "641",
@@ -702,7 +702,7 @@
   {
     "Collection": "RENGA",
     "Sales (USD)": "1142986",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "724.88",
     "Buyers": "741",
     "Sellers": "655",
@@ -712,7 +712,7 @@
   {
     "Collection": "Marvion VhNFTs v1",
     "Sales (USD)": "1141722",
-    "Change (30d)": "0.95",
+    "Change% (30d)": "0.95",
     "Sales": "1141596.55",
     "Buyers": "168",
     "Sellers": "106",
@@ -722,7 +722,7 @@
   {
     "Collection": "Phoenixes",
     "Sales (USD)": "1135002",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "741.69",
     "Buyers": "3139",
     "Sellers": "3216",
@@ -732,7 +732,7 @@
   {
     "Collection": "Krap Chickens",
     "Sales (USD)": "1129509",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "621.68",
     "Buyers": "2699",
     "Sellers": "1094",
@@ -742,7 +742,7 @@
   {
     "Collection": "We All Survived Death",
     "Sales (USD)": "1120796",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "710.57",
     "Buyers": "4638",
     "Sellers": "7543",
@@ -752,7 +752,7 @@
   {
     "Collection": "shremps",
     "Sales (USD)": "1109530",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "34939.52SOL",
     "Buyers": "3736",
     "Sellers": "4130",
@@ -762,7 +762,7 @@
   {
     "Collection": "FGDNFT",
     "Sales (USD)": "1078957",
-    "Change (30d)": "324.31",
+    "Change% (30d)": "324.31",
     "Sales": "3661.98",
     "Buyers": "834",
     "Sellers": "788",
@@ -772,7 +772,7 @@
   {
     "Collection": "Dooplicator",
     "Sales (USD)": "1074223",
-    "Change (30d)": "6.54",
+    "Change% (30d)": "6.54",
     "Sales": "628.16",
     "Buyers": "414",
     "Sellers": "436",
@@ -782,7 +782,7 @@
   {
     "Collection": "Fitr Gym Bags",
     "Sales (USD)": "1054881",
-    "Change (30d)": "30.56",
+    "Change% (30d)": "30.56",
     "Sales": "3936.33",
     "Buyers": "1062",
     "Sellers": "552",
@@ -792,7 +792,7 @@
   {
     "Collection": "YOLO Bunny",
     "Sales (USD)": "1050679",
-    "Change (30d)": "97.38",
+    "Change% (30d)": "97.38",
     "Sales": "596.68",
     "Buyers": "162",
     "Sellers": "214",
@@ -802,7 +802,7 @@
   {
     "Collection": "Rtfkt Nike x Monolith",
     "Sales (USD)": "1029033",
-    "Change (30d)": "13.25",
+    "Change% (30d)": "13.25",
     "Sales": "603.19",
     "Buyers": "298",
     "Sellers": "342",
@@ -812,7 +812,7 @@
   {
     "Collection": "Cognition",
     "Sales (USD)": "1018151",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "545.71",
     "Buyers": "406",
     "Sellers": "102",
@@ -822,7 +822,7 @@
   {
     "Collection": "Sappy Seals",
     "Sales (USD)": "1015230",
-    "Change (30d)": "139.18",
+    "Change% (30d)": "139.18",
     "Sales": "615.54",
     "Buyers": "634",
     "Sellers": "510",
@@ -832,7 +832,7 @@
   {
     "Collection": "Primate Academy",
     "Sales (USD)": "1005991",
-    "Change (30d)": "29.09",
+    "Change% (30d)": "29.09",
     "Sales": "28532.18SOL",
     "Buyers": "1169",
     "Sellers": "1381",
@@ -842,7 +842,7 @@
   {
     "Collection": "CyberBrokers",
     "Sales (USD)": "1002248",
-    "Change (30d)": "70.82",
+    "Change% (30d)": "70.82",
     "Sales": "1211.52",
     "Buyers": "247",
     "Sellers": "197",
@@ -852,7 +852,7 @@
   {
     "Collection": "Mirs Of Space",
     "Sales (USD)": "993325",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "604.38",
     "Buyers": "9103",
     "Sellers": "4136",
@@ -862,7 +862,7 @@
   {
     "Collection": "FLUF World",
     "Sales (USD)": "992707",
-    "Change (30d)": "25.96",
+    "Change% (30d)": "25.96",
     "Sales": "588.92",
     "Buyers": "132",
     "Sellers": "149",
@@ -872,7 +872,7 @@
   {
     "Collection": "Invisible Friends",
     "Sales (USD)": "988136",
-    "Change (30d)": "21.30",
+    "Change% (30d)": "21.30",
     "Sales": "7463.22",
     "Buyers": "231",
     "Sellers": "248",
@@ -882,7 +882,7 @@
   {
     "Collection": "PUMA Nitro Token",
     "Sales (USD)": "958069",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "597.96",
     "Buyers": "1517",
     "Sellers": "3324",
@@ -892,7 +892,7 @@
   {
     "Collection": "Infected Mob",
     "Sales (USD)": "950653",
-    "Change (30d)": "44.55",
+    "Change% (30d)": "44.55",
     "Sales": "26276.17SOL",
     "Buyers": "1987",
     "Sellers": "1968",
@@ -902,7 +902,7 @@
   {
     "Collection": "Lasogette NFT",
     "Sales (USD)": "938904",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "606.46",
     "Buyers": "2323",
     "Sellers": "1861",
@@ -912,7 +912,7 @@
   {
     "Collection": "MyBeautifulDarkTwistedFantasy",
     "Sales (USD)": "921876",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "554.63",
     "Buyers": "1473",
     "Sellers": "1480",
@@ -922,7 +922,7 @@
   {
     "Collection": "Pancake Squad",
     "Sales (USD)": "914230",
-    "Change (30d)": "158.54",
+    "Change% (30d)": "158.54",
     "Sales": "3477.19",
     "Buyers": "263",
     "Sellers": "199",
@@ -932,7 +932,7 @@
   {
     "Collection": "001GEN Rare Cats",
     "Sales (USD)": "895857",
-    "Change (30d)": "110.26",
+    "Change% (30d)": "110.26",
     "Sales": "512.52",
     "Buyers": "25",
     "Sellers": "23",
@@ -942,7 +942,7 @@
   {
     "Collection": "Candy Digital NFT",
     "Sales (USD)": "879597",
-    "Change (30d)": "31.74",
+    "Change% (30d)": "31.74",
     "Sales": "879597.22",
     "Buyers": "2461",
     "Sellers": "2464",
@@ -952,7 +952,7 @@
   {
     "Collection": "Emblem Vault",
     "Sales (USD)": "869491",
-    "Change (30d)": "6.58",
+    "Change% (30d)": "6.58",
     "Sales": "512.63",
     "Buyers": "283",
     "Sellers": "328",
@@ -962,7 +962,7 @@
   {
     "Collection": "Degen Toonz",
     "Sales (USD)": "844378",
-    "Change (30d)": "14.42",
+    "Change% (30d)": "14.42",
     "Sales": "504.65",
     "Buyers": "428",
     "Sellers": "462",
@@ -972,7 +972,7 @@
   {
     "Collection": "Ledger Market Pass - Genesis Edition",
     "Sales (USD)": "841930",
-    "Change (30d)": "92.92",
+    "Change% (30d)": "92.92",
     "Sales": "484.03",
     "Buyers": "867",
     "Sellers": "816",
@@ -982,7 +982,7 @@
   {
     "Collection": "Super Cool World",
     "Sales (USD)": "832875",
-    "Change (30d)": "94.67",
+    "Change% (30d)": "94.67",
     "Sales": "468.06",
     "Buyers": "236",
     "Sellers": "285",
@@ -992,7 +992,7 @@
   {
     "Collection": "CyberKongz",
     "Sales (USD)": "823028",
-    "Change (30d)": "29.20",
+    "Change% (30d)": "29.20",
     "Sales": "31011.08",
     "Buyers": "90",
     "Sellers": "109",
@@ -1002,7 +1002,7 @@
   {
     "Collection": "mcgoblinwtf",
     "Sales (USD)": "808584",
-    "Change (30d)": "63.54",
+    "Change% (30d)": "63.54",
     "Sales": "6487.61",
     "Buyers": "349",
     "Sellers": "330",
@@ -1012,7 +1012,7 @@
   {
     "Collection": "Acid Monkeys",
     "Sales (USD)": "806378",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "25789.40SOL",
     "Buyers": "2830",
     "Sellers": "3793",
@@ -1022,7 +1022,7 @@
   {
     "Collection": "Blocksmith Labs",
     "Sales (USD)": "782758",
-    "Change (30d)": "40.85",
+    "Change% (30d)": "40.85",
     "Sales": "22488.81SOL",
     "Buyers": "176",
     "Sellers": "278",
@@ -1032,7 +1032,7 @@
   {
     "Collection": "adidas Originals",
     "Sales (USD)": "771540",
-    "Change (30d)": "14.62",
+    "Change% (30d)": "14.62",
     "Sales": "439.89",
     "Buyers": "527",
     "Sellers": "537",
@@ -1042,7 +1042,7 @@
   {
     "Collection": "Admit One",
     "Sales (USD)": "761006",
-    "Change (30d)": "1.67",
+    "Change% (30d)": "1.67",
     "Sales": "439.57",
     "Buyers": "54",
     "Sellers": "55",
@@ -1052,7 +1052,7 @@
   {
     "Collection": "Bored--Dangerous",
     "Sales (USD)": "745531",
-    "Change (30d)": "92.90",
+    "Change% (30d)": "92.90",
     "Sales": "432.60",
     "Buyers": "383",
     "Sellers": "505",
@@ -1062,7 +1062,7 @@
   {
     "Collection": "KaijuKingz",
     "Sales (USD)": "742659",
-    "Change (30d)": "5.91",
+    "Change% (30d)": "5.91",
     "Sales": "241939.84",
     "Buyers": "443",
     "Sellers": "344",
@@ -1072,7 +1072,7 @@
   {
     "Collection": "Valhalla Pass",
     "Sales (USD)": "710289",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "22551.86SOL",
     "Buyers": "952",
     "Sellers": "1201",
@@ -1082,7 +1082,7 @@
   {
     "Collection": "Parallel Alpha",
     "Sales (USD)": "709882",
-    "Change (30d)": "58.70",
+    "Change% (30d)": "58.70",
     "Sales": "415.00",
     "Buyers": "939",
     "Sellers": "1296",
@@ -1092,7 +1092,7 @@
   {
     "Collection": "Mintable Shared Store",
     "Sales (USD)": "707342",
-    "Change (30d)": "204.71",
+    "Change% (30d)": "204.71",
     "Sales": "390.99",
     "Buyers": "142",
     "Sellers": "87",
@@ -1102,7 +1102,7 @@
   {
     "Collection": "Strxngers",
     "Sales (USD)": "706936",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "413.77",
     "Buyers": "4637",
     "Sellers": "2890",
@@ -1112,7 +1112,7 @@
   {
     "Collection": "KILLABEARS",
     "Sales (USD)": "704858",
-    "Change (30d)": "37.97",
+    "Change% (30d)": "37.97",
     "Sales": "13731.02",
     "Buyers": "173",
     "Sellers": "224",
@@ -1122,7 +1122,7 @@
   {
     "Collection": "God Hates NFTees",
     "Sales (USD)": "701129",
-    "Change (30d)": "48.33",
+    "Change% (30d)": "48.33",
     "Sales": "410.12",
     "Buyers": "520",
     "Sellers": "623",
@@ -1132,7 +1132,7 @@
   {
     "Collection": "Decagon",
     "Sales (USD)": "699749",
-    "Change (30d)": "12.63",
+    "Change% (30d)": "12.63",
     "Sales": "120756.21",
     "Buyers": "1816",
     "Sellers": "2911",
@@ -1142,7 +1142,7 @@
   {
     "Collection": "DigiDaigakuSpirits",
     "Sales (USD)": "697151",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "442.25",
     "Buyers": "86",
     "Sellers": "79",
@@ -1152,7 +1152,7 @@
   {
     "Collection": "RTFKT MNLTH",
     "Sales (USD)": "695351",
-    "Change (30d)": "4.79",
+    "Change% (30d)": "4.79",
     "Sales": "407.55",
     "Buyers": "96",
     "Sellers": "121",
@@ -1162,7 +1162,7 @@
   {
     "Collection": "Illuminati",
     "Sales (USD)": "671709",
-    "Change (30d)": "48.68",
+    "Change% (30d)": "48.68",
     "Sales": "4110.51",
     "Buyers": "272",
     "Sellers": "292",
@@ -1172,7 +1172,7 @@
   {
     "Collection": "Sentry",
     "Sales (USD)": "671105",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "19021.08SOL",
     "Buyers": "3165",
     "Sellers": "4832",
@@ -1182,7 +1182,7 @@
   {
     "Collection": "Chimpers",
     "Sales (USD)": "670685",
-    "Change (30d)": "37.78",
+    "Change% (30d)": "37.78",
     "Sales": "401.00",
     "Buyers": "210",
     "Sellers": "234",
@@ -1192,7 +1192,7 @@
   {
     "Collection": "DeadFellaz",
     "Sales (USD)": "669128",
-    "Change (30d)": "34.54",
+    "Change% (30d)": "34.54",
     "Sales": "7391.12",
     "Buyers": "310",
     "Sellers": "342",
@@ -1202,7 +1202,7 @@
   {
     "Collection": "Cets on Crek",
     "Sales (USD)": "662719",
-    "Change (30d)": "96.21",
+    "Change% (30d)": "96.21",
     "Sales": "18526.99SOL",
     "Buyers": "467",
     "Sellers": "532",
@@ -1212,7 +1212,7 @@
   {
     "Collection": "Hello Kitty and Friends World Eth",
     "Sales (USD)": "658699",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "406.96",
     "Buyers": "1437",
     "Sellers": "1907",
@@ -1222,7 +1222,7 @@
   {
     "Collection": "World Of Women Galaxy",
     "Sales (USD)": "658484",
-    "Change (30d)": "39.19",
+    "Change% (30d)": "39.19",
     "Sales": "401.92",
     "Buyers": "655",
     "Sellers": "610",
@@ -1232,7 +1232,7 @@
   {
     "Collection": "VaynerSports Pass",
     "Sales (USD)": "652977",
-    "Change (30d)": "57.21",
+    "Change% (30d)": "57.21",
     "Sales": "392.69",
     "Buyers": "223",
     "Sellers": "587",
@@ -1242,7 +1242,7 @@
   {
     "Collection": "MetaKawaii",
     "Sales (USD)": "636002",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "336.15",
     "Buyers": "1510",
     "Sellers": "807",
@@ -1252,7 +1252,7 @@
   {
     "Collection": "Lazy Ape Yacht Club",
     "Sales (USD)": "621404",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "397.95",
     "Buyers": "967",
     "Sellers": "758",
@@ -1262,7 +1262,7 @@
   {
     "Collection": "Loot",
     "Sales (USD)": "616328",
-    "Change (30d)": "352.24",
+    "Change% (30d)": "352.24",
     "Sales": "10414.39",
     "Buyers": "120",
     "Sellers": "131",
@@ -1272,7 +1272,7 @@
   {
     "Collection": "Degen Fat Cat",
     "Sales (USD)": "613461",
-    "Change (30d)": "66.26",
+    "Change% (30d)": "66.26",
     "Sales": "16548.74SOL",
     "Buyers": "405",
     "Sellers": "661",
@@ -1282,7 +1282,7 @@
   {
     "Collection": "Cryptoadz",
     "Sales (USD)": "596692",
-    "Change (30d)": "36.11",
+    "Change% (30d)": "36.11",
     "Sales": "351.98",
     "Buyers": "121",
     "Sellers": "137",
@@ -1292,7 +1292,7 @@
   {
     "Collection": "Dininho Adventures",
     "Sales (USD)": "595992",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "301.61",
     "Buyers": "3251",
     "Sellers": "1626",
@@ -1302,7 +1302,7 @@
   {
     "Collection": "Rakkudo",
     "Sales (USD)": "578551",
-    "Change (30d)": "54.75",
+    "Change% (30d)": "54.75",
     "Sales": "14660.09SOL",
     "Buyers": "1101",
     "Sellers": "1234",
@@ -1312,7 +1312,7 @@
   {
     "Collection": "Rotten Anti Social Club",
     "Sales (USD)": "577950",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "32310.88",
     "Buyers": "3606",
     "Sellers": "4147",
@@ -1322,7 +1322,7 @@
   {
     "Collection": "Oak Paradise",
     "Sales (USD)": "571427",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "17125.32SOL",
     "Buyers": "4170",
     "Sellers": "4741",
@@ -1332,7 +1332,7 @@
   {
     "Collection": "Galactic Gecko Space Garage",
     "Sales (USD)": "564147",
-    "Change (30d)": "103.19",
+    "Change% (30d)": "103.19",
     "Sales": "17211.05SOL",
     "Buyers": "384",
     "Sellers": "642",
@@ -1342,7 +1342,7 @@
   {
     "Collection": "Illuvium Land",
     "Sales (USD)": "557138",
-    "Change (30d)": "23.61",
+    "Change% (30d)": "23.61",
     "Sales": "328.72",
     "Buyers": "249",
     "Sellers": "194",
@@ -1352,7 +1352,7 @@
   {
     "Collection": "Jikan Studio",
     "Sales (USD)": "543777",
-    "Change (30d)": "146.33",
+    "Change% (30d)": "146.33",
     "Sales": "14819.38SOL",
     "Buyers": "2056",
     "Sellers": "2416",
@@ -1362,7 +1362,7 @@
   {
     "Collection": "Ugly Duck WTF",
     "Sales (USD)": "541825",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "309.46",
     "Buyers": "3398",
     "Sellers": "4582",
@@ -1372,7 +1372,7 @@
   {
     "Collection": "AnonymousCactusClub",
     "Sales (USD)": "537519",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "339.42",
     "Buyers": "567",
     "Sellers": "561",
@@ -1382,7 +1382,7 @@
   {
     "Collection": "The Shiboshis",
     "Sales (USD)": "535350",
-    "Change (30d)": "26.51",
+    "Change% (30d)": "26.51",
     "Sales": "317.50",
     "Buyers": "169",
     "Sellers": "224",
@@ -1392,7 +1392,7 @@
   {
     "Collection": "Wolf Game",
     "Sales (USD)": "531898",
-    "Change (30d)": "71.59",
+    "Change% (30d)": "71.59",
     "Sales": "3322.46",
     "Buyers": "235",
     "Sellers": "190",
@@ -1402,7 +1402,7 @@
   {
     "Collection": "Solana Monkey Business",
     "Sales (USD)": "526970",
-    "Change (30d)": "3.23",
+    "Change% (30d)": "3.23",
     "Sales": "14253.32SOL",
     "Buyers": "50",
     "Sellers": "53",
@@ -1412,7 +1412,7 @@
   {
     "Collection": "My Pet Hooligan",
     "Sales (USD)": "521951",
-    "Change (30d)": "2.78",
+    "Change% (30d)": "2.78",
     "Sales": "307.96",
     "Buyers": "212",
     "Sellers": "239",
@@ -1422,7 +1422,7 @@
   {
     "Collection": "Gutter Cat Gang",
     "Sales (USD)": "519447",
-    "Change (30d)": "27.66",
+    "Change% (30d)": "27.66",
     "Sales": "317.76",
     "Buyers": "49",
     "Sellers": "56",
@@ -1432,7 +1432,7 @@
   {
     "Collection": "Impostors Genesis",
     "Sales (USD)": "519409",
-    "Change (30d)": "25.63",
+    "Change% (30d)": "25.63",
     "Sales": "300.84",
     "Buyers": "235",
     "Sellers": "270",
@@ -1442,7 +1442,7 @@
   {
     "Collection": "HAPE PRIME",
     "Sales (USD)": "518098",
-    "Change (30d)": "40.52",
+    "Change% (30d)": "40.52",
     "Sales": "298.59",
     "Buyers": "164",
     "Sellers": "206",
@@ -1452,7 +1452,7 @@
   {
     "Collection": "Quirkies",
     "Sales (USD)": "515739",
-    "Change (30d)": "4.93",
+    "Change% (30d)": "4.93",
     "Sales": "311.23",
     "Buyers": "210",
     "Sellers": "268",
@@ -1462,7 +1462,7 @@
   {
     "Collection": "Ethlizards",
     "Sales (USD)": "501091",
-    "Change (30d)": "8.90",
+    "Change% (30d)": "8.90",
     "Sales": "302.48",
     "Buyers": "145",
     "Sellers": "119",
@@ -1472,7 +1472,7 @@
   {
     "Collection": "MNLTHRVLD",
     "Sales (USD)": "497679",
-    "Change (30d)": "29.19",
+    "Change% (30d)": "29.19",
     "Sales": "291.10",
     "Buyers": "330",
     "Sellers": "331",
@@ -1482,7 +1482,7 @@
   {
     "Collection": "This Thing Of Ours",
     "Sales (USD)": "481898",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "308.71",
     "Buyers": "351",
     "Sellers": "380",
@@ -1492,7 +1492,7 @@
   {
     "Collection": "gmDAO Token v2",
     "Sales (USD)": "481572",
-    "Change (30d)": "84.24",
+    "Change% (30d)": "84.24",
     "Sales": "277.18",
     "Buyers": "40",
     "Sellers": "49",
@@ -1502,7 +1502,7 @@
   {
     "Collection": "BlackGodNFT",
     "Sales (USD)": "481468",
-    "Change (30d)": "1766.67",
+    "Change% (30d)": "1766.67",
     "Sales": "1644.69",
     "Buyers": "125",
     "Sellers": "107",
@@ -1512,7 +1512,7 @@
   {
     "Collection": "NFT Worlds",
     "Sales (USD)": "479040",
-    "Change (30d)": "69.74",
+    "Change% (30d)": "69.74",
     "Sales": "1034.26",
     "Buyers": "238",
     "Sellers": "326",
@@ -1522,7 +1522,7 @@
   {
     "Collection": "ENS Maxis",
     "Sales (USD)": "472491",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "277.08",
     "Buyers": "2637",
     "Sellers": "4634",
@@ -1532,7 +1532,7 @@
   {
     "Collection": "MetaHero Universe Generative",
     "Sales (USD)": "464247",
-    "Change (30d)": "2.76",
+    "Change% (30d)": "2.76",
     "Sales": "261.39",
     "Buyers": "173",
     "Sellers": "161",
@@ -1542,7 +1542,7 @@
   {
     "Collection": "Akutars",
     "Sales (USD)": "458800",
-    "Change (30d)": "9.75",
+    "Change% (30d)": "9.75",
     "Sales": "268.12",
     "Buyers": "221",
     "Sellers": "264",
@@ -1552,7 +1552,7 @@
   {
     "Collection": "BBRC OFFICIAL IVY BOYS",
     "Sales (USD)": "457093",
-    "Change (30d)": "23.64",
+    "Change% (30d)": "23.64",
     "Sales": "280.72",
     "Buyers": "373",
     "Sellers": "597",
@@ -1562,7 +1562,7 @@
   {
     "Collection": "Satori",
     "Sales (USD)": "455540",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "14191.44SOL",
     "Buyers": "2382",
     "Sellers": "2548",
@@ -1572,7 +1572,7 @@
   {
     "Collection": "Suki Learns to Fly",
     "Sales (USD)": "455538",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "282.85",
     "Buyers": "1940",
     "Sellers": "1134",
@@ -1582,7 +1582,7 @@
   {
     "Collection": "Zombieapeartist",
     "Sales (USD)": "453859",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "279.78",
     "Buyers": "534",
     "Sellers": "244",
@@ -1592,7 +1592,7 @@
   {
     "Collection": "Nouns",
     "Sales (USD)": "453527",
-    "Change (30d)": "42.86",
+    "Change% (30d)": "42.86",
     "Sales": "275.30",
     "Buyers": "4",
     "Sellers": "4",
@@ -1602,7 +1602,7 @@
   {
     "Collection": "Degenerate Ape Academy",
     "Sales (USD)": "452051",
-    "Change (30d)": "17.61",
+    "Change% (30d)": "17.61",
     "Sales": "12824.52SOL",
     "Buyers": "139",
     "Sellers": "159",
@@ -1612,7 +1612,7 @@
   {
     "Collection": "MetaHero",
     "Sales (USD)": "452042",
-    "Change (30d)": "1.49",
+    "Change% (30d)": "1.49",
     "Sales": "255.39",
     "Buyers": "172",
     "Sellers": "170",
@@ -1622,7 +1622,7 @@
   {
     "Collection": "CryptoPhunksV2",
     "Sales (USD)": "445343",
-    "Change (30d)": "17.57",
+    "Change% (30d)": "17.57",
     "Sales": "263.32",
     "Buyers": "153",
     "Sellers": "183",
@@ -1632,7 +1632,7 @@
   {
     "Collection": "Rags to Richie by Alec Monopoly",
     "Sales (USD)": "435766",
-    "Change (30d)": "87.89",
+    "Change% (30d)": "87.89",
     "Sales": "253.44",
     "Buyers": "260",
     "Sellers": "301",
@@ -1642,7 +1642,7 @@
   {
     "Collection": "My Final Form",
     "Sales (USD)": "429989",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "259.55",
     "Buyers": "2129",
     "Sellers": "1699",
@@ -1652,7 +1652,7 @@
   {
     "Collection": "ElPollitoPio",
     "Sales (USD)": "429082",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "233.46",
     "Buyers": "259",
     "Sellers": "218",
@@ -1662,7 +1662,7 @@
   {
     "Collection": "POW",
     "Sales (USD)": "422380",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "274.35",
     "Buyers": "2768",
     "Sellers": "3497",
@@ -1672,7 +1672,7 @@
   {
     "Collection": "Metamounts",
     "Sales (USD)": "417528",
-    "Change (30d)": "74.61",
+    "Change% (30d)": "74.61",
     "Sales": "9867.03SOL",
     "Buyers": "1748",
     "Sellers": "1827",
@@ -1682,7 +1682,7 @@
   {
     "Collection": "ALIENFRENS",
     "Sales (USD)": "404445",
-    "Change (30d)": "24.58",
+    "Change% (30d)": "24.58",
     "Sales": "238.92",
     "Buyers": "440",
     "Sellers": "441",
@@ -1692,7 +1692,7 @@
   {
     "Collection": "hic et nunc",
     "Sales (USD)": "403521",
-    "Change (30d)": "112.56",
+    "Change% (30d)": "112.56",
     "Sales": "243592.25XTZ",
     "Buyers": "6105",
     "Sellers": "3719",
@@ -1702,7 +1702,7 @@
   {
     "Collection": "JellyDawgs",
     "Sales (USD)": "401462",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "12649.41SOL",
     "Buyers": "2828",
     "Sellers": "2551",
@@ -1712,7 +1712,7 @@
   {
     "Collection": "WebbLand",
     "Sales (USD)": "399506",
-    "Change (30d)": "3.43",
+    "Change% (30d)": "3.43",
     "Sales": "231.87",
     "Buyers": "251",
     "Sellers": "231",
@@ -1722,7 +1722,7 @@
   {
     "Collection": "Pudgy Pepes",
     "Sales (USD)": "396977",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "244.31",
     "Buyers": "3702",
     "Sellers": "3299",
@@ -1732,7 +1732,7 @@
   {
     "Collection": "Froots",
     "Sales (USD)": "396486",
-    "Change (30d)": "68.98",
+    "Change% (30d)": "68.98",
     "Sales": "11209.17SOL",
     "Buyers": "2012",
     "Sellers": "2071",
@@ -1742,7 +1742,7 @@
   {
     "Collection": "ECLESTIA",
     "Sales (USD)": "391945",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "10252.37SOL",
     "Buyers": "4368",
     "Sellers": "5041",
@@ -1752,7 +1752,7 @@
   {
     "Collection": "Sly Wolf Racing Club",
     "Sales (USD)": "391594",
-    "Change (30d)": "227.03",
+    "Change% (30d)": "227.03",
     "Sales": "220.37",
     "Buyers": "17",
     "Sellers": "11",
@@ -1762,7 +1762,7 @@
   {
     "Collection": "MM3NFT",
     "Sales (USD)": "389420",
-    "Change (30d)": "1208.99",
+    "Change% (30d)": "1208.99",
     "Sales": "241.28",
     "Buyers": "1087",
     "Sellers": "153",
@@ -1772,7 +1772,7 @@
   {
     "Collection": "Llamaverse Genesis",
     "Sales (USD)": "386680",
-    "Change (30d)": "19.92",
+    "Change% (30d)": "19.92",
     "Sales": "8220.99",
     "Buyers": "184",
     "Sellers": "186",
@@ -1782,7 +1782,7 @@
   {
     "Collection": "Imaginary Ones",
     "Sales (USD)": "385550",
-    "Change (30d)": "13.76",
+    "Change% (30d)": "13.76",
     "Sales": "237.81",
     "Buyers": "250",
     "Sellers": "384",
@@ -1792,7 +1792,7 @@
   {
     "Collection": "Lazy Lions",
     "Sales (USD)": "381974",
-    "Change (30d)": "8.47",
+    "Change% (30d)": "8.47",
     "Sales": "220.37",
     "Buyers": "219",
     "Sellers": "242",
@@ -1802,7 +1802,7 @@
   {
     "Collection": "Infected Solympus",
     "Sales (USD)": "381753",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "12042.87SOL",
     "Buyers": "182",
     "Sellers": "191",
@@ -1812,7 +1812,7 @@
   {
     "Collection": "oncyber labs",
     "Sales (USD)": "381650",
-    "Change (30d)": "8.79",
+    "Change% (30d)": "8.79",
     "Sales": "222.67",
     "Buyers": "270",
     "Sellers": "331",
@@ -1822,7 +1822,7 @@
   {
     "Collection": "CubeX NFTs",
     "Sales (USD)": "374230",
-    "Change (30d)": "92.65",
+    "Change% (30d)": "92.65",
     "Sales": "216.19",
     "Buyers": "542",
     "Sellers": "523",
@@ -1832,7 +1832,7 @@
   {
     "Collection": "ESION",
     "Sales (USD)": "368688",
-    "Change (30d)": "69.62",
+    "Change% (30d)": "69.62",
     "Sales": "10010222.13",
     "Buyers": "1386",
     "Sellers": "1457",
@@ -1842,7 +1842,7 @@
   {
     "Collection": "SolDough",
     "Sales (USD)": "357712",
-    "Change (30d)": "33.59",
+    "Change% (30d)": "33.59",
     "Sales": "9366.73SOL",
     "Buyers": "2423",
     "Sellers": "2435",
@@ -1852,7 +1852,7 @@
   {
     "Collection": "Chikn",
     "Sales (USD)": "351710",
-    "Change (30d)": "46.55",
+    "Change% (30d)": "46.55",
     "Sales": "16210.27",
     "Buyers": "191",
     "Sellers": "169",
@@ -1862,7 +1862,7 @@
   {
     "Collection": "Milady",
     "Sales (USD)": "350805",
-    "Change (30d)": "33.02",
+    "Change% (30d)": "33.02",
     "Sales": "225.93",
     "Buyers": "228",
     "Sellers": "195",
@@ -1872,7 +1872,7 @@
   {
     "Collection": "Genesis Box",
     "Sales (USD)": "349760",
-    "Change (30d)": "23.32",
+    "Change% (30d)": "23.32",
     "Sales": "205.04",
     "Buyers": "615",
     "Sellers": "483",
@@ -1882,7 +1882,7 @@
   {
     "Collection": "GentsCroquetClub",
     "Sales (USD)": "349516",
-    "Change (30d)": "90.91",
+    "Change% (30d)": "90.91",
     "Sales": "205.64",
     "Buyers": "35",
     "Sellers": "34",
@@ -1892,7 +1892,7 @@
   {
     "Collection": "The Currency Eth",
     "Sales (USD)": "346196",
-    "Change (30d)": "78.21",
+    "Change% (30d)": "78.21",
     "Sales": "204.94",
     "Buyers": "43",
     "Sellers": "50",
@@ -1902,7 +1902,7 @@
   {
     "Collection": "BiPlane Bobo",
     "Sales (USD)": "344694",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "189.67",
     "Buyers": "2084",
     "Sellers": "2620",
@@ -1912,7 +1912,7 @@
   {
     "Collection": "DickTown",
     "Sales (USD)": "342666",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "224.08",
     "Buyers": "157",
     "Sellers": "119",
@@ -1922,7 +1922,7 @@
   {
     "Collection": "Wool Pouch",
     "Sales (USD)": "341417",
-    "Change (30d)": "55.56",
+    "Change% (30d)": "55.56",
     "Sales": "199.20",
     "Buyers": "121",
     "Sellers": "142",
@@ -1932,7 +1932,7 @@
   {
     "Collection": "0N1 Force",
     "Sales (USD)": "339230",
-    "Change (30d)": "142.51",
+    "Change% (30d)": "142.51",
     "Sales": "203.83",
     "Buyers": "361",
     "Sellers": "353",
@@ -1942,7 +1942,7 @@
   {
     "Collection": "Trippin Ape Tribe",
     "Sales (USD)": "338322",
-    "Change (30d)": "16.78",
+    "Change% (30d)": "16.78",
     "Sales": "9589.10SOL",
     "Buyers": "560",
     "Sellers": "701",
@@ -1952,7 +1952,7 @@
   {
     "Collection": "Lost In The Devil Triangle",
     "Sales (USD)": "334285",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "208.68",
     "Buyers": "533",
     "Sellers": "444",
@@ -1962,7 +1962,7 @@
   {
     "Collection": "Moon Owls NFT",
     "Sales (USD)": "328360",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "176.96",
     "Buyers": "2297",
     "Sellers": "1658",
@@ -1972,7 +1972,7 @@
   {
     "Collection": "ElectricSheep",
     "Sales (USD)": "326809",
-    "Change (30d)": "95.69",
+    "Change% (30d)": "95.69",
     "Sales": "188.16",
     "Buyers": "146",
     "Sellers": "218",
@@ -1982,7 +1982,7 @@
   {
     "Collection": "OG Portal NFT",
     "Sales (USD)": "321306",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "179.99",
     "Buyers": "50",
     "Sellers": "34",
@@ -1992,7 +1992,7 @@
   {
     "Collection": "PREDICT",
     "Sales (USD)": "320310",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "8075.41SOL",
     "Buyers": "1012",
     "Sellers": "1440",
@@ -2002,7 +2002,7 @@
   {
     "Collection": "Psilocybin",
     "Sales (USD)": "314079",
-    "Change (30d)": "12.50",
+    "Change% (30d)": "12.50",
     "Sales": "600.17",
     "Buyers": "180",
     "Sellers": "179",
@@ -2012,7 +2012,7 @@
   {
     "Collection": "S7NS",
     "Sales (USD)": "311671",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "206.55",
     "Buyers": "808",
     "Sellers": "1408",
@@ -2022,7 +2022,7 @@
   {
     "Collection": "Lotus Gang NFT",
     "Sales (USD)": "301552",
-    "Change (30d)": "117.02",
+    "Change% (30d)": "117.02",
     "Sales": "8547.58SOL",
     "Buyers": "387",
     "Sellers": "623",
@@ -2032,7 +2032,7 @@
   {
     "Collection": "KINGSHIP",
     "Sales (USD)": "295746",
-    "Change (30d)": "92.39",
+    "Change% (30d)": "92.39",
     "Sales": "174.12",
     "Buyers": "268",
     "Sellers": "401",
@@ -2042,7 +2042,7 @@
   {
     "Collection": "Forgotten Runes",
     "Sales (USD)": "295137",
-    "Change (30d)": "27.88",
+    "Change% (30d)": "27.88",
     "Sales": "173.29",
     "Buyers": "96",
     "Sellers": "66",
@@ -2052,7 +2052,7 @@
   {
     "Collection": "Genopets",
     "Sales (USD)": "292225",
-    "Change (30d)": "107.09",
+    "Change% (30d)": "107.09",
     "Sales": "7287.33SOL",
     "Buyers": "252",
     "Sellers": "243",
@@ -2062,7 +2062,7 @@
   {
     "Collection": "Async Blueprints",
     "Sales (USD)": "291994",
-    "Change (30d)": "53.72",
+    "Change% (30d)": "53.72",
     "Sales": "171.75",
     "Buyers": "43",
     "Sellers": "51",
@@ -2072,7 +2072,7 @@
   {
     "Collection": "MoonWolf",
     "Sales (USD)": "289363",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "183.60",
     "Buyers": "85",
     "Sellers": "72",
@@ -2082,7 +2082,7 @@
   {
     "Collection": "FULL SEND METACARD",
     "Sales (USD)": "288523",
-    "Change (30d)": "5.88",
+    "Change% (30d)": "5.88",
     "Sales": "165.51",
     "Buyers": "184",
     "Sellers": "167",
@@ -2092,7 +2092,7 @@
   {
     "Collection": "catbloxpumacapsule",
     "Sales (USD)": "282838",
-    "Change (30d)": "664.29",
+    "Change% (30d)": "664.29",
     "Sales": "153.94",
     "Buyers": "574",
     "Sellers": "590",
@@ -2102,7 +2102,7 @@
   {
     "Collection": "Blueberry Club",
     "Sales (USD)": "282212",
-    "Change (30d)": "11.86",
+    "Change% (30d)": "11.86",
     "Sales": "180.37",
     "Buyers": "273",
     "Sellers": "248",
@@ -2112,7 +2112,7 @@
   {
     "Collection": "Curio Cards",
     "Sales (USD)": "281152",
-    "Change (30d)": "11.36",
+    "Change% (30d)": "11.36",
     "Sales": "165.81",
     "Buyers": "140",
     "Sellers": "135",
@@ -2122,7 +2122,7 @@
   {
     "Collection": "Aliens Trippin' High",
     "Sales (USD)": "280490",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "6789.98SOL",
     "Buyers": "1834",
     "Sellers": "2316",
@@ -2132,7 +2132,7 @@
   {
     "Collection": "Alien Worlds",
     "Sales (USD)": "280212",
-    "Change (30d)": "16.21",
+    "Change% (30d)": "16.21",
     "Sales": "2626117.44WAX",
     "Buyers": "3787",
     "Sellers": "5854",
@@ -2142,7 +2142,7 @@
   {
     "Collection": "Infected JNGL",
     "Sales (USD)": "274621",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "7282.48SOL",
     "Buyers": "212",
     "Sellers": "274",
@@ -2152,7 +2152,7 @@
   {
     "Collection": "BearTings",
     "Sales (USD)": "273811",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "20145.53",
     "Buyers": "2530",
     "Sellers": "2590",
@@ -2162,7 +2162,7 @@
   {
     "Collection": "Habitat",
     "Sales (USD)": "273061",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "8212.44SOL",
     "Buyers": "351",
     "Sellers": "332",
@@ -2172,7 +2172,7 @@
   {
     "Collection": "Smol Brain",
     "Sales (USD)": "269489",
-    "Change (30d)": "34.85",
+    "Change% (30d)": "34.85",
     "Sales": "407396.35",
     "Buyers": "229",
     "Sellers": "206",
@@ -2182,7 +2182,7 @@
   {
     "Collection": "Grumpy Dragon",
     "Sales (USD)": "268983",
-    "Change (30d)": "78.47",
+    "Change% (30d)": "78.47",
     "Sales": "7247.40SOL",
     "Buyers": "693",
     "Sellers": "1014",
@@ -2192,7 +2192,7 @@
   {
     "Collection": "MadMeerkatBurrow",
     "Sales (USD)": "268071",
-    "Change (30d)": "13.79",
+    "Change% (30d)": "13.79",
     "Sales": "2059575.75",
     "Buyers": "222",
     "Sellers": "206",
@@ -2202,7 +2202,7 @@
   {
     "Collection": "Famous Fox Federation",
     "Sales (USD)": "267146",
-    "Change (30d)": "18.51",
+    "Change% (30d)": "18.51",
     "Sales": "7423.73SOL",
     "Buyers": "250",
     "Sellers": "245",
@@ -2212,7 +2212,7 @@
   {
     "Collection": "VOX Series 2",
     "Sales (USD)": "264821",
-    "Change (30d)": "32.28",
+    "Change% (30d)": "32.28",
     "Sales": "160.37",
     "Buyers": "106",
     "Sellers": "107",
@@ -2222,7 +2222,7 @@
   {
     "Collection": "JRNY NFT Club",
     "Sales (USD)": "262057",
-    "Change (30d)": "9.52",
+    "Change% (30d)": "9.52",
     "Sales": "152.99",
     "Buyers": "105",
     "Sellers": "153",
@@ -2232,7 +2232,7 @@
   {
     "Collection": "Mihaverse Butterfly",
     "Sales (USD)": "261436",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "168.62",
     "Buyers": "904",
     "Sellers": "1154",
@@ -2242,7 +2242,7 @@
   {
     "Collection": "Taiyo Robotics",
     "Sales (USD)": "254899",
-    "Change (30d)": "73.68",
+    "Change% (30d)": "73.68",
     "Sales": "7687.89SOL",
     "Buyers": "55",
     "Sellers": "62",
@@ -2252,7 +2252,7 @@
   {
     "Collection": "Smetanas",
     "Sales (USD)": "253629",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "8112.81SOL",
     "Buyers": "768",
     "Sellers": "570",
@@ -2262,7 +2262,7 @@
   {
     "Collection": "DC x Funko Series 1",
     "Sales (USD)": "251929",
-    "Change (30d)": "79.36",
+    "Change% (30d)": "79.36",
     "Sales": "2394846.71WAX",
     "Buyers": "1434",
     "Sellers": "1593",
@@ -2272,7 +2272,7 @@
   {
     "Collection": "Rugged Revenants Gen 1",
     "Sales (USD)": "251655",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "5898.12SOL",
     "Buyers": "2330",
     "Sellers": "2527",
@@ -2282,7 +2282,7 @@
   {
     "Collection": "Jadu Hoverboard",
     "Sales (USD)": "251142",
-    "Change (30d)": "140.88",
+    "Change% (30d)": "140.88",
     "Sales": "154.04",
     "Buyers": "232",
     "Sellers": "224",
@@ -2292,7 +2292,7 @@
   {
     "Collection": "DeCasinos",
     "Sales (USD)": "248885",
-    "Change (30d)": "18.08",
+    "Change% (30d)": "18.08",
     "Sales": "5920.33SOL",
     "Buyers": "494",
     "Sellers": "552",
@@ -2302,7 +2302,7 @@
   {
     "Collection": "Hellfire By BEEBLE",
     "Sales (USD)": "246668",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "150.76",
     "Buyers": "713",
     "Sellers": "403",
@@ -2312,7 +2312,7 @@
   {
     "Collection": "LILVERSE",
     "Sales (USD)": "241591",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "137.48",
     "Buyers": "2795",
     "Sellers": "3079",
@@ -2322,7 +2322,7 @@
   {
     "Collection": "Land Loot",
     "Sales (USD)": "239896",
-    "Change (30d)": "27.78",
+    "Change% (30d)": "27.78",
     "Sales": "140.42",
     "Buyers": "10",
     "Sellers": "12",
@@ -2332,7 +2332,7 @@
   {
     "Collection": "Max Pain and Frens",
     "Sales (USD)": "238052",
-    "Change (30d)": "8.33",
+    "Change% (30d)": "8.33",
     "Sales": "142.70",
     "Buyers": "202",
     "Sellers": "195",
@@ -2342,7 +2342,7 @@
   {
     "Collection": "FXHASH",
     "Sales (USD)": "235845",
-    "Change (30d)": "27.64",
+    "Change% (30d)": "27.64",
     "Sales": "143376.42XTZ",
     "Buyers": "1514",
     "Sellers": "1501",
@@ -2352,7 +2352,7 @@
   {
     "Collection": "Murakami Lucky Cat Coin Bank",
     "Sales (USD)": "235733",
-    "Change (30d)": "58.13",
+    "Change% (30d)": "58.13",
     "Sales": "139.41",
     "Buyers": "478",
     "Sellers": "496",
@@ -2362,7 +2362,7 @@
   {
     "Collection": "Decentral Ice Poker",
     "Sales (USD)": "232775",
-    "Change (30d)": "2.43",
+    "Change% (30d)": "2.43",
     "Sales": "268718.46MATIC",
     "Buyers": "158",
     "Sellers": "170",
@@ -2372,7 +2372,7 @@
   {
     "Collection": "Bored Ape Yoga Club",
     "Sales (USD)": "232022",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "159.48",
     "Buyers": "1859",
     "Sellers": "1189",
@@ -2382,7 +2382,7 @@
   {
     "Collection": "Adam Bomb Squad",
     "Sales (USD)": "231755",
-    "Change (30d)": "21.79",
+    "Change% (30d)": "21.79",
     "Sales": "135.29",
     "Buyers": "199",
     "Sellers": "242",
@@ -2392,7 +2392,7 @@
   {
     "Collection": "The Eye",
     "Sales (USD)": "230593",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "150.79",
     "Buyers": "459",
     "Sellers": "432",
@@ -2402,7 +2402,7 @@
   {
     "Collection": "Silks Genesis Avatar",
     "Sales (USD)": "224618",
-    "Change (30d)": "64.55",
+    "Change% (30d)": "64.55",
     "Sales": "134.57",
     "Buyers": "161",
     "Sellers": "97",
@@ -2412,7 +2412,7 @@
   {
     "Collection": "Communi3 Mad Scientist",
     "Sales (USD)": "224021",
-    "Change (30d)": "12.69",
+    "Change% (30d)": "12.69",
     "Sales": "6182.45SOL",
     "Buyers": "191",
     "Sellers": "229",
@@ -2422,7 +2422,7 @@
   {
     "Collection": "Dynamic Shields",
     "Sales (USD)": "223670",
-    "Change (30d)": "59.88",
+    "Change% (30d)": "59.88",
     "Sales": "5787.72SOL",
     "Buyers": "797",
     "Sellers": "1106",
@@ -2432,7 +2432,7 @@
   {
     "Collection": "Quirklings",
     "Sales (USD)": "223657",
-    "Change (30d)": "21.18",
+    "Change% (30d)": "21.18",
     "Sales": "134.95",
     "Buyers": "340",
     "Sellers": "462",
@@ -2442,7 +2442,7 @@
   {
     "Collection": "Hro",
     "Sales (USD)": "223388",
-    "Change (30d)": "29.96",
+    "Change% (30d)": "29.96",
     "Sales": "456.45",
     "Buyers": "286",
     "Sellers": "161",
@@ -2452,7 +2452,7 @@
   {
     "Collection": "Mines",
     "Sales (USD)": "222586",
-    "Change (30d)": "-",
+    "Change% (30d)": "-",
     "Sales": "5311.51SOL",
     "Buyers": "894",
     "Sellers": "1075",
@@ -2462,7 +2462,7 @@
   {
     "Collection": "projectPXN",
     "Sales (USD)": "222329",
-    "Change (30d)": "22.43",
+    "Change% (30d)": "22.43",
     "Sales": "130.69",
     "Buyers": "346",
     "Sellers": "431",
@@ -2472,7 +2472,7 @@
   {
     "Collection": "Arcade Land",
     "Sales (USD)": "220976",
-    "Change (30d)": "31.74",
+    "Change% (30d)": "31.74",
     "Sales": "130.60",
     "Buyers": "265",
     "Sellers": "344",
@@ -2482,7 +2482,7 @@
   {
     "Collection": "ProudKittyGang",
     "Sales (USD)": "219371",
-    "Change (30d)": "47.35",
+    "Change% (30d)": "47.35",
     "Sales": "695.50",
     "Buyers": "599",
     "Sellers": "599",

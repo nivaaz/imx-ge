@@ -75,8 +75,8 @@ export const Sections = () => {
               </div>
               <div>
                 <h3> 🔍 The differences </h3>
-                <PrintTable data = {[imxData24h]} tableType = "immutascan"/>
-                <PrintTable data = {[csImxData24]}/>
+                <PrintTable  dontShowBlockchain data = {[imxData24h]} tableType = "immutascan"/>
+                <PrintTable dontShowBlockchain data = {[csImxData24]}/>
                 <p>
                   Now we have had a look at the data, let us deep dive on what
                   it all means!

@@ -1,5 +1,4 @@
 import PrintTable from "./print-table";
-import stringToNumber from "../utils/index";
 
 /**
  * 

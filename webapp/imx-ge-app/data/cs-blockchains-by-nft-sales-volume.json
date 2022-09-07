@@ -2,112 +2,112 @@
   {
     "Blockchain": "Solana",
     "Sales": "10888721",
-    "Change (24h)": "314.85",
+    "Change% (24h)": "314.85",
     "Buyers": "14559",
     "Txns": "76580"
   },
   {
     "Blockchain": "Ethereum",
     "Sales": "9690366",
-    "Change (24h)": "12.11",
+    "Change% (24h)": "12.11",
     "Buyers": "12727",
     "Txns": "24237"
   },
   {
     "Blockchain": "Polygon",
     "Sales": "2442145",
-    "Change (24h)": "428.52",
+    "Change% (24h)": "428.52",
     "Buyers": "2655",
     "Txns": "1954"
   },
   {
     "Blockchain": "ImmutableX",
     "Sales": "667539",
-    "Change (24h)": "45.11",
+    "Change% (24h)": "45.11",
     "Buyers": "1916",
     "Txns": "20666"
   },
   {
     "Blockchain": "Flow",
     "Sales": "536032",
-    "Change (24h)": "47.26",
+    "Change% (24h)": "47.26",
     "Buyers": "3141",
     "Txns": "16422"
   },
   {
     "Blockchain": "WAX",
     "Sales": "199907",
-    "Change (24h)": "506.89",
+    "Change% (24h)": "506.89",
     "Buyers": "2929",
     "Txns": "54013"
   },
   {
     "Blockchain": "BNB",
     "Sales": "189057",
-    "Change (24h)": "0.21",
+    "Change% (24h)": "0.21",
     "Buyers": "810",
     "Txns": "1129"
   },
   {
     "Blockchain": "Ronin",
     "Sales": "133276",
-    "Change (24h)": "12.68",
+    "Change% (24h)": "12.68",
     "Buyers": "4247",
     "Txns": "13157"
   },
   {
     "Blockchain": "Panini",
     "Sales": "124871",
-    "Change (24h)": "34.47",
+    "Change% (24h)": "34.47",
     "Buyers": "214",
     "Txns": "3330"
   },
   {
     "Blockchain": "Avalanche",
     "Sales": "62840",
-    "Change (24h)": "12.29",
+    "Change% (24h)": "12.29",
     "Buyers": "262",
     "Txns": "373"
   },
   {
     "Blockchain": "Tezos",
     "Sales": "53102",
-    "Change (24h)": "35.38",
+    "Change% (24h)": "35.38",
     "Buyers": "719",
     "Txns": "1402"
   },
   {
     "Blockchain": "Palm",
     "Sales": "30445",
-    "Change (24h)": "78.97",
+    "Change% (24h)": "78.97",
     "Buyers": "361",
     "Txns": "2963"
   },
   {
     "Blockchain": "Arbitrum",
     "Sales": "23020",
-    "Change (24h)": "58.90",
+    "Change% (24h)": "58.90",
     "Buyers": "820",
     "Txns": "1155"
   },
   {
     "Blockchain": "Cronos",
     "Sales": "14415",
-    "Change (24h)": "77.49",
+    "Change% (24h)": "77.49",
     "Buyers": "41",
     "Txns": "50"
   },
   {
     "Blockchain": "Fantom",
     "Sales": "3309",
-    "Change (24h)": "28.62",
+    "Change% (24h)": "28.62",
     "Buyers": "8",
     "Txns": "11"
   },
   {
     "Blockchain": "OKC",
     "Sales": "29",
-    "Change (24h)": "0.00",
+    "Change% (24h)": "0.00",
     "Buyers": "4",
     "Txns": "2"
   }
