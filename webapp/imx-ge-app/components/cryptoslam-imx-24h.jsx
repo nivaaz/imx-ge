@@ -16,7 +16,7 @@ export const ImxCryptoslamTotal24h = () => {
     </td>
   ))
   return (
-    <>
+    <div className="table-container">
       <table >
         <tbody>
           <tr key={"imx24"} className="tableHeading">
@@ -27,6 +27,6 @@ export const ImxCryptoslamTotal24h = () => {
           </tr>
         </tbody>
       </table>
-    </>
+    </div>
   );
 };
