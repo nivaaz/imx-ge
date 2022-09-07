@@ -17,7 +17,15 @@ a {
 * {
   box-sizing: border-box;
 }
-
+h1{
+  margin: 2em 0;
+}
+h2{
+  margin: 1.5em 0;
+}
+h3{
+  margin: 1em 0;
+}
 table {
   padding: 1em;
   margin-top:1rem;
@@ -27,15 +35,21 @@ table {
   color: #000;
 }
 tr{
-  border-bottom: 1px solid #999;
-  border-top: 1px solid #999;
+  border-bottom: 1px solid purple;
+  border-top: 1px solid purple;
 }
 td{
-  border-right: 1px solid #999;
-  border-left: 1px solid #999;
+  border-right: 1px solid purple;
+  border-left: 1px solid purple;
   padding:  0px 1em;
 }
-
+section{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border-top: 2px solid whitesmoke ;
+  margin-top: 2em;
+}
 table.immutascan {
   color: #000;
   background-color: azure;

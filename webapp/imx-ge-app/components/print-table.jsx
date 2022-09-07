@@ -1,3 +1,8 @@
+/**
+ * 
+ * @param {{data: [object], tableType: 'immutascan'}} props 
+ * @returns 
+ */
 const PrintTable = (props) => {
   const { data, tableType } = props;
 

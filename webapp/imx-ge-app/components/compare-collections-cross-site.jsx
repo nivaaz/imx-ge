@@ -47,7 +47,7 @@ export const CompareCollectionsAcrossSites = ({ imxdata, csData }) => {
       from Cryptoslam and Immutascan.
       {collectionsInCommon.map((c) => (
         <>
-          <p>{c?.name} </p>
+          <p> 🚀{c?.name} </p>
           {c?.ima && <PrintTable tableType="immutascan" data={[c.ima]} />}
           {c?.cs && <PrintTable data={[c.cs]} />}
           {c?.change && <PrintTable data={[c.change]} />}

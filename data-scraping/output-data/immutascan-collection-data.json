@@ -1,0 +1,5002 @@
+[
+  {
+    "name": "Pirates of the Arrland: Assets",
+    "address": "0xe4ea9b6c4ecd6716779a6a4e6c19566b9a662fee",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 25,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 73.93,
+      "trade_volume_eth": 0.047,
+      "trade_count": 2,
+      "owner_count": 183,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": -10
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 155.36,
+      "trade_volume_eth": 0.09100000000000001,
+      "trade_count": 4,
+      "owner_count": 744,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 2
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 155.36,
+      "trade_volume_eth": 0.091,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 4,
+      "owner_count": 25,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Dark Taverns Cast Keys",
+    "address": "0x5d0b14bbc804a12b807f8d71a8161b4f8cd20232",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 467,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 4
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 108.81,
+      "trade_volume_eth": 0.07,
+      "trade_count": 1,
+      "owner_count": 1375,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 467
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 108.81,
+      "trade_volume_eth": 0.07,
+      "trade_count": 1,
+      "owner_count": 1375,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 467
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 108.81,
+      "trade_volume_eth": 0.07,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 1,
+      "owner_count": 467,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Yumon",
+    "address": "0x760b35c6e1474ffc25a59932929363fd52fca3be",
+    "24h": {
+      "trade_volume_usd": 15.84,
+      "trade_volume_eth": 0.01,
+      "trade_count": 1,
+      "owner_count": 80,
+      "change": {
+        "trade_volume_usd": 15.84,
+        "trade_volume_eth": 0.01,
+        "trade_count": 1,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 34.519999999999996,
+      "trade_volume_eth": 0.022,
+      "trade_count": 2,
+      "owner_count": 401,
+      "change": {
+        "trade_volume_usd": 15.84,
+        "trade_volume_eth": 0.01,
+        "trade_count": 1,
+        "owner_count": 80
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 34.519999999999996,
+      "trade_volume_eth": 0.022,
+      "trade_count": 2,
+      "owner_count": 401,
+      "change": {
+        "trade_volume_usd": 15.84,
+        "trade_volume_eth": 0.01,
+        "trade_count": 1,
+        "owner_count": 80
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 34.52,
+      "trade_volume_eth": 0.022,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 2,
+      "owner_count": 80,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Yumon World - Guardians",
+    "address": "0xfd1c210ab72460594d5644b97b94d5aa7043f479",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 354,
+      "change": {
+        "trade_volume_usd": -22.43,
+        "trade_volume_eth": -0.014500000000000002,
+        "trade_count": -1,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 87.22999999999999,
+      "trade_volume_eth": 0.0555782,
+      "trade_count": 3,
+      "owner_count": 2470,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 4
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 87.22999999999999,
+      "trade_volume_eth": 0.0555782,
+      "trade_count": 3,
+      "owner_count": 5861,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 354
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 87.23,
+      "trade_volume_eth": 0.0555782,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 3,
+      "owner_count": 354,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Impact Theory Legendary Dinners",
+    "address": "0x2cc4ab45c0ad393edce2ab137c3651b91df94a6b",
+    "24h": {
+      "trade_volume_usd": 190.35,
+      "trade_volume_eth": 0.12,
+      "trade_count": 1,
+      "owner_count": 17,
+      "change": {
+        "trade_volume_usd": 190.35,
+        "trade_volume_eth": 0.12,
+        "trade_count": 1,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 190.35,
+      "trade_volume_eth": 0.12,
+      "trade_count": 1,
+      "owner_count": 46,
+      "change": {
+        "trade_volume_usd": 190.35,
+        "trade_volume_eth": 0.12,
+        "trade_count": 1,
+        "owner_count": 17
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 190.35,
+      "trade_volume_eth": 0.12,
+      "trade_count": 1,
+      "owner_count": 46,
+      "change": {
+        "trade_volume_usd": 190.35,
+        "trade_volume_eth": 0.12,
+        "trade_count": 1,
+        "owner_count": 17
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 190.35,
+      "trade_volume_eth": 0.12,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 1,
+      "owner_count": 17,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "10000 Goblintownwtf",
+    "address": "0x81f91e37f7cb97aac875ab9ea83dccdbc8c9e0bf",
+    "24h": {
+      "trade_volume_usd": 41.7,
+      "trade_volume_eth": 0.0263565,
+      "trade_count": 1,
+      "owner_count": 8,
+      "change": {
+        "trade_volume_usd": 10.66,
+        "trade_volume_eth": 0.0063565,
+        "trade_count": 0,
+        "owner_count": 8
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 318.87,
+      "trade_volume_eth": 0.1863565,
+      "trade_count": 9,
+      "owner_count": 21,
+      "change": {
+        "trade_volume_usd": -42.41,
+        "trade_volume_eth": -0.023643499999999998,
+        "trade_count": 0,
+        "owner_count": 8
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 756.0600000000001,
+      "trade_volume_eth": 0.5363565000000001,
+      "trade_count": 18,
+      "owner_count": 36,
+      "change": {
+        "trade_volume_usd": 41.7,
+        "trade_volume_eth": 0.0263565,
+        "trade_count": 1,
+        "owner_count": 8
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 756.06,
+      "trade_volume_eth": 0.5363565,
+      "floor_price_usd": 31.0446,
+      "floor_price_eth": 0.02,
+      "trade_count": 18,
+      "owner_count": 8,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "000000 Koalas 000000",
+    "address": "0x16d4d3030b3b7fb029befa0a168fa6f5ffdecd6d",
+    "24h": {
+      "trade_volume_usd": 31.67,
+      "trade_volume_eth": 0.02,
+      "trade_count": 1,
+      "owner_count": 5,
+      "change": {
+        "trade_volume_usd": 1.75,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 5
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 160.8,
+      "trade_volume_eth": 0.1,
+      "trade_count": 5,
+      "owner_count": 15,
+      "change": {
+        "trade_volume_usd": 31.67,
+        "trade_volume_eth": 0.02,
+        "trade_count": 1,
+        "owner_count": 5
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 160.8,
+      "trade_volume_eth": 0.1,
+      "trade_count": 5,
+      "owner_count": 15,
+      "change": {
+        "trade_volume_usd": 31.67,
+        "trade_volume_eth": 0.02,
+        "trade_count": 1,
+        "owner_count": 5
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 160.8,
+      "trade_volume_eth": 0.1,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 5,
+      "owner_count": 5,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Grumpy Boomers",
+    "address": "0xda8ed06317ba8a7ba3131172065dc114a8d783af",
+    "24h": {
+      "trade_volume_usd": 30.9,
+      "trade_volume_eth": 0.02,
+      "trade_count": 1,
+      "owner_count": 13,
+      "change": {
+        "trade_volume_usd": -107.98,
+        "trade_volume_eth": -0.033,
+        "trade_count": 0,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 506.11,
+      "trade_volume_eth": 0.18114999999999998,
+      "trade_count": 5,
+      "owner_count": 90,
+      "change": {
+        "trade_volume_usd": 30.9,
+        "trade_volume_eth": 0.02,
+        "trade_count": 1,
+        "owner_count": 2
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 506.11,
+      "trade_volume_eth": 0.18114999999999998,
+      "trade_count": 5,
+      "owner_count": 127,
+      "change": {
+        "trade_volume_usd": 30.9,
+        "trade_volume_eth": 0.02,
+        "trade_count": 1,
+        "owner_count": 13
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 506.11,
+      "trade_volume_eth": 0.18115,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 5,
+      "owner_count": 13,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "IMX MAYC",
+    "address": "0x95c31e50d3909f90747cf3048124af01c0bb6c38",
+    "24h": {
+      "trade_volume_usd": 94.64,
+      "trade_volume_eth": 0.09,
+      "trade_count": 1,
+      "owner_count": 585,
+      "change": {
+        "trade_volume_usd": 94.64,
+        "trade_volume_eth": 0.09,
+        "trade_count": 1,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 94.64,
+      "trade_volume_eth": 0.09,
+      "trade_count": 1,
+      "owner_count": 1170,
+      "change": {
+        "trade_volume_usd": 94.64,
+        "trade_volume_eth": 0.09,
+        "trade_count": 1,
+        "owner_count": 585
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 94.64,
+      "trade_volume_eth": 0.09,
+      "trade_count": 1,
+      "owner_count": 1170,
+      "change": {
+        "trade_volume_usd": 94.64,
+        "trade_volume_eth": 0.09,
+        "trade_count": 1,
+        "owner_count": 585
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 94.64,
+      "trade_volume_eth": 0.09,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 1,
+      "owner_count": 585,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "0000000 Free Mint Bananas",
+    "address": "0x0071b30209fc069dc23412c68bd98314b20b4a09",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 14,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 15.41,
+      "trade_volume_eth": 0.009,
+      "trade_count": 1,
+      "owner_count": 77,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 6
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 15.41,
+      "trade_volume_eth": 0.009,
+      "trade_count": 1,
+      "owner_count": 104,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 14
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 15.41,
+      "trade_volume_eth": 0.009,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 1,
+      "owner_count": 14,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "0000GEN Rare Art",
+    "address": "0x4629ab1e07c75aedf3b79ca4f840ec8d9a829fd6",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 9,
+      "change": {
+        "trade_volume_usd": -1824.99,
+        "trade_volume_eth": -0.97,
+        "trade_count": -2,
+        "owner_count": 9
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 2024.61,
+      "trade_volume_eth": 1.096,
+      "trade_count": 9,
+      "owner_count": 43,
+      "change": {
+        "trade_volume_usd": -40.67,
+        "trade_volume_eth": -0.021,
+        "trade_count": -1,
+        "owner_count": 9
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 2416.4899999999993,
+      "trade_volume_eth": 1.2939999999999998,
+      "trade_count": 16,
+      "owner_count": 53,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 9
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 2416.49,
+      "trade_volume_eth": 1.294,
+      "floor_price_usd": 9.92346,
+      "floor_price_eth": 0.02,
+      "trade_count": 16,
+      "owner_count": 9,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Alanna",
+    "address": "0xb384ceeccc9a6e93fea84e2c84e21edd607ec637",
+    "24h": {
+      "trade_volume_usd": 529.15,
+      "trade_volume_eth": 0.326,
+      "trade_count": 13,
+      "owner_count": 5,
+      "change": {
+        "trade_volume_usd": 478.5,
+        "trade_volume_eth": 0.3,
+        "trade_count": 12,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 713.3699999999999,
+      "trade_volume_eth": 0.43052000000000007,
+      "trade_count": 17,
+      "owner_count": 14,
+      "change": {
+        "trade_volume_usd": 529.15,
+        "trade_volume_eth": 0.326,
+        "trade_count": 13,
+        "owner_count": 4
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 713.3699999999999,
+      "trade_volume_eth": 0.43052000000000007,
+      "trade_count": 17,
+      "owner_count": 15,
+      "change": {
+        "trade_volume_usd": 529.15,
+        "trade_volume_eth": 0.326,
+        "trade_count": 13,
+        "owner_count": 5
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 713.37,
+      "trade_volume_eth": 0.43052,
+      "floor_price_usd": 40.4505,
+      "floor_price_eth": 0.025,
+      "trade_count": 17,
+      "owner_count": 5,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Satoshi Master of Disguise",
+    "address": "0xde7cfc172856515345c904db6c52e19426f40f88",
+    "24h": {
+      "trade_volume_usd": 119.63,
+      "trade_volume_eth": 0.07344,
+      "trade_count": 1,
+      "owner_count": 2,
+      "change": {
+        "trade_volume_usd": 119.63,
+        "trade_volume_eth": 0.07344,
+        "trade_count": 1,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 119.63,
+      "trade_volume_eth": 0.07344,
+      "trade_count": 1,
+      "owner_count": 3,
+      "change": {
+        "trade_volume_usd": 119.63,
+        "trade_volume_eth": 0.07344,
+        "trade_count": 1,
+        "owner_count": 2
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 119.63,
+      "trade_volume_eth": 0.07344,
+      "trade_count": 1,
+      "owner_count": 3,
+      "change": {
+        "trade_volume_usd": 119.63,
+        "trade_volume_eth": 0.07344,
+        "trade_count": 1,
+        "owner_count": 2
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 119.63,
+      "trade_volume_eth": 0.07344,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 1,
+      "owner_count": 2,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "10 000 Banana Task Force Apes",
+    "address": "0x486a7799e9d77419b3be46ab62520d0430d13d95",
+    "24h": {
+      "trade_volume_usd": 75.8,
+      "trade_volume_eth": 0.0475,
+      "trade_count": 1,
+      "owner_count": 8,
+      "change": {
+        "trade_volume_usd": 46.14,
+        "trade_volume_eth": 0.0275,
+        "trade_count": 0,
+        "owner_count": 8
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 247.18,
+      "trade_volume_eth": 0.18750000000000003,
+      "trade_count": 6,
+      "owner_count": 34,
+      "change": {
+        "trade_volume_usd": 73.52,
+        "trade_volume_eth": 0.0455,
+        "trade_count": -1,
+        "owner_count": 4
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 255.07000000000002,
+      "trade_volume_eth": 0.19450000000000003,
+      "trade_count": 9,
+      "owner_count": 40,
+      "change": {
+        "trade_volume_usd": 75.8,
+        "trade_volume_eth": 0.0475,
+        "trade_count": 1,
+        "owner_count": 8
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 255.07,
+      "trade_volume_eth": 0.1945,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 9,
+      "owner_count": 8,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Bad Bitch Boots",
+    "address": "0x21e1dda790f74b7e22a260f5302f3d841f68d065",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 498,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 498
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 101.87,
+      "trade_volume_eth": 0.077,
+      "trade_count": 2,
+      "owner_count": 2992,
+      "change": {
+        "trade_volume_usd": -154.28,
+        "trade_volume_eth": -0.105,
+        "trade_count": -2,
+        "owner_count": 4
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 1078.2,
+      "trade_volume_eth": 0.595712276,
+      "trade_count": 11,
+      "owner_count": 9719,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 498
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 1078.2,
+      "trade_volume_eth": 0.595712276,
+      "floor_price_usd": 0.54010818,
+      "floor_price_eth": 0.00026443338,
+      "trade_count": 11,
+      "owner_count": 498,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "( Doodles )",
+    "address": "0x79251c8c35a39ed07671f200ab4d31188ff05e34",
+    "24h": {
+      "trade_volume_usd": 39.22,
+      "trade_volume_eth": 0.02,
+      "trade_count": 1,
+      "owner_count": 5,
+      "change": {
+        "trade_volume_usd": 22.04,
+        "trade_volume_eth": 0.01,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 122.25,
+      "trade_volume_eth": 0.07,
+      "trade_count": 4,
+      "owner_count": 15,
+      "change": {
+        "trade_volume_usd": 39.22,
+        "trade_volume_eth": 0.02,
+        "trade_count": 1,
+        "owner_count": 5
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 122.25,
+      "trade_volume_eth": 0.07,
+      "trade_count": 4,
+      "owner_count": 15,
+      "change": {
+        "trade_volume_usd": 39.22,
+        "trade_volume_eth": 0.02,
+        "trade_count": 1,
+        "owner_count": 5
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 122.25,
+      "trade_volume_eth": 0.07,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 4,
+      "owner_count": 5,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "00000 Oxya",
+    "address": "0x662f4c65a639b7fa257e241d70c82b6ed3554bf2",
+    "24h": {
+      "trade_volume_usd": 106.14,
+      "trade_volume_eth": 0.1,
+      "trade_count": 1,
+      "owner_count": 3,
+      "change": {
+        "trade_volume_usd": 3.57,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 208.70999999999998,
+      "trade_volume_eth": 0.2,
+      "trade_count": 2,
+      "owner_count": 6,
+      "change": {
+        "trade_volume_usd": 106.14,
+        "trade_volume_eth": 0.1,
+        "trade_count": 1,
+        "owner_count": 3
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 208.70999999999998,
+      "trade_volume_eth": 0.2,
+      "trade_count": 2,
+      "owner_count": 6,
+      "change": {
+        "trade_volume_usd": 106.14,
+        "trade_volume_eth": 0.1,
+        "trade_count": 1,
+        "owner_count": 3
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 208.71,
+      "trade_volume_eth": 0.2,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 2,
+      "owner_count": 3,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Vy Worlds Items",
+    "address": "0xed252b64a49e92ee10cceb3dd942e20e7561bcf5",
+    "24h": {
+      "trade_volume_usd": 31.22,
+      "trade_volume_eth": 0.01563,
+      "trade_count": 1,
+      "owner_count": 93,
+      "change": {
+        "trade_volume_usd": -20.48,
+        "trade_volume_eth": -0.014517500000000001,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 170.97,
+      "trade_volume_eth": 0.0957775,
+      "trade_count": 3,
+      "owner_count": 278,
+      "change": {
+        "trade_volume_usd": 31.22,
+        "trade_volume_eth": 0.01563,
+        "trade_count": 1,
+        "owner_count": 93
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 170.97,
+      "trade_volume_eth": 0.0957775,
+      "trade_count": 3,
+      "owner_count": 278,
+      "change": {
+        "trade_volume_usd": 31.22,
+        "trade_volume_eth": 0.01563,
+        "trade_count": 1,
+        "owner_count": 93
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 170.97,
+      "trade_volume_eth": 0.0957775,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 3,
+      "owner_count": 93,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "051 Animated Monsters",
+    "address": "0xee8a7a6d7b3819d49f0a2a0e57d6a8f6b93ecc97",
+    "24h": {
+      "trade_volume_usd": 23823.2,
+      "trade_volume_eth": 14.02,
+      "trade_count": 1,
+      "owner_count": 10,
+      "change": {
+        "trade_volume_usd": -76.48,
+        "trade_volume_eth": 0.5382999999999992,
+        "trade_count": 0,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 47887.71,
+      "trade_volume_eth": 27.6317,
+      "trade_count": 8,
+      "owner_count": 63,
+      "change": {
+        "trade_volume_usd": -183059.35,
+        "trade_volume_eth": -175.13,
+        "trade_count": -5,
+        "owner_count": 5
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 642215.95,
+      "trade_volume_eth": 564.7807,
+      "trade_count": 23,
+      "owner_count": 82,
+      "change": {
+        "trade_volume_usd": 23823.2,
+        "trade_volume_eth": 14.02,
+        "trade_count": 1,
+        "owner_count": 10
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 642215.95,
+      "trade_volume_eth": 564.7807,
+      "floor_price_usd": 20.48,
+      "floor_price_eth": 0.02,
+      "trade_count": 23,
+      "owner_count": 11,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Les Cercles de Cassiodore",
+    "address": "0x037d37bda4c7887982b1fea96a5bd61bfd9db935",
+    "24h": {
+      "trade_volume_usd": 82.42,
+      "trade_volume_eth": 0.043636,
+      "trade_count": 1,
+      "owner_count": 6,
+      "change": {
+        "trade_volume_usd": 11.39,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 658.92,
+      "trade_volume_eth": 0.36261516,
+      "trade_count": 8,
+      "owner_count": 20,
+      "change": {
+        "trade_volume_usd": 82.42,
+        "trade_volume_eth": 0.043636,
+        "trade_count": 1,
+        "owner_count": 6
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 658.92,
+      "trade_volume_eth": 0.36261516,
+      "trade_count": 8,
+      "owner_count": 20,
+      "change": {
+        "trade_volume_usd": 82.42,
+        "trade_volume_eth": 0.043636,
+        "trade_count": 1,
+        "owner_count": 6
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 658.92,
+      "trade_volume_eth": 0.36261516,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 8,
+      "owner_count": 6,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Legends Of The Metaverse Land",
+    "address": "0xe47fa735f0bdc8c601dbe9ec531485ce542bd854",
+    "24h": {
+      "trade_volume_usd": 559.48,
+      "trade_volume_eth": 0.356,
+      "trade_count": 3,
+      "owner_count": 313,
+      "change": {
+        "trade_volume_usd": 443.01,
+        "trade_volume_eth": 0.28400000000000003,
+        "trade_count": 2,
+        "owner_count": 313
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 2088.96,
+      "trade_volume_eth": 1.2540758,
+      "trade_count": 9,
+      "owner_count": 1886,
+      "change": {
+        "trade_volume_usd": 453.77,
+        "trade_volume_eth": 0.28800000000000003,
+        "trade_count": 2,
+        "owner_count": 313
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 7751.549999999999,
+      "trade_volume_eth": 4.46160445,
+      "trade_count": 34,
+      "owner_count": 8568,
+      "change": {
+        "trade_volume_usd": -25.51,
+        "trade_volume_eth": 0.188,
+        "trade_count": 2,
+        "owner_count": -5
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 15320.17,
+      "trade_volume_eth": 6.95472445,
+      "floor_price_usd": 76.30228,
+      "floor_price_eth": 0.0448,
+      "trade_count": 47,
+      "owner_count": 313,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Pirates of the Arrland: Items",
+    "address": "0x00ed5f674cd4a340bd8023dc1ffb0dcf840fbf41",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 134,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 134
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 78.46000000000001,
+      "trade_volume_eth": 0.05,
+      "trade_count": 2,
+      "owner_count": 530,
+      "change": {
+        "trade_volume_usd": -22.07,
+        "trade_volume_eth": -0.014264820000000001,
+        "trade_count": -2,
+        "owner_count": 5
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 441.69,
+      "trade_volume_eth": 0.264395796,
+      "trade_count": 22,
+      "owner_count": 1860,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 20
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 569.83,
+      "trade_volume_eth": 0.340539643,
+      "floor_price_usd": 1.84983165,
+      "floor_price_eth": 0.001119657,
+      "trade_count": 30,
+      "owner_count": 134,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Legends Of The Metaverse Shards",
+    "address": "0x682acdda55cd74aa639e65c8835af070ed89b6a0",
+    "24h": {
+      "trade_volume_usd": 334.8,
+      "trade_volume_eth": 0.212,
+      "trade_count": 4,
+      "owner_count": 532,
+      "change": {
+        "trade_volume_usd": 256.16,
+        "trade_volume_eth": 0.162,
+        "trade_count": 3,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 596.7400000000001,
+      "trade_volume_eth": 0.3862825200000001,
+      "trade_count": 11,
+      "owner_count": 3740,
+      "change": {
+        "trade_volume_usd": 282.92,
+        "trade_volume_eth": 0.16699999999999998,
+        "trade_count": 3,
+        "owner_count": 532
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 6019.410000000001,
+      "trade_volume_eth": 2.5417255200000004,
+      "trade_count": 47,
+      "owner_count": 14529,
+      "change": {
+        "trade_volume_usd": -79.48,
+        "trade_volume_eth": 0.05469999999999999,
+        "trade_count": 3,
+        "owner_count": -10
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 12631.84,
+      "trade_volume_eth": 4.75737954,
+      "floor_price_usd": 3.693184,
+      "floor_price_eth": 0.035,
+      "trade_count": 68,
+      "owner_count": 532,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "10000 Azuki",
+    "address": "0xc1ac24fb8242848c676a499b45579e6886d4707d",
+    "24h": {
+      "trade_volume_usd": 33.28,
+      "trade_volume_eth": 0.02,
+      "trade_count": 1,
+      "owner_count": 26,
+      "change": {
+        "trade_volume_usd": -28.8,
+        "trade_volume_eth": -0.02,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 11135.6,
+      "trade_volume_eth": 5.938000000000001,
+      "trade_count": 17,
+      "owner_count": 122,
+      "change": {
+        "trade_volume_usd": -34.92,
+        "trade_volume_eth": -0.02,
+        "trade_count": -1,
+        "owner_count": 5
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 11762.630000000001,
+      "trade_volume_eth": 6.4229999999999965,
+      "trade_count": 41,
+      "owner_count": 328,
+      "change": {
+        "trade_volume_usd": 33.28,
+        "trade_volume_eth": 0.02,
+        "trade_count": 1,
+        "owner_count": 26
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 11762.63,
+      "trade_volume_eth": 6.423,
+      "floor_price_usd": 20.4666,
+      "floor_price_eth": 0.02,
+      "trade_count": 41,
+      "owner_count": 26,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "64 Fractionalized Doge NFT",
+    "address": "0xf05fb8e426ee740560cb5cbcc1499a8ded132c0f",
+    "24h": {
+      "trade_volume_usd": 31.17,
+      "trade_volume_eth": 0.02,
+      "trade_count": 1,
+      "owner_count": 19,
+      "change": {
+        "trade_volume_usd": 7.8,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 574.17,
+      "trade_volume_eth": 0.36027600000000004,
+      "trade_count": 9,
+      "owner_count": 70,
+      "change": {
+        "trade_volume_usd": -140.45,
+        "trade_volume_eth": -0.06940299999999999,
+        "trade_count": -1,
+        "owner_count": 19
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 4759.239999999999,
+      "trade_volume_eth": 1.7152029700000002,
+      "trade_count": 38,
+      "owner_count": 214,
+      "change": {
+        "trade_volume_usd": 31.17,
+        "trade_volume_eth": 0.02,
+        "trade_count": 1,
+        "owner_count": 19
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 4759.24,
+      "trade_volume_eth": 1.71520297,
+      "floor_price_usd": 21.1494,
+      "floor_price_eth": 0.02,
+      "trade_count": 38,
+      "owner_count": 19,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "10,021 Mfers",
+    "address": "0xecee68efc07a70046eca074aecb3e49b2d19bab5",
+    "24h": {
+      "trade_volume_usd": 40.03,
+      "trade_volume_eth": 0.02,
+      "trade_count": 1,
+      "owner_count": 21,
+      "change": {
+        "trade_volume_usd": 0.24,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 446.09000000000003,
+      "trade_volume_eth": 0.26,
+      "trade_count": 12,
+      "owner_count": 126,
+      "change": {
+        "trade_volume_usd": 15.63,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 8
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 1031.8999999999999,
+      "trade_volume_eth": 0.7599999999999998,
+      "trade_count": 29,
+      "owner_count": 209,
+      "change": {
+        "trade_volume_usd": 40.03,
+        "trade_volume_eth": 0.02,
+        "trade_count": 1,
+        "owner_count": 21
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 1031.9,
+      "trade_volume_eth": 0.76,
+      "floor_price_usd": 21.344,
+      "floor_price_eth": 0.02,
+      "trade_count": 29,
+      "owner_count": 21,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "100 Immutable Rocks",
+    "address": "0x0d3f90bbdbc737daac273e286c0dc5ac0d0b8882",
+    "24h": {
+      "trade_volume_usd": 31.5,
+      "trade_volume_eth": 0.02,
+      "trade_count": 1,
+      "owner_count": 30,
+      "change": {
+        "trade_volume_usd": -22542.57,
+        "trade_volume_eth": -12.6829,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 593136.71,
+      "trade_volume_eth": 515.330053,
+      "trade_count": 36,
+      "owner_count": 199,
+      "change": {
+        "trade_volume_usd": -69.67,
+        "trade_volume_eth": -0.06,
+        "trade_count": -1,
+        "owner_count": 30
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 646763.38,
+      "trade_volume_eth": 528.2877028000001,
+      "trade_count": 84,
+      "owner_count": 541,
+      "change": {
+        "trade_volume_usd": 31.5,
+        "trade_volume_eth": 0.02,
+        "trade_count": 1,
+        "owner_count": 30
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 646763.38,
+      "trade_volume_eth": 528.2877028,
+      "floor_price_usd": 31.4391,
+      "floor_price_eth": 0.02,
+      "trade_count": 84,
+      "owner_count": 30,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "IMX Kongz Bananas",
+    "address": "0xb7e0f4380e67fd0a3a35cc8142b50bf8229ee807",
+    "24h": {
+      "trade_volume_usd": 0.83,
+      "trade_volume_eth": 0.0005,
+      "trade_count": 1,
+      "owner_count": 218,
+      "change": {
+        "trade_volume_usd": -4.03,
+        "trade_volume_eth": -0.0019,
+        "trade_count": -5,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 10.110000000000001,
+      "trade_volume_eth": 0.005667499999999999,
+      "trade_count": 13,
+      "owner_count": 1505,
+      "change": {
+        "trade_volume_usd": -3.55,
+        "trade_volume_eth": -0.0016499999999999998,
+        "trade_count": -3,
+        "owner_count": 7
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 569.78,
+      "trade_volume_eth": 0.206061029,
+      "trade_count": 64,
+      "owner_count": 5752,
+      "change": {
+        "trade_volume_usd": 0.83,
+        "trade_volume_eth": 0.0005,
+        "trade_count": 1,
+        "owner_count": 218
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 569.78,
+      "trade_volume_eth": 0.206061029,
+      "floor_price_usd": 0.498807,
+      "floor_price_eth": 0.0004,
+      "trade_count": 64,
+      "owner_count": 218,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Immutable KongX",
+    "address": "0x75cf94a722d8d0190a33f6e7d1bf2a9e0290df56",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": -188
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 561,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 0
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 121.23,
+      "trade_volume_eth": 0.0749584,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 3,
+      "owner_count": 188,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "F.U.D.",
+    "address": "0x1b1509ae2dec28d34cc000a07487621b1d019edd",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 91,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 628.04,
+      "trade_volume_eth": 0.5164999,
+      "trade_count": 18,
+      "owner_count": 430,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 15
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 1023.9899999999999,
+      "trade_volume_eth": 0.8345999000000002,
+      "trade_count": 36,
+      "owner_count": 639,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 91
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 1023.99,
+      "trade_volume_eth": 0.8345999,
+      "floor_price_usd": 15.32692,
+      "floor_price_eth": 0.014,
+      "trade_count": 36,
+      "owner_count": 91,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "IMX Pups",
+    "address": "0x862504e5d1a2e967a2fffd163a3453da1fa172de",
+    "24h": {
+      "trade_volume_usd": 0.75,
+      "trade_volume_eth": 0.00045,
+      "trade_count": 1,
+      "owner_count": 3589,
+      "change": {
+        "trade_volume_usd": -0.03,
+        "trade_volume_eth": -0.00005000000000000004,
+        "trade_count": 0,
+        "owner_count": 3589
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 22.85,
+      "trade_volume_eth": 0.01283,
+      "trade_count": 9,
+      "owner_count": 21533,
+      "change": {
+        "trade_volume_usd": -1.2999999999999998,
+        "trade_volume_eth": -0.00075,
+        "trade_count": 0,
+        "owner_count": 0
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 345.74,
+      "trade_volume_eth": 0.16382672500000003,
+      "trade_count": 74,
+      "owner_count": 75403,
+      "change": {
+        "trade_volume_usd": 0.75,
+        "trade_volume_eth": 0.00045,
+        "trade_count": 1,
+        "owner_count": 3589
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 345.74,
+      "trade_volume_eth": 0.163826725,
+      "floor_price_usd": 0.167667,
+      "floor_price_eth": 0.00018,
+      "trade_count": 74,
+      "owner_count": 3589,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Morphlings",
+    "address": "0x73313118cf4a91a420c3c5bd7110d245d0c04596",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 30.300000000000004,
+      "trade_volume_eth": 0.0201,
+      "trade_count": 7,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": -0.15,
+        "trade_volume_eth": -0.0001,
+        "trade_count": -1,
+        "owner_count": 0
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 99.54,
+      "trade_volume_eth": 0.07720999999999999,
+      "trade_count": 15,
+      "owner_count": 139,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 0
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 101.13,
+      "trade_volume_eth": 0.078102944,
+      "floor_price_usd": 0.0113113,
+      "floor_price_eth": 0.00001,
+      "trade_count": 17,
+      "owner_count": 19,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "The Beautiful Game - 80s Icons",
+    "address": "0xac4a12f914b402f4f06306bd7e7e2560f5173afb",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 5,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 9,
+      "change": {
+        "trade_volume_usd": -58.97,
+        "trade_volume_eth": -0.05,
+        "trade_count": -1,
+        "owner_count": 2
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 58.97,
+      "trade_volume_eth": 0.05,
+      "trade_count": 1,
+      "owner_count": 15,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 5
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 58.97,
+      "trade_volume_eth": 0.05,
+      "floor_price_usd": null,
+      "floor_price_eth": null,
+      "trade_count": 1,
+      "owner_count": 5,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "10,000 Degen Apes",
+    "address": "0xf264d140301b89521229ada077b6614b67315dec",
+    "24h": {
+      "trade_volume_usd": 4.66,
+      "trade_volume_eth": 0.003,
+      "trade_count": 1,
+      "owner_count": 40,
+      "change": {
+        "trade_volume_usd": -46.1,
+        "trade_volume_eth": -0.027000000000000003,
+        "trade_count": 0,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 49946.85,
+      "trade_volume_eth": 28.609925956999998,
+      "trade_count": 15,
+      "owner_count": 265,
+      "change": {
+        "trade_volume_usd": -29976.53,
+        "trade_volume_eth": -17.313464489,
+        "trade_count": -1,
+        "owner_count": 6
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 100448.20000000001,
+      "trade_volume_eth": 57.935784414000004,
+      "trade_count": 49,
+      "owner_count": 856,
+      "change": {
+        "trade_volume_usd": -252.31000000000003,
+        "trade_volume_eth": -0.1245,
+        "trade_count": -2,
+        "owner_count": 23
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 101906.2,
+      "trade_volume_eth": 58.491684414,
+      "floor_price_usd": 4.6587,
+      "floor_price_eth": 0.0145,
+      "trade_count": 72,
+      "owner_count": 40,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "LlamaPunkz",
+    "address": "0xe6c2ad2d8a9367732f95bb997cb239de671b5b7a",
+    "24h": {
+      "trade_volume_usd": 94.1,
+      "trade_volume_eth": 0.059,
+      "trade_count": 2,
+      "owner_count": 186,
+      "change": {
+        "trade_volume_usd": 94.1,
+        "trade_volume_eth": 0.059,
+        "trade_count": 2,
+        "owner_count": 186
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 238.01,
+      "trade_volume_eth": 0.14360099999999998,
+      "trade_count": 4,
+      "owner_count": 555,
+      "change": {
+        "trade_volume_usd": 94.1,
+        "trade_volume_eth": 0.059,
+        "trade_count": 2,
+        "owner_count": 186
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 821.04,
+      "trade_volume_eth": 0.39930299999999996,
+      "trade_count": 21,
+      "owner_count": 3467,
+      "change": {
+        "trade_volume_usd": 94.1,
+        "trade_volume_eth": 0.059,
+        "trade_count": 2,
+        "owner_count": 6
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 5949.67,
+      "trade_volume_eth": 2.008076288,
+      "floor_price_usd": 9.929463,
+      "floor_price_eth": 0.01,
+      "trade_count": 95,
+      "owner_count": 186,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "000GEN Moonbirds",
+    "address": "0x05c415d43dbb0a749bb7753d1f51fe23ff3d1f32",
+    "24h": {
+      "trade_volume_usd": 694.78,
+      "trade_volume_eth": 0.44229915,
+      "trade_count": 22,
+      "owner_count": 46,
+      "change": {
+        "trade_volume_usd": 606.72,
+        "trade_volume_eth": 0.38729915,
+        "trade_count": 20,
+        "owner_count": -3
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 1087.7799999999997,
+      "trade_volume_eth": 0.67306665,
+      "trade_count": 31,
+      "owner_count": 329,
+      "change": {
+        "trade_volume_usd": 615.45,
+        "trade_volume_eth": 0.40229915,
+        "trade_count": 20,
+        "owner_count": 46
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 3090.4199999999996,
+      "trade_volume_eth": 2.1278586500000003,
+      "trade_count": 81,
+      "owner_count": 1021,
+      "change": {
+        "trade_volume_usd": 672.65,
+        "trade_volume_eth": 0.42229914999999996,
+        "trade_count": 21,
+        "owner_count": 32
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 4028.08,
+      "trade_volume_eth": 2.61353029,
+      "floor_price_usd": 31.3526,
+      "floor_price_eth": 0.02,
+      "trade_count": 98,
+      "owner_count": 46,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Legends Of The Metaverse",
+    "address": "0xf66136083496c756ac956f8e9a2f7e72ae7fe177",
+    "24h": {
+      "trade_volume_usd": 141.5,
+      "trade_volume_eth": 0.09,
+      "trade_count": 2,
+      "owner_count": 566,
+      "change": {
+        "trade_volume_usd": -63.3,
+        "trade_volume_eth": -0.04,
+        "trade_count": -1,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 560.9200000000001,
+      "trade_volume_eth": 0.35299601999999997,
+      "trade_count": 10,
+      "owner_count": 3405,
+      "change": {
+        "trade_volume_usd": 141.5,
+        "trade_volume_eth": 0.09,
+        "trade_count": 2,
+        "owner_count": -1
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 10660.320000000002,
+      "trade_volume_eth": 4.16128902,
+      "trade_count": 43,
+      "owner_count": 15619,
+      "change": {
+        "trade_volume_usd": -137.61,
+        "trade_volume_eth": -0.02,
+        "trade_count": 1,
+        "owner_count": 25
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 27145.71,
+      "trade_volume_eth": 10.156418178,
+      "floor_price_usd": 37.639,
+      "floor_price_eth": 0.03,
+      "trade_count": 92,
+      "owner_count": 566,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Ember Sword Badge",
+    "address": "0x6c4944e465875155ff454699db5adfc650847cb5",
+    "24h": {
+      "trade_volume_usd": 236.29,
+      "trade_volume_eth": 0.1461,
+      "trade_count": 2,
+      "owner_count": 3008,
+      "change": {
+        "trade_volume_usd": 236.29,
+        "trade_volume_eth": 0.1461,
+        "trade_count": 2,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 2499.48,
+      "trade_volume_eth": 1.6011,
+      "trade_count": 6,
+      "owner_count": 21005,
+      "change": {
+        "trade_volume_usd": 6.12,
+        "trade_volume_eth": -0.003899999999999988,
+        "trade_count": 1,
+        "owner_count": 71
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 11728.819999999998,
+      "trade_volume_eth": 6.885039999999999,
+      "trade_count": 26,
+      "owner_count": 79194,
+      "change": {
+        "trade_volume_usd": -154.69,
+        "trade_volume_eth": -0.09289999999999997,
+        "trade_count": 1,
+        "owner_count": 386
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 137425.7,
+      "trade_volume_eth": 90.222883,
+      "floor_price_usd": 109.21204901377259,
+      "floor_price_eth": 0.0726,
+      "trade_count": 85,
+      "owner_count": 3008,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "10,000 Deez Nuts",
+    "address": "0x601ba08507555e1bc98ee6694b9de65293b21ebf",
+    "24h": {
+      "trade_volume_usd": 41.68,
+      "trade_volume_eth": 0.026261,
+      "trade_count": 1,
+      "owner_count": 14,
+      "change": {
+        "trade_volume_usd": 1.67,
+        "trade_volume_eth": 0.006261000000000001,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 91624.1,
+      "trade_volume_eth": 52.670378495,
+      "trade_count": 9,
+      "owner_count": 86,
+      "change": {
+        "trade_volume_usd": -25.3,
+        "trade_volume_eth": -0.013739,
+        "trade_count": -1,
+        "owner_count": 4
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 93231.63999999997,
+      "trade_volume_eth": 53.889453995000004,
+      "trade_count": 43,
+      "owner_count": 172,
+      "change": {
+        "trade_volume_usd": 41.68,
+        "trade_volume_eth": 0.026261,
+        "trade_count": 1,
+        "owner_count": 14
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 93231.64,
+      "trade_volume_eth": 53.889453995,
+      "floor_price_usd": 21.1792,
+      "floor_price_eth": 0.02,
+      "trade_count": 43,
+      "owner_count": 14,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Ascended Krows",
+    "address": "0x1e7b4c7d9902631c273df72d8a8c2a89ce2e8d2c",
+    "24h": {
+      "trade_volume_usd": 109002.52,
+      "trade_volume_eth": 69.14,
+      "trade_count": 142,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": 109002.52,
+        "trade_volume_eth": 69.14,
+        "trade_count": 142,
+        "owner_count": -4152
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 209452.64,
+      "trade_volume_eth": 133.409,
+      "trade_count": 228,
+      "owner_count": 16609,
+      "change": {
+        "trade_volume_usd": 109002.52,
+        "trade_volume_eth": 69.14,
+        "trade_count": 142,
+        "owner_count": 0
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 209452.64,
+      "trade_volume_eth": 133.409,
+      "trade_count": 228,
+      "owner_count": 16610,
+      "change": {
+        "trade_volume_usd": 109002.52,
+        "trade_volume_eth": 69.14,
+        "trade_count": 142,
+        "owner_count": 0
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 209452.64,
+      "trade_volume_eth": 133.409,
+      "floor_price_usd": 535.9012,
+      "floor_price_eth": 0.34,
+      "trade_count": 228,
+      "owner_count": 4152,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "dBriscola",
+    "address": "0x4fcf5fba13a6cd3f6a710358638fc21932e978e5",
+    "24h": {
+      "trade_volume_usd": 1.27,
+      "trade_volume_eth": 0.0008087,
+      "trade_count": 1,
+      "owner_count": 33,
+      "change": {
+        "trade_volume_usd": -5055.32,
+        "trade_volume_eth": -2.72068152,
+        "trade_count": -113,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 25067.9,
+      "trade_volume_eth": 13.034812670000003,
+      "trade_count": 119,
+      "owner_count": 80,
+      "change": {
+        "trade_volume_usd": 1.27,
+        "trade_volume_eth": 0.0008087,
+        "trade_count": 1,
+        "owner_count": 31
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 25067.9,
+      "trade_volume_eth": 13.034812670000003,
+      "trade_count": 119,
+      "owner_count": 82,
+      "change": {
+        "trade_volume_usd": 1.27,
+        "trade_volume_eth": 0.0008087,
+        "trade_count": 1,
+        "owner_count": 33
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 25067.9,
+      "trade_volume_eth": 13.03481267,
+      "floor_price_usd": 1.502459469,
+      "floor_price_eth": 0.0008087,
+      "trade_count": 119,
+      "owner_count": 33,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "BattleFactions Inventory",
+    "address": "0x238617a39bfdaa90baf79c4335a03c68f1db69a3",
+    "24h": {
+      "trade_volume_usd": 2.5,
+      "trade_volume_eth": 0.0015,
+      "trade_count": 1,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": 0.16,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": -393
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 12.450000000000001,
+      "trade_volume_eth": 0.0075,
+      "trade_count": 6,
+      "owner_count": 2351,
+      "change": {
+        "trade_volume_usd": 2.5,
+        "trade_volume_eth": 0.0015,
+        "trade_count": 1,
+        "owner_count": -391
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 403.74,
+      "trade_volume_eth": 0.18458068599999997,
+      "trade_count": 70,
+      "owner_count": 11055,
+      "change": {
+        "trade_volume_usd": -36.49,
+        "trade_volume_eth": -0.01425,
+        "trade_count": -2,
+        "owner_count": -396
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 1074.72,
+      "trade_volume_eth": 0.375460186,
+      "floor_price_usd": 1.47964,
+      "floor_price_eth": 0.001,
+      "trade_count": 98,
+      "owner_count": 393,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Launch Chads",
+    "address": "0xa3c3882d915f46fe2a6ef79d100a9b6901634379",
+    "24h": {
+      "trade_volume_usd": 182.66,
+      "trade_volume_eth": 0.115,
+      "trade_count": 1,
+      "owner_count": 168,
+      "change": {
+        "trade_volume_usd": -22.84,
+        "trade_volume_eth": -0.015,
+        "trade_count": 0,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 2656.1600000000003,
+      "trade_volume_eth": 1.5706,
+      "trade_count": 15,
+      "owner_count": 840,
+      "change": {
+        "trade_volume_usd": -493.61,
+        "trade_volume_eth": -0.28700000000000003,
+        "trade_count": -2,
+        "owner_count": 168
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 10476.23,
+      "trade_volume_eth": 6.8306000000000004,
+      "trade_count": 60,
+      "owner_count": 3316,
+      "change": {
+        "trade_volume_usd": -53.29,
+        "trade_volume_eth": -0.017599999999999998,
+        "trade_count": 0,
+        "owner_count": 5
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 51185.56,
+      "trade_volume_eth": 21.17541699,
+      "floor_price_usd": 103.243,
+      "floor_price_eth": 0.09,
+      "trade_count": 165,
+      "owner_count": 168,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Angry Elves",
+    "address": "0x4bfc33623ad76c05ea14096740e61413cd6900c1",
+    "24h": {
+      "trade_volume_usd": 10.07,
+      "trade_volume_eth": 0.0065,
+      "trade_count": 1,
+      "owner_count": 363,
+      "change": {
+        "trade_volume_usd": 0.59,
+        "trade_volume_eth": 0.0005000000000000004,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 90.91,
+      "trade_volume_eth": 0.054194400000000004,
+      "trade_count": 7,
+      "owner_count": 2532,
+      "change": {
+        "trade_volume_usd": -5.52,
+        "trade_volume_eth": -0.0024999999999999988,
+        "trade_count": 0,
+        "owner_count": 4
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 639.03,
+      "trade_volume_eth": 0.3788669,
+      "trade_count": 24,
+      "owner_count": 9664,
+      "change": {
+        "trade_volume_usd": -8.759999999999998,
+        "trade_volume_eth": -0.003467999999999999,
+        "trade_count": 0,
+        "owner_count": 363
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 16319.89,
+      "trade_volume_eth": 6.056786064,
+      "floor_price_usd": 8.593984,
+      "floor_price_eth": 0.00448,
+      "trade_count": 189,
+      "owner_count": 363,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "001GEN Rare Cats",
+    "address": "0xa5ae5b646f72d0ed0bb525751aad1f9117531e70",
+    "24h": {
+      "trade_volume_usd": 8.34,
+      "trade_volume_eth": 0.0052522,
+      "trade_count": 1,
+      "owner_count": 48,
+      "change": {
+        "trade_volume_usd": -3.48,
+        "trade_volume_eth": -0.0017478000000000005,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 929381.0399999999,
+      "trade_volume_eth": 531.5976591299999,
+      "trade_count": 84,
+      "owner_count": 313,
+      "change": {
+        "trade_volume_usd": -48951.52,
+        "trade_volume_eth": -29.578097800000002,
+        "trade_count": -10,
+        "owner_count": 9
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 1019032.3199999998,
+      "trade_volume_eth": 586.2123920839997,
+      "trade_count": 161,
+      "owner_count": 730,
+      "change": {
+        "trade_volume_usd": -220.23,
+        "trade_volume_eth": -0.10884870200000002,
+        "trade_count": -19,
+        "owner_count": 29
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 1020366.54,
+      "trade_volume_eth": 586.711015057,
+      "floor_price_usd": 8.33669,
+      "floor_price_eth": 0.0052522,
+      "trade_count": 210,
+      "owner_count": 48,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Confidential Comrades IMX",
+    "address": "0xfcb99f6b2e6e37f1cf590dedf12cf6affc49fa45",
+    "24h": {
+      "trade_volume_usd": 12.48,
+      "trade_volume_eth": 0.008,
+      "trade_count": 1,
+      "owner_count": 198,
+      "change": {
+        "trade_volume_usd": 12.48,
+        "trade_volume_eth": 0.008,
+        "trade_count": 1,
+        "owner_count": 198
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 40.099999999999994,
+      "trade_volume_eth": 0.024,
+      "trade_count": 3,
+      "owner_count": 991,
+      "change": {
+        "trade_volume_usd": 12.48,
+        "trade_volume_eth": 0.008,
+        "trade_count": 1,
+        "owner_count": 198
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 1123.6599999999999,
+      "trade_volume_eth": 0.664485246,
+      "trade_count": 29,
+      "owner_count": 4382,
+      "change": {
+        "trade_volume_usd": -42.25,
+        "trade_volume_eth": -0.0132,
+        "trade_count": 0,
+        "owner_count": -2
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 13394.02,
+      "trade_volume_eth": 3.816060746,
+      "floor_price_usd": 0.0033718375,
+      "floor_price_eth": 0.00000107,
+      "trade_count": 132,
+      "owner_count": 198,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Project Kyzen: Pre-Genesis",
+    "address": "0xd691b07c44a05d5b3fbca0546e90ef86c3e3a48b",
+    "24h": {
+      "trade_volume_usd": 166.58,
+      "trade_volume_eth": 0.1,
+      "trade_count": 1,
+      "owner_count": 2158,
+      "change": {
+        "trade_volume_usd": 166.58,
+        "trade_volume_eth": 0.1,
+        "trade_count": 1,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 1185.92,
+      "trade_volume_eth": 0.745,
+      "trade_count": 4,
+      "owner_count": 12959,
+      "change": {
+        "trade_volume_usd": 166.58,
+        "trade_volume_eth": 0.1,
+        "trade_count": 1,
+        "owner_count": 2158
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 6455.099999999999,
+      "trade_volume_eth": 4.998765,
+      "trade_count": 64,
+      "owner_count": 58388,
+      "change": {
+        "trade_volume_usd": -16.79,
+        "trade_volume_eth": -0.076492,
+        "trade_count": -4,
+        "owner_count": 42
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 34100.6,
+      "trade_volume_eth": 22.178687704,
+      "floor_price_usd": 16.8628,
+      "floor_price_eth": 0.01,
+      "trade_count": 273,
+      "owner_count": 2158,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Vy Worlds",
+    "address": "0xb77b1d03da02598c117910f6f014ff05ccd6a09a",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 385,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 540.89,
+      "trade_volume_eth": 0.33,
+      "trade_count": 4,
+      "owner_count": 1542,
+      "change": {
+        "trade_volume_usd": -292.23,
+        "trade_volume_eth": -0.1791,
+        "trade_count": -2,
+        "owner_count": 0
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 7571.3099999999995,
+      "trade_volume_eth": 4.5445999,
+      "trade_count": 34,
+      "owner_count": 8930,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": -7
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 67252.48,
+      "trade_volume_eth": 31.450656119,
+      "floor_price_usd": 110.4642,
+      "floor_price_eth": 0.07,
+      "trade_count": 258,
+      "owner_count": 385,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "APE DAO",
+    "address": "0x05a95995692c7f97e21267591d24348042f0bf33",
+    "24h": {
+      "trade_volume_usd": 8.32,
+      "trade_volume_eth": 0.005,
+      "trade_count": 1,
+      "owner_count": 2417,
+      "change": {
+        "trade_volume_usd": 8.32,
+        "trade_volume_eth": 0.005,
+        "trade_count": 1,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 23.33,
+      "trade_volume_eth": 0.01460335,
+      "trade_count": 5,
+      "owner_count": 12092,
+      "change": {
+        "trade_volume_usd": -8.829999999999998,
+        "trade_volume_eth": -0.005082949999999999,
+        "trade_count": 0,
+        "owner_count": -2
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 4985.160000000001,
+      "trade_volume_eth": 2.993027952,
+      "trade_count": 239,
+      "owner_count": 59974,
+      "change": {
+        "trade_volume_usd": 8.32,
+        "trade_volume_eth": 0.005,
+        "trade_count": 1,
+        "owner_count": 2417
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 4985.16,
+      "trade_volume_eth": 2.993027952,
+      "floor_price_usd": 1.89596,
+      "floor_price_eth": 0.001,
+      "trade_count": 239,
+      "owner_count": 2417,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Photocentra.com",
+    "address": "0xcdb185260f86808b875005540ee4a36a28a05d52",
+    "24h": {
+      "trade_volume_usd": 0.01,
+      "trade_volume_eth": 0.000005196,
+      "trade_count": 1,
+      "owner_count": 351,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": -1.3700000000000063e-7,
+        "trade_count": 0,
+        "owner_count": 351
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 0.9,
+      "trade_volume_eth": 0.000550955,
+      "trade_count": 6,
+      "owner_count": 1745,
+      "change": {
+        "trade_volume_usd": 0.01,
+        "trade_volume_eth": 0.000005195999999999999,
+        "trade_count": 1,
+        "owner_count": 351
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 0.9,
+      "trade_volume_eth": 0.000550955,
+      "trade_count": 6,
+      "owner_count": 4146,
+      "change": {
+        "trade_volume_usd": 0.01,
+        "trade_volume_eth": 0.000005195999999999999,
+        "trade_count": 1,
+        "owner_count": 351
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 10425.01,
+      "trade_volume_eth": 2.633539055,
+      "floor_price_usd": 0.00830515,
+      "floor_price_eth": 0.000005196,
+      "trade_count": 1066,
+      "owner_count": 351,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "00000 Azuki X",
+    "address": "0xf01d46fd103fcb74c80b43f5b4412fdc4585e6d4",
+    "24h": {
+      "trade_volume_usd": 94.6,
+      "trade_volume_eth": 0.06,
+      "trade_count": 1,
+      "owner_count": 4389,
+      "change": {
+        "trade_volume_usd": 21.48,
+        "trade_volume_eth": 0.015,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 549.15,
+      "trade_volume_eth": 0.31465716,
+      "trade_count": 7,
+      "owner_count": 30708,
+      "change": {
+        "trade_volume_usd": -18.4,
+        "trade_volume_eth": -0.007477999999999998,
+        "trade_count": 0,
+        "owner_count": 4389
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 11825.100000000002,
+      "trade_volume_eth": 9.47956768,
+      "trade_count": 81,
+      "owner_count": 113816,
+      "change": {
+        "trade_volume_usd": 36.88,
+        "trade_volume_eth": 0.01,
+        "trade_count": 0,
+        "owner_count": 4389
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 61235.72,
+      "trade_volume_eth": 35.73468671,
+      "floor_price_usd": 33.8754,
+      "floor_price_eth": 0.0275,
+      "trade_count": 252,
+      "owner_count": 4389,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Ember Sword Land",
+    "address": "0x4fb656d9c7ad031e4eaad15e92ff10af75d8d621",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 2600,
+      "change": {
+        "trade_volume_usd": -2534.18,
+        "trade_volume_eth": -1.60460204,
+        "trade_count": -7,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 4294.78,
+      "trade_volume_eth": 2.7323881880000003,
+      "trade_count": 17,
+      "owner_count": 15570,
+      "change": {
+        "trade_volume_usd": -371.79,
+        "trade_volume_eth": -0.238694,
+        "trade_count": -2,
+        "owner_count": 54
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 15158.320000000002,
+      "trade_volume_eth": 9.146039956000001,
+      "trade_count": 78,
+      "owner_count": 67323,
+      "change": {
+        "trade_volume_usd": -574.74,
+        "trade_volume_eth": -0.34009999999999996,
+        "trade_count": -3,
+        "owner_count": 408
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 63882.45,
+      "trade_volume_eth": 44.756031551,
+      "floor_price_usd": 124.1936,
+      "floor_price_eth": 0.08,
+      "trade_count": 250,
+      "owner_count": 2600,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "HIGHROLLERS",
+    "address": "0x6a48058d26244b4f52ae22fad059e20606909e82",
+    "24h": {
+      "trade_volume_usd": 32.71,
+      "trade_volume_eth": 0.02,
+      "trade_count": 1,
+      "owner_count": 875,
+      "change": {
+        "trade_volume_usd": 0.87,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 261.35,
+      "trade_volume_eth": 0.184,
+      "trade_count": 12,
+      "owner_count": 5235,
+      "change": {
+        "trade_volume_usd": 32.71,
+        "trade_volume_eth": 0.02,
+        "trade_count": 1,
+        "owner_count": 875
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 1174.7199999999998,
+      "trade_volume_eth": 0.6217594000000001,
+      "trade_count": 47,
+      "owner_count": 15708,
+      "change": {
+        "trade_volume_usd": 0.14,
+        "trade_volume_eth": 0.009300000000000001,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 21966.59,
+      "trade_volume_eth": 6.681714187,
+      "floor_price_usd": 11.2018,
+      "floor_price_eth": 0.0057245,
+      "trade_count": 216,
+      "owner_count": 875,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Nifty Nuggets",
+    "address": "0x3d88c23d2d93d1f0391d2062e0189b99b0ce8dcb",
+    "24h": {
+      "trade_volume_usd": 307.21,
+      "trade_volume_eth": 0.2,
+      "trade_count": 1,
+      "owner_count": 522,
+      "change": {
+        "trade_volume_usd": 23.899999999999963,
+        "trade_volume_eth": 0.03,
+        "trade_count": 0,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 1182.98,
+      "trade_volume_eth": 0.75,
+      "trade_count": 4,
+      "owner_count": 3659,
+      "change": {
+        "trade_volume_usd": 307.21,
+        "trade_volume_eth": 0.2,
+        "trade_count": 1,
+        "owner_count": 522
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 10049.05,
+      "trade_volume_eth": 6.3284495409999995,
+      "trade_count": 17,
+      "owner_count": 13943,
+      "change": {
+        "trade_volume_usd": 307.21,
+        "trade_volume_eth": 0.2,
+        "trade_count": 1,
+        "owner_count": 522
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 1132465.89,
+      "trade_volume_eth": 369.956732665,
+      "floor_price_usd": 266.849,
+      "floor_price_eth": 0.0034517628,
+      "trade_count": 271,
+      "owner_count": 522,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "IMX Kaijuz",
+    "address": "0x3a4ba077781d4471f301b1a3eff5fc9e2723f219",
+    "24h": {
+      "trade_volume_usd": 5.31,
+      "trade_volume_eth": 0.0034,
+      "trade_count": 1,
+      "owner_count": 321,
+      "change": {
+        "trade_volume_usd": 5.31,
+        "trade_volume_eth": 0.0034,
+        "trade_count": 1,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 42.6,
+      "trade_volume_eth": 0.026,
+      "trade_count": 6,
+      "owner_count": 1606,
+      "change": {
+        "trade_volume_usd": -2.910000000000001,
+        "trade_volume_eth": -0.0012,
+        "trade_count": 0,
+        "owner_count": 0
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 703.23,
+      "trade_volume_eth": 0.27892880099999995,
+      "trade_count": 47,
+      "owner_count": 8893,
+      "change": {
+        "trade_volume_usd": -82.9,
+        "trade_volume_eth": -0.03335,
+        "trade_count": 0,
+        "owner_count": 12
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 22512.31,
+      "trade_volume_eth": 5.300652696,
+      "floor_price_usd": 1.62919575,
+      "floor_price_eth": 0.002675,
+      "trade_count": 168,
+      "owner_count": 321,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Battle Factions",
+    "address": "0xb941a7373e1dd60ad75e3460f849f28dd4bd6a07",
+    "24h": {
+      "trade_volume_usd": 14.23,
+      "trade_volume_eth": 0.009,
+      "trade_count": 1,
+      "owner_count": 382,
+      "change": {
+        "trade_volume_usd": -124.71,
+        "trade_volume_eth": -0.12200000000000001,
+        "trade_count": -18,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 174.45999999999998,
+      "trade_volume_eth": 0.15800000000000003,
+      "trade_count": 25,
+      "owner_count": 2311,
+      "change": {
+        "trade_volume_usd": -6.87,
+        "trade_volume_eth": -0.0016999999999999993,
+        "trade_count": 0,
+        "owner_count": -5
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 2029.97,
+      "trade_volume_eth": 0.9327674699999997,
+      "trade_count": 91,
+      "owner_count": 10914,
+      "change": {
+        "trade_volume_usd": -366.93,
+        "trade_volume_eth": -0.113325,
+        "trade_count": -3,
+        "owner_count": -13
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 45686.57,
+      "trade_volume_eth": 11.15829327,
+      "floor_price_usd": 3.22662,
+      "floor_price_eth": 0.005,
+      "trade_count": 318,
+      "owner_count": 382,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Aetheron - Faction Banners",
+    "address": "0xa97ea11858b13c1993e8bbd4d4e03d6a7d963423",
+    "24h": {
+      "trade_volume_usd": 9.36,
+      "trade_volume_eth": 0.0063,
+      "trade_count": 1,
+      "owner_count": 2040,
+      "change": {
+        "trade_volume_usd": -0.62,
+        "trade_volume_eth": 0.0013100000000000006,
+        "trade_count": 0,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 54.8,
+      "trade_volume_eth": 0.038290000000000005,
+      "trade_count": 4,
+      "owner_count": 14278,
+      "change": {
+        "trade_volume_usd": 3.2,
+        "trade_volume_eth": 0.0023,
+        "trade_count": 0,
+        "owner_count": 0
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 46587.98,
+      "trade_volume_eth": 22.699642700000002,
+      "trade_count": 274,
+      "owner_count": 32738,
+      "change": {
+        "trade_volume_usd": 9.36,
+        "trade_volume_eth": 0.0063,
+        "trade_count": 1,
+        "owner_count": 2040
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 46587.98,
+      "trade_volume_eth": 22.6996427,
+      "floor_price_usd": 6.1558,
+      "floor_price_eth": 0.004,
+      "trade_count": 274,
+      "owner_count": 2040,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "The Kornz",
+    "address": "0x4dba12824f1533a924699a7913a9ca7ee1e6b863",
+    "24h": {
+      "trade_volume_usd": 3.12,
+      "trade_volume_eth": 0.002,
+      "trade_count": 1,
+      "owner_count": 565,
+      "change": {
+        "trade_volume_usd": 1.42,
+        "trade_volume_eth": 0.001,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 22.019999999999996,
+      "trade_volume_eth": 0.0179,
+      "trade_count": 10,
+      "owner_count": 3943,
+      "change": {
+        "trade_volume_usd": -2.29,
+        "trade_volume_eth": -0.002,
+        "trade_count": -1,
+        "owner_count": 4
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 416.94,
+      "trade_volume_eth": 0.1666806,
+      "trade_count": 31,
+      "owner_count": 16840,
+      "change": {
+        "trade_volume_usd": 3.12,
+        "trade_volume_eth": 0.002,
+        "trade_count": 1,
+        "owner_count": 7
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 64818.32,
+      "trade_volume_eth": 15.530140775,
+      "floor_price_usd": 1.42943,
+      "floor_price_eth": 0.001,
+      "trade_count": 323,
+      "owner_count": 565,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Cyber Galz - Galz Partz⚙️",
+    "address": "0x5b5135e023d9638ad7a663a2740593eb0417e554",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 3202,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 3202
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 51.599999999999994,
+      "trade_volume_eth": 0.032747654,
+      "trade_count": 16,
+      "owner_count": 16013,
+      "change": {
+        "trade_volume_usd": -11.9,
+        "trade_volume_eth": -0.0075,
+        "trade_count": -4,
+        "owner_count": 3202
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 1978.9099999999999,
+      "trade_volume_eth": 1.0983428459999998,
+      "trade_count": 206,
+      "owner_count": 56713,
+      "change": {
+        "trade_volume_usd": -1.24,
+        "trade_volume_eth": -0.0006999999999999999,
+        "trade_count": -1,
+        "owner_count": 1998
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 3373.06,
+      "trade_volume_eth": 1.954062155,
+      "floor_price_usd": 0.02501691,
+      "floor_price_eth": 0.0000159684,
+      "trade_count": 426,
+      "owner_count": 3202,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Swift Mint: Images",
+    "address": "0x41ff943a5a31652a33cb23fb942769abb3dbaf97",
+    "24h": {
+      "trade_volume_usd": 5.98,
+      "trade_volume_eth": 0.0038,
+      "trade_count": 1,
+      "owner_count": 1558,
+      "change": {
+        "trade_volume_usd": 0.77,
+        "trade_volume_eth": 0.0004499999999999998,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 3137.2799999999997,
+      "trade_volume_eth": 1.6462228460000001,
+      "trade_count": 49,
+      "owner_count": 7782,
+      "change": {
+        "trade_volume_usd": 1.27,
+        "trade_volume_eth": 0.0010420000000000002,
+        "trade_count": -36,
+        "owner_count": 3
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 3341.67,
+      "trade_volume_eth": 1.7175710590000002,
+      "trade_count": 129,
+      "owner_count": 43478,
+      "change": {
+        "trade_volume_usd": 5.98,
+        "trade_volume_eth": 0.0037930000000000004,
+        "trade_count": -6,
+        "owner_count": 2
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 235695.26058378303,
+      "trade_volume_eth": 57.863191058,
+      "floor_price_usd": 0.0165463,
+      "floor_price_eth": 0.00001,
+      "trade_count": 2390,
+      "owner_count": 1558,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Cyber Galz - GalzU0001f9be🅾️💓⚡️",
+    "address": "0x20016fa709765558ed8229d8572a4275d3a1899f",
+    "24h": {
+      "trade_volume_usd": 134.4,
+      "trade_volume_eth": 0.0815,
+      "trade_count": 2,
+      "owner_count": 1266,
+      "change": {
+        "trade_volume_usd": 134.4,
+        "trade_volume_eth": 0.0815,
+        "trade_count": 2,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 570.42,
+      "trade_volume_eth": 0.3635,
+      "trade_count": 9,
+      "owner_count": 7556,
+      "change": {
+        "trade_volume_usd": 134.4,
+        "trade_volume_eth": 0.0815,
+        "trade_count": 2,
+        "owner_count": 1266
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 5298.54,
+      "trade_volume_eth": 2.9981633330000004,
+      "trade_count": 49,
+      "owner_count": 30392,
+      "change": {
+        "trade_volume_usd": 134.4,
+        "trade_volume_eth": 0.0815,
+        "trade_count": 2,
+        "owner_count": 111
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 92733.68,
+      "trade_volume_eth": 38.389961476,
+      "floor_price_usd": 44.3511,
+      "floor_price_eth": 0.03,
+      "trade_count": 464,
+      "owner_count": 1266,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "50ETHcat",
+    "address": "0xfd753bb372272699dc21a5d509650c27c80fbea4",
+    "24h": {
+      "trade_volume_usd": 8.26,
+      "trade_volume_eth": 0.0052484,
+      "trade_count": 1,
+      "owner_count": 426,
+      "change": {
+        "trade_volume_usd": -5.52,
+        "trade_volume_eth": -0.0034659299999999994,
+        "trade_count": -1,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 131.75,
+      "trade_volume_eth": 0.07299056999999999,
+      "trade_count": 13,
+      "owner_count": 2991,
+      "change": {
+        "trade_volume_usd": -3.77,
+        "trade_volume_eth": -0.001751600000000001,
+        "trade_count": 0,
+        "owner_count": -1
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 339.99999999999994,
+      "trade_volume_eth": 0.22338535000000004,
+      "trade_count": 39,
+      "owner_count": 10966,
+      "change": {
+        "trade_volume_usd": 8.26,
+        "trade_volume_eth": 0.005248399999999999,
+        "trade_count": 1,
+        "owner_count": 13
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 27248.84,
+      "trade_volume_eth": 7.098853311,
+      "floor_price_usd": 2.899026,
+      "floor_price_eth": 0.00152904,
+      "trade_count": 322,
+      "owner_count": 426,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Baby Ape Mining Club",
+    "address": "0xc623da01c7bf9078db5070589b74e6c31f448571",
+    "24h": {
+      "trade_volume_usd": 4.72,
+      "trade_volume_eth": 0.003,
+      "trade_count": 1,
+      "owner_count": 434,
+      "change": {
+        "trade_volume_usd": -10.12,
+        "trade_volume_eth": -0.005999999999999998,
+        "trade_count": 0,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 23199.079999999998,
+      "trade_volume_eth": 13.075349700000002,
+      "trade_count": 7,
+      "owner_count": 3040,
+      "change": {
+        "trade_volume_usd": -12.339999999999998,
+        "trade_volume_eth": -0.011000000000000001,
+        "trade_count": 0,
+        "owner_count": 1
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 475394.64000000013,
+      "trade_volume_eth": 417.50080829300003,
+      "trade_count": 45,
+      "owner_count": 12894,
+      "change": {
+        "trade_volume_usd": -86.81,
+        "trade_volume_eth": -0.0268,
+        "trade_count": 0,
+        "owner_count": 11
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 582608.69,
+      "trade_volume_eth": 443.321438734,
+      "floor_price_usd": 0.011537904,
+      "floor_price_eth": 0.003,
+      "trade_count": 487,
+      "owner_count": 435,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "10,000 Christmas Punks",
+    "address": "0x6c2e712856e0a6682972726770de041e49030d0f",
+    "24h": {
+      "trade_volume_usd": 4.68,
+      "trade_volume_eth": 0.003,
+      "trade_count": 1,
+      "owner_count": 140,
+      "change": {
+        "trade_volume_usd": -29.29,
+        "trade_volume_eth": -0.018999999999999996,
+        "trade_count": -1,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 34498.28999999999,
+      "trade_volume_eth": 18.642105279,
+      "trade_count": 19,
+      "owner_count": 695,
+      "change": {
+        "trade_volume_usd": -75582.15,
+        "trade_volume_eth": -44.440306076,
+        "trade_count": -5,
+        "owner_count": 3
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 383512.36000000004,
+      "trade_volume_eth": 278.44750126300005,
+      "trade_count": 409,
+      "owner_count": 3621,
+      "change": {
+        "trade_volume_usd": -4.8,
+        "trade_volume_eth": -0.0018007320000000004,
+        "trade_count": 0,
+        "owner_count": 140
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 393781.14,
+      "trade_volume_eth": 281.281707557,
+      "floor_price_usd": 15.4405,
+      "floor_price_eth": 0.0099,
+      "trade_count": 516,
+      "owner_count": 140,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Immortal Game Mystery Box",
+    "address": "0xfdd45513cf4753d4df2ab7423aa10ff7c97a3bef",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 135,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": -2
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 76.4,
+      "trade_volume_eth": 0.05,
+      "trade_count": 2,
+      "owner_count": 830,
+      "change": {
+        "trade_volume_usd": -29.98,
+        "trade_volume_eth": -0.02,
+        "trade_count": -1,
+        "owner_count": -7
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 874.2,
+      "trade_volume_eth": 0.5065,
+      "trade_count": 18,
+      "owner_count": 4225,
+      "change": {
+        "trade_volume_usd": -233.86,
+        "trade_volume_eth": -0.136,
+        "trade_count": -1,
+        "owner_count": -47
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 90752.24,
+      "trade_volume_eth": 79.43385,
+      "floor_price_usd": 15.5377,
+      "floor_price_eth": 0.01,
+      "trade_count": 599,
+      "owner_count": 135,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Rexemonz",
+    "address": "0xc98364e6bff6c99140a70ab33c5c525340fc4cef",
+    "24h": {
+      "trade_volume_usd": 20.28,
+      "trade_volume_eth": 0.013,
+      "trade_count": 2,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": 20.28,
+        "trade_volume_eth": 0.013000000000000001,
+        "trade_count": 2,
+        "owner_count": -912
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 27.77,
+      "trade_volume_eth": 0.0194,
+      "trade_count": 8,
+      "owner_count": 5475,
+      "change": {
+        "trade_volume_usd": 12.86,
+        "trade_volume_eth": 0.008,
+        "trade_count": 1,
+        "owner_count": -912
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 2717.12,
+      "trade_volume_eth": 1.09627523,
+      "trade_count": 101,
+      "owner_count": 26563,
+      "change": {
+        "trade_volume_usd": -54.35,
+        "trade_volume_eth": -0.013669999999999998,
+        "trade_count": 0,
+        "owner_count": -931
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 145974.9,
+      "trade_volume_eth": 37.706018898,
+      "floor_price_usd": 4.913379,
+      "floor_price_eth": 0.0027,
+      "trade_count": 647,
+      "owner_count": 912,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Angry Orc Club",
+    "address": "0xaa84c36e454e632c6880d2563986be75718fbc6f",
+    "24h": {
+      "trade_volume_usd": 9.94,
+      "trade_volume_eth": 0.006,
+      "trade_count": 1,
+      "owner_count": 676,
+      "change": {
+        "trade_volume_usd": 9.94,
+        "trade_volume_eth": 0.006,
+        "trade_count": 1,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 27.259999999999998,
+      "trade_volume_eth": 0.017,
+      "trade_count": 3,
+      "owner_count": 4049,
+      "change": {
+        "trade_volume_usd": -22.03,
+        "trade_volume_eth": -0.0109999,
+        "trade_count": -1,
+        "owner_count": 1
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 466.38,
+      "trade_volume_eth": 0.26401589999999997,
+      "trade_count": 27,
+      "owner_count": 18195,
+      "change": {
+        "trade_volume_usd": -32.94,
+        "trade_volume_eth": -0.0152,
+        "trade_count": 0,
+        "owner_count": 4
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 609416.43,
+      "trade_volume_eth": 148.838945204,
+      "floor_price_usd": 8.061,
+      "floor_price_eth": 0.006,
+      "trade_count": 3367,
+      "owner_count": 676,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Alpha Dragon Clan",
+    "address": "0x5cc1bd2c6fe65c9442836533c760513d7e4ce75b",
+    "24h": {
+      "trade_volume_usd": 1.96,
+      "trade_volume_eth": 0.00121119,
+      "trade_count": 2,
+      "owner_count": 7672,
+      "change": {
+        "trade_volume_usd": 1.13,
+        "trade_volume_eth": 0.0006806899999999999,
+        "trade_count": 1,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 11.49,
+      "trade_volume_eth": 0.00717488,
+      "trade_count": 16,
+      "owner_count": 46041,
+      "change": {
+        "trade_volume_usd": -12.83,
+        "trade_volume_eth": -0.007966099999999999,
+        "trade_count": 0,
+        "owner_count": -2
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 74.20000000000002,
+      "trade_volume_eth": 0.04850898099999999,
+      "trade_count": 49,
+      "owner_count": 191804,
+      "change": {
+        "trade_volume_usd": 1.59,
+        "trade_volume_eth": 0.0009111900000000001,
+        "trade_count": 1,
+        "owner_count": 5
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 2837.21,
+      "trade_volume_eth": 0.974736045,
+      "floor_price_usd": 0.36729,
+      "floor_price_eth": 0.00029419,
+      "trade_count": 469,
+      "owner_count": 7672,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "GreenPark Sports",
+    "address": "0x6e8ba426586a96935c6b91fd12206557df6e3ec1",
+    "24h": {
+      "trade_volume_usd": 12.84,
+      "trade_volume_eth": 0.008,
+      "trade_count": 1,
+      "owner_count": 659,
+      "change": {
+        "trade_volume_usd": -10.14,
+        "trade_volume_eth": -0.006999999999999999,
+        "trade_count": 0,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 67.75,
+      "trade_volume_eth": 0.039,
+      "trade_count": 4,
+      "owner_count": 3179,
+      "change": {
+        "trade_volume_usd": 12.84,
+        "trade_volume_eth": 0.008,
+        "trade_count": 1,
+        "owner_count": 659
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 1281.59,
+      "trade_volume_eth": 0.8971966999999998,
+      "trade_count": 37,
+      "owner_count": 12355,
+      "change": {
+        "trade_volume_usd": -282.29,
+        "trade_volume_eth": -0.262,
+        "trade_count": 0,
+        "owner_count": 659
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 121754.46,
+      "trade_volume_eth": 31.431418567,
+      "floor_price_usd": 8.4248,
+      "floor_price_eth": 0.005,
+      "trade_count": 551,
+      "owner_count": 659,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Immortal Game",
+    "address": "0xa1c59514b703ba8c6479d05405fba6390515cfc8",
+    "24h": {
+      "trade_volume_usd": 383.4,
+      "trade_volume_eth": 0.25,
+      "trade_count": 1,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": -1184.59,
+        "trade_volume_eth": -0.730042854,
+        "trade_count": -14,
+        "owner_count": -724
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 13496.25,
+      "trade_volume_eth": 8.572473798999999,
+      "trade_count": 137,
+      "owner_count": 4264,
+      "change": {
+        "trade_volume_usd": -449.93,
+        "trade_volume_eth": -0.282024284,
+        "trade_count": -19,
+        "owner_count": -685
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 50497.36000000001,
+      "trade_volume_eth": 31.221699409,
+      "trade_count": 666,
+      "owner_count": 18823,
+      "change": {
+        "trade_volume_usd": -305.86,
+        "trade_volume_eth": -0.139510474,
+        "trade_count": -18,
+        "owner_count": -580
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 60736.98,
+      "trade_volume_eth": 37.518527364,
+      "floor_price_usd": 18.710251,
+      "floor_price_eth": 0.011428571,
+      "trade_count": 895,
+      "owner_count": 724,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Habbo Clothes",
+    "address": "0x8c15d753c4336617890ff9e82c88aa047762b867",
+    "24h": {
+      "trade_volume_usd": 1.53,
+      "trade_volume_eth": 0.001,
+      "trade_count": 1,
+      "owner_count": 3602,
+      "change": {
+        "trade_volume_usd": -19.61,
+        "trade_volume_eth": -0.011874933999999998,
+        "trade_count": -2,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 785.3100000000001,
+      "trade_volume_eth": 0.49808011399999996,
+      "trade_count": 55,
+      "owner_count": 25203,
+      "change": {
+        "trade_volume_usd": -171.71,
+        "trade_volume_eth": -0.10991160000000001,
+        "trade_count": -14,
+        "owner_count": 15
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 3375.0899999999997,
+      "trade_volume_eth": 1.9933199849999998,
+      "trade_count": 312,
+      "owner_count": 103086,
+      "change": {
+        "trade_volume_usd": -495.38,
+        "trade_volume_eth": -0.27908829999999996,
+        "trade_count": -33,
+        "owner_count": 243
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 8022.9,
+      "trade_volume_eth": 5.088651974,
+      "floor_price_usd": 0.783025,
+      "floor_price_eth": 0.0005,
+      "trade_count": 750,
+      "owner_count": 3602,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Book Games",
+    "address": "0xac98d8d1bb27a94e79fbf49198210240688bb1ed",
+    "24h": {
+      "trade_volume_usd": 184.8,
+      "trade_volume_eth": 0.12,
+      "trade_count": 1,
+      "owner_count": 18226,
+      "change": {
+        "trade_volume_usd": -5241.41,
+        "trade_volume_eth": -3.1622000000000003,
+        "trade_count": -11,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 22498.899999999998,
+      "trade_volume_eth": 14.03806,
+      "trade_count": 60,
+      "owner_count": 127587,
+      "change": {
+        "trade_volume_usd": -5285.68,
+        "trade_volume_eth": -3.404851,
+        "trade_count": -31,
+        "owner_count": -3
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 111641.37999999999,
+      "trade_volume_eth": 66.59886068,
+      "trade_count": 386,
+      "owner_count": 529047,
+      "change": {
+        "trade_volume_usd": -3754.49,
+        "trade_volume_eth": -2.122023,
+        "trade_count": -23,
+        "owner_count": -36
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 110806658.16,
+      "trade_volume_eth": 36639.099877668,
+      "floor_price_usd": 120.213,
+      "floor_price_eth": 0.076,
+      "trade_count": 95550,
+      "owner_count": 18226,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Immutable Apes X",
+    "address": "0xdbce5b8b8befa06057459767c8a585a418a6e8d2",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 2947,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": 5
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 368.87,
+      "trade_volume_eth": 0.24649,
+      "trade_count": 11,
+      "owner_count": 17661,
+      "change": {
+        "trade_volume_usd": -70.63,
+        "trade_volume_eth": -0.047,
+        "trade_count": -3,
+        "owner_count": 0
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 4723.5199999999995,
+      "trade_volume_eth": 2.8351091499999996,
+      "trade_count": 106,
+      "owner_count": 70724,
+      "change": {
+        "trade_volume_usd": -260.3,
+        "trade_volume_eth": -0.1575,
+        "trade_count": -4,
+        "owner_count": -16
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 1531673.68,
+      "trade_volume_eth": 383.048378569,
+      "floor_price_usd": 21.13706,
+      "floor_price_eth": 0.013,
+      "trade_count": 4411,
+      "owner_count": 2947,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Goon Card Packs Genesis",
+    "address": "0x7cafac1a8a0d316449c944b0d6cb71328646f3c0",
+    "24h": {
+      "trade_volume_usd": 31.43,
+      "trade_volume_eth": 0.01892,
+      "trade_count": 3,
+      "owner_count": 1058,
+      "change": {
+        "trade_volume_usd": 31.43,
+        "trade_volume_eth": 0.01892,
+        "trade_count": 3,
+        "owner_count": -2
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 31.43,
+      "trade_volume_eth": 0.01892,
+      "trade_count": 3,
+      "owner_count": 7408,
+      "change": {
+        "trade_volume_usd": 17.22,
+        "trade_volume_eth": 0.009819999999999999,
+        "trade_count": 2,
+        "owner_count": -6
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 103.77,
+      "trade_volume_eth": 0.061739999999999996,
+      "trade_count": 7,
+      "owner_count": 31831,
+      "change": {
+        "trade_volume_usd": 31.43,
+        "trade_volume_eth": 0.01892,
+        "trade_count": 3,
+        "owner_count": -1
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 34288.21,
+      "trade_volume_eth": 11.415749292,
+      "floor_price_usd": 5.9860416,
+      "floor_price_eth": 0.0037664,
+      "trade_count": 1316,
+      "owner_count": 1058,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Vy Worlds Stickers",
+    "address": "0xcb9ed5cc6445b4cc22cd56cdd81e69a03539b608",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": -5.88,
+        "trade_volume_eth": -0.0035623700000000005,
+        "trade_count": -3,
+        "owner_count": -12060
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 21.080000000000002,
+      "trade_volume_eth": 0.01323142,
+      "trade_count": 10,
+      "owner_count": 60288,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": -12060
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 125.46000000000001,
+      "trade_volume_eth": 0.070140756,
+      "trade_count": 54,
+      "owner_count": 301875,
+      "change": {
+        "trade_volume_usd": -3.53,
+        "trade_volume_eth": -0.002,
+        "trade_count": -2,
+        "owner_count": 0
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 10172.7,
+      "trade_volume_eth": 3.95586993,
+      "floor_price_usd": 0.08922809,
+      "floor_price_eth": 0.000047,
+      "trade_count": 889,
+      "owner_count": 12060,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Goons of Balatroon Cards",
+    "address": "0xeab6c4c4c41632dfbb51b3efb79bb48154f18f50",
+    "24h": {
+      "trade_volume_usd": 13.29,
+      "trade_volume_eth": 0.008,
+      "trade_count": 1,
+      "owner_count": 1781,
+      "change": {
+        "trade_volume_usd": -298.31000000000006,
+        "trade_volume_eth": -0.18944999999999998,
+        "trade_count": -12,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 2174.15,
+      "trade_volume_eth": 1.3710508799999999,
+      "trade_count": 136,
+      "owner_count": 12445,
+      "change": {
+        "trade_volume_usd": -165.14,
+        "trade_volume_eth": -0.10465880999999999,
+        "trade_count": -12,
+        "owner_count": 7
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 5154.0199999999995,
+      "trade_volume_eth": 3.0991481999999997,
+      "trade_count": 296,
+      "owner_count": 47661,
+      "change": {
+        "trade_volume_usd": -113.54,
+        "trade_volume_eth": -0.06727,
+        "trade_count": -8,
+        "owner_count": 36
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 69723.27,
+      "trade_volume_eth": 29.023819957,
+      "floor_price_usd": 0.636668,
+      "floor_price_eth": 0.0004,
+      "trade_count": 4029,
+      "owner_count": 1781,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Illuvium Land",
+    "address": "0x9e0d99b864e1ac12565125c5a82b59adea5a09cd",
+    "24h": {
+      "trade_volume_usd": 1838.84,
+      "trade_volume_eth": 1.22,
+      "trade_count": 3,
+      "owner_count": 6396,
+      "change": {
+        "trade_volume_usd": -11088.62,
+        "trade_volume_eth": -6.704233,
+        "trade_count": -11,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 70961.31,
+      "trade_volume_eth": 45.034770300000005,
+      "trade_count": 69,
+      "owner_count": 44772,
+      "change": {
+        "trade_volume_usd": -17248.87,
+        "trade_volume_eth": -11.030486799999998,
+        "trade_count": -13,
+        "owner_count": 1
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 524227.4299999999,
+      "trade_volume_eth": 311.445323349,
+      "trade_count": 419,
+      "owner_count": 191696,
+      "change": {
+        "trade_volume_usd": -25494.35,
+        "trade_volume_eth": -14.213,
+        "trade_count": -7,
+        "owner_count": 24
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 6657928.05,
+      "trade_volume_eth": 4301.44787508,
+      "floor_price_usd": 430.8606,
+      "floor_price_eth": 0.27,
+      "trade_count": 4225,
+      "owner_count": 6396,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Guild of Guardians Heroes",
+    "address": "0xee972ad3b8ac062de2e4d5e6ea4a37e36c849a11",
+    "24h": {
+      "trade_volume_usd": 216.17,
+      "trade_volume_eth": 0.14059,
+      "trade_count": 12,
+      "owner_count": 11799,
+      "change": {
+        "trade_volume_usd": -12.75,
+        "trade_volume_eth": 0.0004673700000000025,
+        "trade_count": -22,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 4983.1900000000005,
+      "trade_volume_eth": 3.1809017170000002,
+      "trade_count": 238,
+      "owner_count": 82535,
+      "change": {
+        "trade_volume_usd": -36.83,
+        "trade_volume_eth": -0.020009999999999993,
+        "trade_count": -6,
+        "owner_count": 22
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 25550.639999999996,
+      "trade_volume_eth": 14.87508187,
+      "trade_count": 1175,
+      "owner_count": 352894,
+      "change": {
+        "trade_volume_usd": -1588.34,
+        "trade_volume_eth": -0.8848627929999999,
+        "trade_count": -43,
+        "owner_count": 108
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 10128736.931665147,
+      "trade_volume_eth": 2935.330569618,
+      "floor_price_usd": 4.375346,
+      "floor_price_eth": 0.0027,
+      "trade_count": 75816,
+      "owner_count": 11799,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "IMX Kongz",
+    "address": "0x0d7cab29755a2bec1b877c859e25770d6fce6331",
+    "24h": {
+      "trade_volume_usd": 10.91,
+      "trade_volume_eth": 0.007,
+      "trade_count": 1,
+      "owner_count": 766,
+      "change": {
+        "trade_volume_usd": -21.41,
+        "trade_volume_eth": -0.012999999999999998,
+        "trade_count": -1,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 447.63,
+      "trade_volume_eth": 0.284,
+      "trade_count": 27,
+      "owner_count": 5364,
+      "change": {
+        "trade_volume_usd": 10.91,
+        "trade_volume_eth": 0.007000000000000001,
+        "trade_count": 1,
+        "owner_count": -4
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 2034.58,
+      "trade_volume_eth": 0.8985880000000002,
+      "trade_count": 53,
+      "owner_count": 21560,
+      "change": {
+        "trade_volume_usd": -368.86,
+        "trade_volume_eth": -0.12005,
+        "trade_count": -1,
+        "owner_count": -8
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 984327.97,
+      "trade_volume_eth": 236.158565405,
+      "floor_price_usd": 14.36139,
+      "floor_price_eth": 0.007,
+      "trade_count": 1232,
+      "owner_count": 766,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Battle Catz",
+    "address": "0x82b1ce6e5d0f870c453cec0ce1b1f177e8fe50f8",
+    "24h": {
+      "trade_volume_usd": 15.55,
+      "trade_volume_eth": 0.01,
+      "trade_count": 1,
+      "owner_count": 1261,
+      "change": {
+        "trade_volume_usd": 15.55,
+        "trade_volume_eth": 0.01,
+        "trade_count": 1,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 15.55,
+      "trade_volume_eth": 0.01,
+      "trade_count": 1,
+      "owner_count": 5038,
+      "change": {
+        "trade_volume_usd": 15.55,
+        "trade_volume_eth": 0.01,
+        "trade_count": 1,
+        "owner_count": 0
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 166.70000000000002,
+      "trade_volume_eth": 0.14080000000000004,
+      "trade_count": 12,
+      "owner_count": 34091,
+      "change": {
+        "trade_volume_usd": 4.35,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": -9
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 482868.37,
+      "trade_volume_eth": 109.090108379,
+      "floor_price_usd": 1.07206386,
+      "floor_price_eth": 0.0078,
+      "trade_count": 1664,
+      "owner_count": 1261,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Guild of Guardians Avatars",
+    "address": "0x83f120283c30c796ebe9216ccaf6718c31213681",
+    "24h": {
+      "trade_volume_usd": 25.14,
+      "trade_volume_eth": 0.016,
+      "trade_count": 2,
+      "owner_count": 8822,
+      "change": {
+        "trade_volume_usd": 11.18,
+        "trade_volume_eth": 0.0071,
+        "trade_count": 1,
+        "owner_count": -2
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 62.03,
+      "trade_volume_eth": 0.039599999999999996,
+      "trade_count": 5,
+      "owner_count": 52944,
+      "change": {
+        "trade_volume_usd": 25.14,
+        "trade_volume_eth": 0.016,
+        "trade_count": 2,
+        "owner_count": 8822
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 760.43,
+      "trade_volume_eth": 0.4514636,
+      "trade_count": 26,
+      "owner_count": 238421,
+      "change": {
+        "trade_volume_usd": 25.14,
+        "trade_volume_eth": 0.016,
+        "trade_count": 2,
+        "owner_count": -17
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 519358.95,
+      "trade_volume_eth": 151.744253822,
+      "floor_price_usd": 1.78108,
+      "floor_price_eth": 0.0009412,
+      "trade_count": 1228,
+      "owner_count": 8822,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "IMX Punks",
+    "address": "0x8cc131fd208dd17b8420998217d414028d74877f",
+    "24h": {
+      "trade_volume_usd": 16.55,
+      "trade_volume_eth": 0.01,
+      "trade_count": 1,
+      "owner_count": 3609,
+      "change": {
+        "trade_volume_usd": -21.830000000000005,
+        "trade_volume_eth": -0.014660000000000001,
+        "trade_count": -9,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 121.48000000000002,
+      "trade_volume_eth": 0.07846,
+      "trade_count": 20,
+      "owner_count": 21663,
+      "change": {
+        "trade_volume_usd": -11.66,
+        "trade_volume_eth": -0.0048,
+        "trade_count": -1,
+        "owner_count": -2
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 1347.5399999999997,
+      "trade_volume_eth": 0.8732845130000001,
+      "trade_count": 73,
+      "owner_count": 79387,
+      "change": {
+        "trade_volume_usd": -21.44,
+        "trade_volume_eth": -0.023360000000000002,
+        "trade_count": -4,
+        "owner_count": 2
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 1624044.88,
+      "trade_volume_eth": 375.644641277,
+      "floor_price_usd": 2.802834,
+      "floor_price_eth": 0.0018,
+      "trade_count": 4750,
+      "owner_count": 3609,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Moody Krows",
+    "address": "0x5f32923175e13713242b3ddd632bdee82ab5f509",
+    "24h": {
+      "trade_volume_usd": 28.5,
+      "trade_volume_eth": 0.018,
+      "trade_count": 2,
+      "owner_count": 4138,
+      "change": {
+        "trade_volume_usd": -5.06,
+        "trade_volume_eth": -0.003700000000000001,
+        "trade_count": -1,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 154.39000000000001,
+      "trade_volume_eth": 0.09444999999999999,
+      "trade_count": 11,
+      "owner_count": 28961,
+      "change": {
+        "trade_volume_usd": 28.5,
+        "trade_volume_eth": 0.018,
+        "trade_count": 2,
+        "owner_count": 4
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 4214.87,
+      "trade_volume_eth": 3.5314582,
+      "trade_count": 116,
+      "owner_count": 115931,
+      "change": {
+        "trade_volume_usd": -4.06,
+        "trade_volume_eth": -0.010760150000000003,
+        "trade_count": -1,
+        "owner_count": -17
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 18543136.72,
+      "trade_volume_eth": 5079.4765342,
+      "floor_price_usd": 3.70448,
+      "floor_price_eth": 0.002,
+      "trade_count": 10037,
+      "owner_count": 4138,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Moonshot Garage Project",
+    "address": "0x3d5fcf081777b404a18f76dde001a6b5edf387c7",
+    "24h": {
+      "trade_volume_usd": 15.98,
+      "trade_volume_eth": 0.01,
+      "trade_count": 1,
+      "owner_count": 2463,
+      "change": {
+        "trade_volume_usd": 15.98,
+        "trade_volume_eth": 0.01,
+        "trade_count": 1,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 352.47,
+      "trade_volume_eth": 0.2025,
+      "trade_count": 9,
+      "owner_count": 17244,
+      "change": {
+        "trade_volume_usd": 15.98,
+        "trade_volume_eth": 0.01,
+        "trade_count": 1,
+        "owner_count": -3
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 2542.13,
+      "trade_volume_eth": 1.5669861600000001,
+      "trade_count": 39,
+      "owner_count": 61732,
+      "change": {
+        "trade_volume_usd": -69.19,
+        "trade_volume_eth": -0.03922,
+        "trade_count": 0,
+        "owner_count": -16
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 3175058.26,
+      "trade_volume_eth": 762.251032553,
+      "floor_price_usd": 34.34784,
+      "floor_price_eth": 0.01,
+      "trade_count": 4158,
+      "owner_count": 2463,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Guild of Guardians Other",
+    "address": "0x56a900b85d309e0a981d59377ea76f12dcd4b8de",
+    "24h": {
+      "trade_volume_usd": 388.08,
+      "trade_volume_eth": 0.258,
+      "trade_count": 1,
+      "owner_count": 3597,
+      "change": {
+        "trade_volume_usd": 329.64,
+        "trade_volume_eth": 0.22089999999999999,
+        "trade_count": 0,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 9882.720000000001,
+      "trade_volume_eth": 6.3355999999999995,
+      "trade_count": 52,
+      "owner_count": 21594,
+      "change": {
+        "trade_volume_usd": 388.08,
+        "trade_volume_eth": 0.258,
+        "trade_count": 1,
+        "owner_count": -7
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 27543.020000000004,
+      "trade_volume_eth": 16.417465463,
+      "trade_count": 239,
+      "owner_count": 104582,
+      "change": {
+        "trade_volume_usd": -922.89,
+        "trade_volume_eth": -0.5501,
+        "trade_count": -14,
+        "owner_count": -13
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 4673128.05,
+      "trade_volume_eth": 1372.911861826,
+      "floor_price_usd": 47.87805,
+      "floor_price_eth": 0.033,
+      "trade_count": 7001,
+      "owner_count": 3597,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "IMX Apes",
+    "address": "0x9998eae8ab9f8bfd0204df4bca8ca012f9b9d783",
+    "24h": {
+      "trade_volume_usd": 40.04,
+      "trade_volume_eth": 0.0255604,
+      "trade_count": 1,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": 31.75,
+        "trade_volume_eth": 0.020305499999999997,
+        "trade_count": 0,
+        "owner_count": -1121
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 126.98,
+      "trade_volume_eth": 0.07497486,
+      "trade_count": 8,
+      "owner_count": 5606,
+      "change": {
+        "trade_volume_usd": -2.57,
+        "trade_volume_eth": 0.0007103999999999999,
+        "trade_count": -3,
+        "owner_count": -1121
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 487.2000000000001,
+      "trade_volume_eth": 0.3139821600000001,
+      "trade_count": 54,
+      "owner_count": 27898,
+      "change": {
+        "trade_volume_usd": 17.11,
+        "trade_volume_eth": 0.012819458999999998,
+        "trade_count": 0,
+        "owner_count": -1111
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 443207.12521795,
+      "trade_volume_eth": 101.161862909,
+      "floor_price_usd": 0.0172,
+      "floor_price_eth": 0.00001,
+      "trade_count": 2042,
+      "owner_count": 1121,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Habbo Furni",
+    "address": "0xec4de0a00c694cc7957fb90b9005b24a3f4f8b99",
+    "24h": {
+      "trade_volume_usd": 212.25,
+      "trade_volume_eth": 0.139976862,
+      "trade_count": 9,
+      "owner_count": 45669,
+      "change": {
+        "trade_volume_usd": -71.49,
+        "trade_volume_eth": -0.03378213800000001,
+        "trade_count": -8,
+        "owner_count": 2
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 2520.75,
+      "trade_volume_eth": 1.6026555509999998,
+      "trade_count": 256,
+      "owner_count": 319626,
+      "change": {
+        "trade_volume_usd": -486.29,
+        "trade_volume_eth": -0.300757808,
+        "trade_count": -34,
+        "owner_count": 23
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 13605.91,
+      "trade_volume_eth": 8.112206516999999,
+      "trade_count": 1210,
+      "owner_count": 1368663,
+      "change": {
+        "trade_volume_usd": -1203.47,
+        "trade_volume_eth": -0.65641979,
+        "trade_count": -26,
+        "owner_count": 91
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 148158.42,
+      "trade_volume_eth": 72.865764341,
+      "floor_price_usd": 0.5612845,
+      "floor_price_eth": 0.00035,
+      "trade_count": 7723,
+      "owner_count": 45669,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Baby Krows",
+    "address": "0xd595e82f016843bb15e469eedc357fda27a71a6b",
+    "24h": {
+      "trade_volume_usd": 10.04,
+      "trade_volume_eth": 0.0064129,
+      "trade_count": 1,
+      "owner_count": 2443,
+      "change": {
+        "trade_volume_usd": -1.5300000000000011,
+        "trade_volume_eth": -0.0007370999999999994,
+        "trade_count": -1,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 46,
+      "trade_volume_eth": 0.027958519999999997,
+      "trade_count": 9,
+      "owner_count": 17103,
+      "change": {
+        "trade_volume_usd": 3.699999999999999,
+        "trade_volume_eth": 0.0024129,
+        "trade_count": 0,
+        "owner_count": -2
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 179.70999999999998,
+      "trade_volume_eth": 0.138858526,
+      "trade_count": 44,
+      "owner_count": 70943,
+      "change": {
+        "trade_volume_usd": -5.440000000000001,
+        "trade_volume_eth": -0.0020871000000000006,
+        "trade_count": -1,
+        "owner_count": -4
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 237623.73,
+      "trade_volume_eth": 55.38764779,
+      "floor_price_usd": 0.0091854,
+      "floor_price_eth": 0.0000083065,
+      "trade_count": 1123,
+      "owner_count": 2443,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Hro",
+    "address": "0x8cb332602d2f614b570c7631202e5bf4bb93f3f6",
+    "24h": {
+      "trade_volume_usd": 2102.97,
+      "trade_volume_eth": 1.380087103,
+      "trade_count": 169,
+      "owner_count": 1951,
+      "change": {
+        "trade_volume_usd": -8757.73,
+        "trade_volume_eth": -5.305681359000001,
+        "trade_count": -685,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 37539.560000000005,
+      "trade_volume_eth": 23.707143252,
+      "trade_count": 4319,
+      "owner_count": 13590,
+      "change": {
+        "trade_volume_usd": -982.9900000000002,
+        "trade_volume_eth": -0.5813114759999999,
+        "trade_count": -105,
+        "owner_count": 27
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 205502.43,
+      "trade_volume_eth": 120.56234759299998,
+      "trade_count": 18863,
+      "owner_count": 56489,
+      "change": {
+        "trade_volume_usd": -8851.45,
+        "trade_volume_eth": -4.929570580000001,
+        "trade_count": -502,
+        "owner_count": 166
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 8599371.65,
+      "trade_volume_eth": 3552.421537714,
+      "floor_price_usd": 0.997821,
+      "floor_price_eth": 0.00065758,
+      "trade_count": 333035,
+      "owner_count": 1951,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "ImmutaSwap.io",
+    "address": "0x49bc6ef4daf9441571ed1578ca8407ca2a333785",
+    "24h": {
+      "trade_volume_usd": 1149.66,
+      "trade_volume_eth": 0.758468652,
+      "trade_count": 20,
+      "owner_count": 673,
+      "change": {
+        "trade_volume_usd": -624135.21,
+        "trade_volume_eth": -394.509030526,
+        "trade_count": -163,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 7316002.35,
+      "trade_volume_eth": 4639.6292355470005,
+      "trade_count": 1680,
+      "owner_count": 4688,
+      "change": {
+        "trade_volume_usd": -1930189.92,
+        "trade_volume_eth": -1229.993286876,
+        "trade_count": -322,
+        "owner_count": 35
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 25987249.75999999,
+      "trade_volume_eth": 6880.485409472001,
+      "trade_count": 6547,
+      "owner_count": 12758,
+      "change": {
+        "trade_volume_usd": -1342.19,
+        "trade_volume_eth": -0.12557707800000004,
+        "trade_count": -43,
+        "owner_count": 620
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 26189875.56,
+      "trade_volume_eth": 6906.652911978,
+      "floor_price_usd": 9.677762537,
+      "floor_price_eth": 0.00643678283,
+      "trade_count": 11045,
+      "owner_count": 673,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Project Kyzen 7 Character Reveals",
+    "address": "0x9876c63219556850959795768b935b0561a28728",
+    "24h": {
+      "trade_volume_usd": 2.35,
+      "trade_volume_eth": 0.001514,
+      "trade_count": 1,
+      "owner_count": 10896,
+      "change": {
+        "trade_volume_usd": -5.31,
+        "trade_volume_eth": -0.0032000000000000006,
+        "trade_count": -3,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 26.569999999999997,
+      "trade_volume_eth": 0.017032,
+      "trade_count": 12,
+      "owner_count": 65368,
+      "change": {
+        "trade_volume_usd": 2.35,
+        "trade_volume_eth": 0.0015140000000000002,
+        "trade_count": 1,
+        "owner_count": 2
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 3605215.79,
+      "trade_volume_eth": 2126.961857766,
+      "trade_count": 1153,
+      "owner_count": 273526,
+      "change": {
+        "trade_volume_usd": -277101.53,
+        "trade_volume_eth": -161.370980402,
+        "trade_count": -129,
+        "owner_count": -250
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 4685876.63,
+      "trade_volume_eth": 2935.778558285,
+      "floor_price_usd": 0.05368275,
+      "floor_price_eth": 0.000027,
+      "trade_count": 7399,
+      "owner_count": 10896,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Guild of Guardians Pets",
+    "address": "0xf797fa8b22218f4a82286e28a2727cd1680f4237",
+    "24h": {
+      "trade_volume_usd": 6.94,
+      "trade_volume_eth": 0.0046,
+      "trade_count": 1,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": -119.53,
+        "trade_volume_eth": -0.0716,
+        "trade_count": -5,
+        "owner_count": -6094
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 2711.64,
+      "trade_volume_eth": 1.7294211210000003,
+      "trade_count": 58,
+      "owner_count": 36553,
+      "change": {
+        "trade_volume_usd": -5.24,
+        "trade_volume_eth": -0.0031999999999999997,
+        "trade_count": -1,
+        "owner_count": 0
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 10884.410000000002,
+      "trade_volume_eth": 6.476790586999998,
+      "trade_count": 283,
+      "owner_count": 170389,
+      "change": {
+        "trade_volume_usd": -558.9899999999999,
+        "trade_volume_eth": -0.3184,
+        "trade_count": -9,
+        "owner_count": -6066
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 2799864.92,
+      "trade_volume_eth": 795.421776136,
+      "floor_price_usd": 5.901666,
+      "floor_price_eth": 0.00375,
+      "trade_count": 17588,
+      "owner_count": 6094,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Astrobros",
+    "address": "0x9c77027170eda1808262809771067bee23830050",
+    "24h": {
+      "trade_volume_usd": 23.51,
+      "trade_volume_eth": 0.015,
+      "trade_count": 1,
+      "owner_count": 3695,
+      "change": {
+        "trade_volume_usd": 23.51,
+        "trade_volume_eth": 0.015,
+        "trade_count": 1,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 257.03,
+      "trade_volume_eth": 0.1611,
+      "trade_count": 11,
+      "owner_count": 11085,
+      "change": {
+        "trade_volume_usd": 23.51,
+        "trade_volume_eth": 0.015,
+        "trade_count": 1,
+        "owner_count": -2
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 1444.6799999999998,
+      "trade_volume_eth": 0.964589,
+      "trade_count": 41,
+      "owner_count": 77694,
+      "change": {
+        "trade_volume_usd": -21.83,
+        "trade_volume_eth": -0.025,
+        "trade_count": 0,
+        "owner_count": -12
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 7339756.98,
+      "trade_volume_eth": 2029.460326497,
+      "floor_price_usd": 18.02448,
+      "floor_price_eth": 0.0105,
+      "trade_count": 17685,
+      "owner_count": 3695,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "PlanetQuest Collectibles",
+    "address": "0xd17c47532860ed223910da50c64a8dc8f69ad18a",
+    "24h": {
+      "trade_volume_usd": 88.75,
+      "trade_volume_eth": 0.05331257,
+      "trade_count": 13,
+      "owner_count": 219485,
+      "change": {
+        "trade_volume_usd": -400.64,
+        "trade_volume_eth": -0.260003198,
+        "trade_count": 1,
+        "owner_count": 3
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 2350.17,
+      "trade_volume_eth": 1.4961137839999998,
+      "trade_count": 391,
+      "owner_count": 1536865,
+      "change": {
+        "trade_volume_usd": -48.6,
+        "trade_volume_eth": -0.03612036600000001,
+        "trade_count": -21,
+        "owner_count": -166
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 161171.06,
+      "trade_volume_eth": 93.21884681,
+      "trade_count": 1665,
+      "owner_count": 6598545,
+      "change": {
+        "trade_volume_usd": -1578.69,
+        "trade_volume_eth": -0.9253730450000001,
+        "trade_count": -25,
+        "owner_count": -1055
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 1283623.71,
+      "trade_volume_eth": 488.968186411,
+      "floor_price_usd": 0.628076,
+      "floor_price_eth": 0.0003999,
+      "trade_count": 53095,
+      "owner_count": 219485,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Highrise Creature Club",
+    "address": "0xb0e827c9ab5e68d243f707f832b756981987f704",
+    "24h": {
+      "trade_volume_usd": 383.29,
+      "trade_volume_eth": 0.252,
+      "trade_count": 3,
+      "owner_count": 4935,
+      "change": {
+        "trade_volume_usd": -763.46,
+        "trade_volume_eth": -0.45516000000000006,
+        "trade_count": -4,
+        "owner_count": -3
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 6364.83,
+      "trade_volume_eth": 4.03674995,
+      "trade_count": 42,
+      "owner_count": 34545,
+      "change": {
+        "trade_volume_usd": -971.33,
+        "trade_volume_eth": -0.6,
+        "trade_count": -6,
+        "owner_count": 6
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 46922.90000000001,
+      "trade_volume_eth": 27.32608715,
+      "trade_count": 250,
+      "owner_count": 147592,
+      "change": {
+        "trade_volume_usd": -347.7,
+        "trade_volume_eth": -0.16970000000000002,
+        "trade_count": -1,
+        "owner_count": 20
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 5999299.78,
+      "trade_volume_eth": 1510.64595335,
+      "floor_price_usd": 94.65,
+      "floor_price_eth": 0.06,
+      "trade_count": 7868,
+      "owner_count": 4935,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Habbo Tokens",
+    "address": "0xfbf1c1c09a94fe45ea8cc981c478816963ec958c",
+    "24h": {
+      "trade_volume_usd": 47.64,
+      "trade_volume_eth": 0.031,
+      "trade_count": 2,
+      "owner_count": 2630,
+      "change": {
+        "trade_volume_usd": -27.17,
+        "trade_volume_eth": -0.016280000000000006,
+        "trade_count": -5,
+        "owner_count": -1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 865.46,
+      "trade_volume_eth": 0.553904937,
+      "trade_count": 90,
+      "owner_count": 18318,
+      "change": {
+        "trade_volume_usd": -1052.79,
+        "trade_volume_eth": -0.6688254,
+        "trade_count": -70,
+        "owner_count": 32
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 5850.719999999999,
+      "trade_volume_eth": 3.5920366049999997,
+      "trade_count": 571,
+      "owner_count": 77420,
+      "change": {
+        "trade_volume_usd": -287.08,
+        "trade_volume_eth": -0.158457778,
+        "trade_count": -40,
+        "owner_count": 109
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 33858.3,
+      "trade_volume_eth": 18.164311077,
+      "floor_price_usd": 0.2988738,
+      "floor_price_eth": 0.00019,
+      "trade_count": 3237,
+      "owner_count": 2630,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "The Doge Pound Halloween",
+    "address": "0x343fd244ab5a1d1129a6edf21ba37c64aa725ff0",
+    "24h": {
+      "trade_volume_usd": 23.46,
+      "trade_volume_eth": 0.015,
+      "trade_count": 1,
+      "owner_count": 5224,
+      "change": {
+        "trade_volume_usd": 23.46,
+        "trade_volume_eth": 0.015,
+        "trade_count": 1,
+        "owner_count": 0
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 87783.44,
+      "trade_volume_eth": 50.399300000000004,
+      "trade_count": 7,
+      "owner_count": 36568,
+      "change": {
+        "trade_volume_usd": 23.46,
+        "trade_volume_eth": 0.015,
+        "trade_count": 1,
+        "owner_count": 0
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 728506.3799999999,
+      "trade_volume_eth": 624.0839559800002,
+      "trade_count": 55,
+      "owner_count": 151567,
+      "change": {
+        "trade_volume_usd": -180.12,
+        "trade_volume_eth": -0.05733484399999999,
+        "trade_count": -4,
+        "owner_count": -11
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 2163671.42,
+      "trade_volume_eth": 945.499297459,
+      "floor_price_usd": 5.02965,
+      "floor_price_eth": 0.006825,
+      "trade_count": 2970,
+      "owner_count": 5224,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Mintable Shared Store",
+    "address": "0x2880c6ecf2f770bd31ddb0d776cc81048899b600",
+    "24h": {
+      "trade_volume_usd": 0,
+      "trade_volume_eth": 0,
+      "trade_count": 0,
+      "owner_count": 0,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": 0,
+        "trade_count": 0,
+        "owner_count": -15733
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 0.63,
+      "trade_volume_eth": 0.000656092,
+      "trade_count": 91,
+      "owner_count": 94298,
+      "change": {
+        "trade_volume_usd": 0,
+        "trade_volume_eth": -0.000009,
+        "trade_count": -3,
+        "owner_count": -15682
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 480946.48,
+      "trade_volume_eth": 260.820726975,
+      "trade_count": 516,
+      "owner_count": 452810,
+      "change": {
+        "trade_volume_usd": -124400.61,
+        "trade_volume_eth": -70.274565418,
+        "trade_count": -28,
+        "owner_count": -15483
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 875800.05,
+      "trade_volume_eth": 489.553983618,
+      "floor_price_usd": 0.00429888,
+      "floor_price_eth": 0.000003,
+      "trade_count": 1834,
+      "owner_count": 15733,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Gods Unchained",
+    "address": "0xacb3c6a43d15b907e8433077b6d38ae40936fe2c",
+    "24h": {
+      "trade_volume_usd": 4539.71,
+      "trade_volume_eth": 2.986645448,
+      "trade_count": 3333,
+      "owner_count": 152772,
+      "change": {
+        "trade_volume_usd": -20893.04,
+        "trade_volume_eth": -12.606691487,
+        "trade_count": -15793,
+        "owner_count": 196
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 190559.50999999998,
+      "trade_volume_eth": 120.86473819,
+      "trade_count": 149245,
+      "owner_count": 1068039,
+      "change": {
+        "trade_volume_usd": -27011.06,
+        "trade_volume_eth": -17.073916687000004,
+        "trade_count": -23548,
+        "owner_count": 305
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 1682924.9900000002,
+      "trade_volume_eth": 949.9410650090001,
+      "trade_count": 546768,
+      "owner_count": 4561460,
+      "change": {
+        "trade_volume_usd": -19972.78,
+        "trade_volume_eth": -10.943063048,
+        "trade_count": -10310,
+        "owner_count": 1638
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 59082241.3501386,
+      "trade_volume_eth": 20201.881510644,
+      "floor_price_usd": 0.01203416,
+      "floor_price_eth": 0.000008,
+      "trade_count": 9075243,
+      "owner_count": 152772,
+      "__typename": "Metrics"
+    }
+  },
+  {
+    "name": "Kolex",
+    "address": "0x184612188346bf155f40861c3e72ae54e87358e6",
+    "24h": {
+      "trade_volume_usd": 0.01,
+      "trade_volume_eth": 0.000008125,
+      "trade_count": 2,
+      "owner_count": 1081,
+      "change": {
+        "trade_volume_usd": -0.13,
+        "trade_volume_eth": -0.000104799,
+        "trade_count": -18,
+        "owner_count": 1
+      }
+    },
+    "7d": {
+      "trade_volume_usd": 44.84,
+      "trade_volume_eth": 0.028455768999999995,
+      "trade_count": 96,
+      "owner_count": 7529,
+      "change": {
+        "trade_volume_usd": -0.75,
+        "trade_volume_eth": -0.000569725,
+        "trade_count": -76,
+        "owner_count": 18
+      }
+    },
+    "30d": {
+      "trade_volume_usd": 57.18,
+      "trade_volume_eth": 0.03644261399999999,
+      "trade_count": 578,
+      "owner_count": 31970,
+      "change": {
+        "trade_volume_usd": -0.01,
+        "trade_volume_eth": -0.000016572000000000003,
+        "trade_count": -8,
+        "owner_count": 54
+      }
+    },
+    "total": {
+      "type": "total",
+      "trade_volume_usd": 13489.28,
+      "trade_volume_eth": 3.862461165,
+      "floor_price_usd": 0.0000837529,
+      "floor_price_eth": 5.2509e-8,
+      "trade_count": 6216,
+      "owner_count": 1081,
+      "__typename": "Metrics"
+    }
+  }
+]

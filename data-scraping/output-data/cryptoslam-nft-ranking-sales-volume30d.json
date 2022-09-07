@@ -17,7 +17,7 @@
     "Buyers": "68",
     "Sellers": "24",
     "Txns": "136",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "ABC",
@@ -27,7 +27,7 @@
     "Buyers": "536",
     "Sellers": "646",
     "Txns": "1159",
-    "Owners": "1"
+    "Owners": "1",
   },
   {
     "Collection": "Ethereum Name Service",
@@ -37,7 +37,7 @@
     "Buyers": "1261",
     "Sellers": "1058",
     "Txns": "2806",
-    "Owners": "457948"
+    "Owners": "457948",
   },
   {
     "Collection": "Sorare",
@@ -47,7 +47,7 @@
     "Buyers": "5384",
     "Sellers": "6380",
     "Txns": "12584",
-    "Owners": "150898"
+    "Owners": "150898",
   },
   {
     "Collection": "Bored Ape Yacht Club",
@@ -57,7 +57,7 @@
     "Buyers": "7",
     "Sellers": "7",
     "Txns": "7",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "ImmutaSwap.io",
@@ -67,7 +67,7 @@
     "Buyers": "97",
     "Sellers": "96",
     "Txns": "177",
-    "Owners": "675"
+    "Owners": "675",
   },
   {
     "Collection": "Otherdeed",
@@ -77,7 +77,7 @@
     "Buyers": "64",
     "Sellers": "75",
     "Txns": "86",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "CloneX",
@@ -87,7 +87,7 @@
     "Buyers": "31",
     "Sellers": "32",
     "Txns": "43",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Genuine Undead",
@@ -97,7 +97,7 @@
     "Buyers": "523",
     "Sellers": "462",
     "Txns": "767",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "NBA Top Shot",
@@ -107,7 +107,7 @@
     "Buyers": "1874",
     "Sellers": "3414",
     "Txns": "11466",
-    "Owners": "694553"
+    "Owners": "694553",
   },
   {
     "Collection": "Women Ape Yacht Club",
@@ -117,7 +117,7 @@
     "Buyers": "102",
     "Sellers": "88",
     "Txns": "180",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Mutant Ape Yacht Club",
@@ -127,7 +127,7 @@
     "Buyers": "15",
     "Sellers": "16",
     "Txns": "17",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Moonbirds",
@@ -137,7 +137,7 @@
     "Buyers": "12",
     "Sellers": "17",
     "Txns": "17",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "CryptoPunks",
@@ -147,7 +147,7 @@
     "Buyers": "3",
     "Sellers": "3",
     "Txns": "3",
-    "Owners": "3777"
+    "Owners": "3777",
   },
   {
     "Collection": "Galactic Gecko Space Garage",
@@ -157,7 +157,7 @@
     "Buyers": "223",
     "Sellers": "275",
     "Txns": "494",
-    "Owners": "3998"
+    "Owners": "3998",
   },
   {
     "Collection": "AnonymousCactusClub",
@@ -167,7 +167,7 @@
     "Buyers": "237",
     "Sellers": "331",
     "Txns": "432",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Satori",
@@ -177,7 +177,7 @@
     "Buyers": "825",
     "Sellers": "1129",
     "Txns": "1654",
-    "Owners": "1707"
+    "Owners": "1707",
   },
   {
     "Collection": "DeGods",
@@ -187,7 +187,7 @@
     "Buyers": "12",
     "Sellers": "11",
     "Txns": "12",
-    "Owners": "4270"
+    "Owners": "4270",
   },
   {
     "Collection": "RENGA",
@@ -197,7 +197,7 @@
     "Buyers": "171",
     "Sellers": "163",
     "Txns": "242",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Cyberlinx",
@@ -207,7 +207,7 @@
     "Buyers": "1007",
     "Sellers": "1075",
     "Txns": "1919",
-    "Owners": "1250"
+    "Owners": "1250",
   },
   {
     "Collection": "DC x Funko Series 1",
@@ -217,7 +217,7 @@
     "Buyers": "1763",
     "Sellers": "1928",
     "Txns": "41775",
-    "Owners": "8845"
+    "Owners": "8845",
   },
   {
     "Collection": "DigiDaigaku",
@@ -227,7 +227,7 @@
     "Buyers": "6",
     "Sellers": "5",
     "Txns": "6",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Doodles",
@@ -237,7 +237,7 @@
     "Buyers": "12",
     "Sellers": "12",
     "Txns": "12",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "CryptoSimeji",
@@ -247,7 +247,7 @@
     "Buyers": "231",
     "Sellers": "221",
     "Txns": "294",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "CryptoDickbutts S3",
@@ -257,7 +257,7 @@
     "Buyers": "10",
     "Sellers": "14",
     "Txns": "38",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "NFL All Day",
@@ -267,7 +267,7 @@
     "Buyers": "1221",
     "Sellers": "1594",
     "Txns": "3985",
-    "Owners": "92593"
+    "Owners": "92593",
   },
   {
     "Collection": "Axie Infinity",
@@ -277,7 +277,7 @@
     "Buyers": "4234",
     "Sellers": "4737",
     "Txns": "13244",
-    "Owners": "2177680"
+    "Owners": "2177680",
   },
   {
     "Collection": "Digital Tycoons Club (Tykes)",
@@ -287,7 +287,7 @@
     "Buyers": "14",
     "Sellers": "27",
     "Txns": "32",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Panini America",
@@ -297,7 +297,7 @@
     "Buyers": "210",
     "Sellers": "423",
     "Txns": "3353",
-    "Owners": "12975"
+    "Owners": "12975",
   },
   {
     "Collection": "Black Box",
@@ -307,7 +307,7 @@
     "Buyers": "72",
     "Sellers": "96",
     "Txns": "142",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "ABCHA",
@@ -317,7 +317,7 @@
     "Buyers": "700",
     "Sellers": "611",
     "Txns": "2068",
-    "Owners": "95"
+    "Owners": "95",
   },
   {
     "Collection": "Art Blocks",
@@ -327,7 +327,7 @@
     "Buyers": "50",
     "Sellers": "60",
     "Txns": "90",
-    "Owners": "35809"
+    "Owners": "35809",
   },
   {
     "Collection": "Blocksmith Labs",
@@ -337,7 +337,7 @@
     "Buyers": "20",
     "Sellers": "26",
     "Txns": "28",
-    "Owners": "2614"
+    "Owners": "2614",
   },
   {
     "Collection": "Bored Ape Kennel Club",
@@ -347,7 +347,7 @@
     "Buyers": "9",
     "Sellers": "10",
     "Txns": "10",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Primate Academy",
@@ -357,7 +357,7 @@
     "Buyers": "126",
     "Sellers": "95",
     "Txns": "170",
-    "Owners": "5138"
+    "Owners": "5138",
   },
   {
     "Collection": "Amazy Sneaker",
@@ -367,7 +367,7 @@
     "Buyers": "152",
     "Sellers": "2",
     "Txns": "258",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "VeeFriends",
@@ -377,7 +377,7 @@
     "Buyers": "5",
     "Sellers": "6",
     "Txns": "6",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Azuki",
@@ -387,7 +387,7 @@
     "Buyers": "6",
     "Sellers": "6",
     "Txns": "6",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Okay Bears",
@@ -397,7 +397,7 @@
     "Buyers": "27",
     "Sellers": "25",
     "Txns": "29",
-    "Owners": "10005"
+    "Owners": "10005",
   },
   {
     "Collection": "shremps",
@@ -407,7 +407,7 @@
     "Buyers": "209",
     "Sellers": "315",
     "Txns": "463",
-    "Owners": "1964"
+    "Owners": "1964",
   },
   {
     "Collection": "Sentry",
@@ -417,7 +417,7 @@
     "Buyers": "272",
     "Sellers": "354",
     "Txns": "541",
-    "Owners": "2221"
+    "Owners": "2221",
   },
   {
     "Collection": "Potatoz",
@@ -427,7 +427,7 @@
     "Buyers": "40",
     "Sellers": "29",
     "Txns": "42",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Acid Monkeys",
@@ -437,7 +437,7 @@
     "Buyers": "196",
     "Sellers": "250",
     "Txns": "359",
-    "Owners": "2193"
+    "Owners": "2193",
   },
   {
     "Collection": "Pudgy Penguins",
@@ -447,7 +447,7 @@
     "Buyers": "8",
     "Sellers": "11",
     "Txns": "11",
-    "Owners": "4605"
+    "Owners": "4605",
   },
   {
     "Collection": "Infected Mob",
@@ -457,7 +457,7 @@
     "Buyers": "152",
     "Sellers": "179",
     "Txns": "225",
-    "Owners": "2467"
+    "Owners": "2467",
   },
   {
     "Collection": "Ethlizards",
@@ -467,7 +467,7 @@
     "Buyers": "21",
     "Sellers": "8",
     "Txns": "31",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Ordinem",
@@ -477,7 +477,7 @@
     "Buyers": "372",
     "Sellers": "444",
     "Txns": "778",
-    "Owners": "566"
+    "Owners": "566",
   },
   {
     "Collection": "RareApepeYachtClub",
@@ -487,7 +487,7 @@
     "Buyers": "48",
     "Sellers": "51",
     "Txns": "60",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Moonbirds Oddities",
@@ -497,7 +497,7 @@
     "Buyers": "23",
     "Sellers": "16",
     "Txns": "30",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "MurakamiFlowers",
@@ -507,7 +507,7 @@
     "Buyers": "14",
     "Sellers": "20",
     "Txns": "23",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "goblintown",
@@ -517,7 +517,7 @@
     "Buyers": "25",
     "Sellers": "23",
     "Txns": "26",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Isekai Meta",
@@ -527,7 +527,7 @@
     "Buyers": "84",
     "Sellers": "92",
     "Txns": "118",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Lazy Ape Yacht Club",
@@ -537,7 +537,7 @@
     "Buyers": "150",
     "Sellers": "143",
     "Txns": "216",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "10KTF Stockroom",
@@ -547,7 +547,7 @@
     "Buyers": "34",
     "Sellers": "41",
     "Txns": "50",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Cets on Crek",
@@ -557,7 +557,7 @@
     "Buyers": "30",
     "Sellers": "33",
     "Txns": "35",
-    "Owners": "4005"
+    "Owners": "4005",
   },
   {
     "Collection": "RTFKT MNLTH",
@@ -567,7 +567,7 @@
     "Buyers": "5",
     "Sellers": "11",
     "Txns": "11",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Other",
@@ -577,7 +577,7 @@
     "Buyers": "344",
     "Sellers": "340",
     "Txns": "794",
-    "Owners": "644"
+    "Owners": "644",
   },
   {
     "Collection": "ZED RUN",
@@ -587,7 +587,7 @@
     "Buyers": "584",
     "Sellers": "536",
     "Txns": "761",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Jikan Studio",
@@ -597,7 +597,7 @@
     "Buyers": "116",
     "Sellers": "149",
     "Txns": "190",
-    "Owners": "4246"
+    "Owners": "4246",
   },
   {
     "Collection": "FLUF World",
@@ -607,7 +607,7 @@
     "Buyers": "7",
     "Sellers": "10",
     "Txns": "12",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Meebits",
@@ -617,7 +617,7 @@
     "Buyers": "6",
     "Sellers": "6",
     "Txns": "6",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Raft",
@@ -627,7 +627,7 @@
     "Buyers": "2",
     "Sellers": "2",
     "Txns": "2",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "DigiDaigakuSpirits",
@@ -637,7 +637,7 @@
     "Buyers": "8",
     "Sellers": "7",
     "Txns": "9",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Oak Paradise",
@@ -647,7 +647,7 @@
     "Buyers": "300",
     "Sellers": "295",
     "Txns": "512",
-    "Owners": "2230"
+    "Owners": "2230",
   },
   {
     "Collection": "ABChildrenEA5SWySV5mCLA4WmFgWgHPfN8GszdJz6Agd7Vd9YTnF4",
@@ -657,7 +657,7 @@
     "Buyers": "869",
     "Sellers": "623",
     "Txns": "3466",
-    "Owners": "218"
+    "Owners": "218",
   },
   {
     "Collection": "FXHASH",
@@ -667,7 +667,7 @@
     "Buyers": "106",
     "Sellers": "131",
     "Txns": "150",
-    "Owners": "10406"
+    "Owners": "10406",
   },
   {
     "Collection": "GODA Mint Pass",
@@ -677,7 +677,7 @@
     "Buyers": "4",
     "Sellers": "2",
     "Txns": "4",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Rtfkt Nike x Monolith",
@@ -687,7 +687,7 @@
     "Buyers": "15",
     "Sellers": "15",
     "Txns": "17",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "DSGKBPihF8madFibUNqNGidXPsC5dUNvtS4V1pTreXDboC",
@@ -697,7 +697,7 @@
     "Buyers": "1290",
     "Sellers": "1726",
     "Txns": "4650",
-    "Owners": "1147"
+    "Owners": "1147",
   },
   {
     "Collection": "Sappy Seals",
@@ -707,7 +707,7 @@
     "Buyers": "29",
     "Sellers": "25",
     "Txns": "31",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Dooplicator",
@@ -717,7 +717,7 @@
     "Buyers": "17",
     "Sellers": "15",
     "Txns": "17",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "FGDNFT",
@@ -727,7 +727,7 @@
     "Buyers": "105",
     "Sellers": "113",
     "Txns": "126",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Gutter Cat Gang",
@@ -737,7 +737,7 @@
     "Buyers": "3",
     "Sellers": "3",
     "Txns": "3",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "adidas Originals",
@@ -747,7 +747,7 @@
     "Buyers": "32",
     "Sellers": "31",
     "Txns": "34",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Chikn",
@@ -757,7 +757,7 @@
     "Buyers": "29",
     "Sellers": "29",
     "Txns": "33",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Degen Toonz",
@@ -767,7 +767,7 @@
     "Buyers": "21",
     "Sellers": "19",
     "Txns": "22",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Taiyo Oil",
@@ -777,7 +777,7 @@
     "Buyers": "54",
     "Sellers": "45",
     "Txns": "63",
-    "Owners": "814"
+    "Owners": "814",
   },
   {
     "Collection": "World Of Women Galaxy",
@@ -787,7 +787,7 @@
     "Buyers": "38",
     "Sellers": "36",
     "Txns": "41",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Froots",
@@ -797,7 +797,7 @@
     "Buyers": "130",
     "Sellers": "160",
     "Txns": "253",
-    "Owners": "3041"
+    "Owners": "3041",
   },
   {
     "Collection": "This Thing Of Ours",
@@ -807,7 +807,7 @@
     "Buyers": "21",
     "Sellers": "20",
     "Txns": "26",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Candy Digital NFT",
@@ -817,7 +817,7 @@
     "Buyers": "355",
     "Sellers": "584",
     "Txns": "2949",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Phoenixes",
@@ -827,7 +827,7 @@
     "Buyers": "124",
     "Sellers": "170",
     "Txns": "237",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "KaijuKingz",
@@ -837,7 +837,7 @@
     "Buyers": "20",
     "Sellers": "20",
     "Txns": "20",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Jadu Hoverboard",
@@ -847,7 +847,7 @@
     "Buyers": "30",
     "Sellers": "29",
     "Txns": "35",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "YOLO Bunny",
@@ -857,7 +857,7 @@
     "Buyers": "8",
     "Sellers": "12",
     "Txns": "14",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "The Shiboshis",
@@ -867,7 +867,7 @@
     "Buyers": "12",
     "Sellers": "17",
     "Txns": "23",
-    "Owners": "3677"
+    "Owners": "3677",
   },
   {
     "Collection": "Cool Cats",
@@ -877,7 +877,7 @@
     "Buyers": "8",
     "Sellers": "8",
     "Txns": "8",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Jenkins the Valet The Writers Room",
@@ -887,7 +887,7 @@
     "Buyers": "5",
     "Sellers": "4",
     "Txns": "8",
-    "Owners": "2837"
+    "Owners": "2837",
   },
   {
     "Collection": "Gods Unchained Immutable",
@@ -897,7 +897,7 @@
     "Buyers": "1605",
     "Sellers": "2536",
     "Txns": "19504",
-    "Owners": "157937"
+    "Owners": "157937",
   },
   {
     "Collection": "Solana Monkey Business",
@@ -907,7 +907,7 @@
     "Buyers": "4",
     "Sellers": "3",
     "Txns": "4",
-    "Owners": "6892"
+    "Owners": "6892",
   },
   {
     "Collection": "mfer",
@@ -917,7 +917,7 @@
     "Buyers": "16",
     "Sellers": "18",
     "Txns": "20",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Bored Ape Chemistry Club",
@@ -927,7 +927,7 @@
     "Buyers": "1",
     "Sellers": "1",
     "Txns": "1",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Cryptoadz",
@@ -937,7 +937,7 @@
     "Buyers": "9",
     "Sellers": "9",
     "Txns": "10",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "gmDAO Token v2",
@@ -947,7 +947,7 @@
     "Buyers": "2",
     "Sellers": "3",
     "Txns": "3",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Lizard",
@@ -957,7 +957,7 @@
     "Buyers": "76",
     "Sellers": "79",
     "Txns": "110",
-    "Owners": "455"
+    "Owners": "455",
   },
   {
     "Collection": "Silks Genesis Avatar",
@@ -967,7 +967,7 @@
     "Buyers": "21",
     "Sellers": "11",
     "Txns": "37",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "10KTF",
@@ -977,7 +977,7 @@
     "Buyers": "26",
     "Sellers": "21",
     "Txns": "29",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Wool Pouch",
@@ -987,7 +987,7 @@
     "Buyers": "9",
     "Sellers": "8",
     "Txns": "11",
-    "Owners": "3308"
+    "Owners": "3308",
   },
   {
     "Collection": "World Of Women",
@@ -997,7 +997,7 @@
     "Buyers": "3",
     "Sellers": "5",
     "Txns": "5",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Eternal Dragon",
@@ -1007,7 +1007,7 @@
     "Buyers": "67",
     "Sellers": "89",
     "Txns": "135",
-    "Owners": "438"
+    "Owners": "438",
   },
   {
     "Collection": "Famous Fox Federation",
@@ -1017,7 +1017,7 @@
     "Buyers": "18",
     "Sellers": "20",
     "Txns": "23",
-    "Owners": "4510"
+    "Owners": "4510",
   },
   {
     "Collection": "VeeFriends Series 2",
@@ -1027,7 +1027,7 @@
     "Buyers": "18",
     "Sellers": "28",
     "Txns": "30",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "My Pet Hooligan",
@@ -1037,7 +1037,7 @@
     "Buyers": "13",
     "Sellers": "7",
     "Txns": "20",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Mooncats",
@@ -1047,7 +1047,7 @@
     "Buyers": "23",
     "Sellers": "11",
     "Txns": "45",
-    "Owners": "6608"
+    "Owners": "6608",
   },
   {
     "Collection": "Degenerate Ape Academy",
@@ -1057,7 +1057,7 @@
     "Buyers": "10",
     "Sellers": "8",
     "Txns": "10",
-    "Owners": "5307"
+    "Owners": "5307",
   },
   {
     "Collection": "Quirkies",
@@ -1067,7 +1067,7 @@
     "Buyers": "12",
     "Sellers": "8",
     "Txns": "13",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Wolf Game",
@@ -1077,7 +1077,7 @@
     "Buyers": "15",
     "Sellers": "10",
     "Txns": "15",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "ALIENFRENS",
@@ -1087,7 +1087,7 @@
     "Buyers": "25",
     "Sellers": "27",
     "Txns": "27",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Async Blueprints",
@@ -1097,7 +1097,7 @@
     "Buyers": "3",
     "Sellers": "4",
     "Txns": "4",
-    "Owners": "5297"
+    "Owners": "5297",
   },
   {
     "Collection": "JRNY NFT Club",
@@ -1107,7 +1107,7 @@
     "Buyers": "15",
     "Sellers": "13",
     "Txns": "17",
-    "Owners": "5833"
+    "Owners": "5833",
   },
   {
     "Collection": "Infected Solympus",
@@ -1117,7 +1117,7 @@
     "Buyers": "14",
     "Sellers": "15",
     "Txns": "16",
-    "Owners": "200"
+    "Owners": "200",
   },
   {
     "Collection": "Impostors Genesis",
@@ -1127,7 +1127,7 @@
     "Buyers": "14",
     "Sellers": "15",
     "Txns": "20",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Akutars",
@@ -1137,7 +1137,7 @@
     "Buyers": "13",
     "Sellers": "11",
     "Txns": "18",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Imaginary Ones",
@@ -1147,7 +1147,7 @@
     "Buyers": "16",
     "Sellers": "19",
     "Txns": "20",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Town Star",
@@ -1157,7 +1157,7 @@
     "Buyers": "58",
     "Sellers": "40",
     "Txns": "81",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Communi3 Mad Scientist",
@@ -1167,7 +1167,7 @@
     "Buyers": "15",
     "Sellers": "18",
     "Txns": "19",
-    "Owners": "2601"
+    "Owners": "2601",
   },
   {
     "Collection": "Dynamic Shields",
@@ -1177,7 +1177,7 @@
     "Buyers": "40",
     "Sellers": "74",
     "Txns": "100",
-    "Owners": "7058"
+    "Owners": "7058",
   },
   {
     "Collection": "Habitat",
@@ -1187,7 +1187,7 @@
     "Buyers": "22",
     "Sellers": "25",
     "Txns": "31",
-    "Owners": "229"
+    "Owners": "229",
   },
   {
     "Collection": "JellyDawgs",
@@ -1197,7 +1197,7 @@
     "Buyers": "140",
     "Sellers": "148",
     "Txns": "205",
-    "Owners": "3135"
+    "Owners": "3135",
   },
   {
     "Collection": "EZU",
@@ -1207,7 +1207,7 @@
     "Buyers": "78",
     "Sellers": "69",
     "Txns": "109",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "UFC Strike",
@@ -1217,7 +1217,7 @@
     "Buyers": "305",
     "Sellers": "431",
     "Txns": "1145",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "LilPudgys",
@@ -1227,7 +1227,7 @@
     "Buyers": "25",
     "Sellers": "33",
     "Txns": "43",
-    "Owners": "6809"
+    "Owners": "6809",
   },
   {
     "Collection": "Lasogette NFT",
@@ -1237,7 +1237,7 @@
     "Buyers": "92",
     "Sellers": "75",
     "Txns": "130",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Bit Birdz",
@@ -1247,7 +1247,7 @@
     "Buyers": "67",
     "Sellers": "103",
     "Txns": "171",
-    "Owners": "980"
+    "Owners": "980",
   },
   {
     "Collection": "Roostr",
@@ -1257,7 +1257,7 @@
     "Buyers": "32",
     "Sellers": "47",
     "Txns": "64",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "The BFG's",
@@ -1267,7 +1267,7 @@
     "Buyers": "109",
     "Sellers": "99",
     "Txns": "133",
-    "Owners": "398"
+    "Owners": "398",
   },
   {
     "Collection": "Kikiverse",
@@ -1277,7 +1277,7 @@
     "Buyers": "140",
     "Sellers": "214",
     "Txns": "502",
-    "Owners": "1882"
+    "Owners": "1882",
   },
   {
     "Collection": "Trippin Ape Tribe",
@@ -1287,7 +1287,7 @@
     "Buyers": "31",
     "Sellers": "27",
     "Txns": "33",
-    "Owners": "5584"
+    "Owners": "5584",
   },
   {
     "Collection": "BlackGodNFT",
@@ -1297,7 +1297,7 @@
     "Buyers": "8",
     "Sellers": "8",
     "Txns": "8",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Magic Shrooms",
@@ -1307,7 +1307,7 @@
     "Buyers": "39",
     "Sellers": "40",
     "Txns": "86",
-    "Owners": "50"
+    "Owners": "50",
   },
   {
     "Collection": "DeadFellaz",
@@ -1317,7 +1317,7 @@
     "Buyers": "13",
     "Sellers": "14",
     "Txns": "15",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "FLACA",
@@ -1327,7 +1327,7 @@
     "Buyers": "72",
     "Sellers": "51",
     "Txns": "1489",
-    "Owners": "57"
+    "Owners": "57",
   },
   {
     "Collection": "GentsCroquetClub",
@@ -1337,7 +1337,7 @@
     "Buyers": "2",
     "Sellers": "2",
     "Txns": "2",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "VOX Series 2",
@@ -1347,7 +1347,7 @@
     "Buyers": "8",
     "Sellers": "5",
     "Txns": "9",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "8liens",
@@ -1357,7 +1357,7 @@
     "Buyers": "33",
     "Sellers": "53",
     "Txns": "69",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Degenerate Ape Kindergarten",
@@ -1367,7 +1367,7 @@
     "Buyers": "3",
     "Sellers": "3",
     "Txns": "3",
-    "Owners": "1529"
+    "Owners": "1529",
   },
   {
     "Collection": "oncyber labs",
@@ -1377,7 +1377,7 @@
     "Buyers": "14",
     "Sellers": "22",
     "Txns": "26",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Beanz",
@@ -1387,7 +1387,7 @@
     "Buyers": "11",
     "Sellers": "14",
     "Txns": "14",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "MNLTHRVLD",
@@ -1397,7 +1397,7 @@
     "Buyers": "17",
     "Sellers": "15",
     "Txns": "18",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "HAPE PRIME",
@@ -1407,7 +1407,7 @@
     "Buyers": "12",
     "Sellers": "8",
     "Txns": "14",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Balloonsville2",
@@ -1417,7 +1417,7 @@
     "Buyers": "68",
     "Sellers": "117",
     "Txns": "168",
-    "Owners": "1498"
+    "Owners": "1498",
   },
   {
     "Collection": "Bobo 1452",
@@ -1427,7 +1427,7 @@
     "Buyers": "65",
     "Sellers": "51",
     "Txns": "120",
-    "Owners": "242"
+    "Owners": "242",
   },
   {
     "Collection": "Blockchain Brawlers",
@@ -1437,7 +1437,7 @@
     "Buyers": "37",
     "Sellers": "31",
     "Txns": "147",
-    "Owners": "10458"
+    "Owners": "10458",
   },
   {
     "Collection": "Lotus Gang NFT",
@@ -1447,7 +1447,7 @@
     "Buyers": "13",
     "Sellers": "25",
     "Txns": "31",
-    "Owners": "1912"
+    "Owners": "1912",
   },
   {
     "Collection": "CNP Jobs",
@@ -1457,7 +1457,7 @@
     "Buyers": "28",
     "Sellers": "32",
     "Txns": "38",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "KILLABEARS",
@@ -1467,7 +1467,7 @@
     "Buyers": "7",
     "Sellers": "7",
     "Txns": "7",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Illuvium Land",
@@ -1477,7 +1477,7 @@
     "Buyers": "13",
     "Sellers": "12",
     "Txns": "15",
-    "Owners": "6407"
+    "Owners": "6407",
   },
   {
     "Collection": "Invisible Friends",
@@ -1487,7 +1487,7 @@
     "Buyers": "4",
     "Sellers": "4",
     "Txns": "4",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Alien Worlds",
@@ -1497,7 +1497,7 @@
     "Buyers": "648",
     "Sellers": "284",
     "Txns": "3324",
-    "Owners": "3741513"
+    "Owners": "3741513",
   },
   {
     "Collection": "Webaverse Genesis Pass",
@@ -1507,7 +1507,7 @@
     "Buyers": "14",
     "Sellers": "17",
     "Txns": "23",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Adam Bomb Squad",
@@ -1517,7 +1517,7 @@
     "Buyers": "14",
     "Sellers": "20",
     "Txns": "20",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Pancake Squad",
@@ -1527,7 +1527,7 @@
     "Buyers": "5",
     "Sellers": "5",
     "Txns": "5",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "We All Survived Death",
@@ -1537,7 +1537,7 @@
     "Buyers": "93",
     "Sellers": "101",
     "Txns": "136",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "BBRC OFFICIAL IVY BOYS",
@@ -1547,7 +1547,7 @@
     "Buyers": "27",
     "Sellers": "24",
     "Txns": "28",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Terraforms",
@@ -1557,7 +1557,7 @@
     "Buyers": "6",
     "Sellers": "8",
     "Txns": "9",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Shadowy Super Coder",
@@ -1567,7 +1567,7 @@
     "Buyers": "5",
     "Sellers": "4",
     "Txns": "6",
-    "Owners": "2255"
+    "Owners": "2255",
   },
   {
     "Collection": "hic et nunc",
@@ -1577,7 +1577,7 @@
     "Buyers": "595",
     "Sellers": "325",
     "Txns": "1245",
-    "Owners": "19970"
+    "Owners": "19970",
   },
   {
     "Collection": "MadMeerkatBurrow",
@@ -1587,7 +1587,7 @@
     "Buyers": "17",
     "Sellers": "20",
     "Txns": "25",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "MV3NFT",
@@ -1597,7 +1597,7 @@
     "Buyers": "17",
     "Sellers": "18",
     "Txns": "18",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "VaynerSports Pass",
@@ -1607,7 +1607,7 @@
     "Buyers": "17",
     "Sellers": "28",
     "Txns": "30",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Rakkudo",
@@ -1617,7 +1617,7 @@
     "Buyers": "44",
     "Sellers": "54",
     "Txns": "80",
-    "Owners": "2334"
+    "Owners": "2334",
   },
   {
     "Collection": "Gutter Rats",
@@ -1627,7 +1627,7 @@
     "Buyers": "6",
     "Sellers": "6",
     "Txns": "6",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Hro",
@@ -1637,7 +1637,7 @@
     "Buyers": "24",
     "Sellers": "35",
     "Txns": "947",
-    "Owners": "860"
+    "Owners": "860",
   },
   {
     "Collection": "KINGSHIP",
@@ -1647,7 +1647,7 @@
     "Buyers": "7",
     "Sellers": "8",
     "Txns": "11",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "CyberKongz",
@@ -1657,7 +1657,7 @@
     "Buyers": "2",
     "Sellers": "2",
     "Txns": "2",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Just Ape",
@@ -1667,7 +1667,7 @@
     "Buyers": "35",
     "Sellers": "46",
     "Txns": "68",
-    "Owners": "3949"
+    "Owners": "3949",
   },
   {
     "Collection": "Combat Crates",
@@ -1677,7 +1677,7 @@
     "Buyers": "7",
     "Sellers": "8",
     "Txns": "10",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "CyberBrokers",
@@ -1687,7 +1687,7 @@
     "Buyers": "8",
     "Sellers": "8",
     "Txns": "8",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Ledger Market Pass - Genesis Edition",
@@ -1697,7 +1697,7 @@
     "Buyers": "18",
     "Sellers": "20",
     "Txns": "21",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Degen Fat Cat",
@@ -1707,7 +1707,7 @@
     "Buyers": "13",
     "Sellers": "19",
     "Txns": "21",
-    "Owners": "1744"
+    "Owners": "1744",
   },
   {
     "Collection": "Emblem Vault",
@@ -1717,7 +1717,7 @@
     "Buyers": "16",
     "Sellers": "16",
     "Txns": "24",
-    "Owners": "6184"
+    "Owners": "6184",
   },
   {
     "Collection": "Dracoo Master",
@@ -1727,7 +1727,7 @@
     "Buyers": "15",
     "Sellers": "16",
     "Txns": "22",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "glaba 1",
@@ -1737,7 +1737,7 @@
     "Buyers": "30",
     "Sellers": "44",
     "Txns": "63",
-    "Owners": "652"
+    "Owners": "652",
   },
   {
     "Collection": "Bored--Dangerous",
@@ -1747,7 +1747,7 @@
     "Buyers": "9",
     "Sellers": "15",
     "Txns": "15",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Bull BTC Club",
@@ -1757,7 +1757,7 @@
     "Buyers": "38",
     "Sellers": "1",
     "Txns": "38",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Curio Cards",
@@ -1767,7 +1767,7 @@
     "Buyers": "7",
     "Sellers": "9",
     "Txns": "13",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "CryptoSkulls",
@@ -1777,7 +1777,7 @@
     "Buyers": "14",
     "Sellers": "14",
     "Txns": "16",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "BLXCK",
@@ -1787,7 +1787,7 @@
     "Buyers": "94",
     "Sellers": "143",
     "Txns": "296",
-    "Owners": "903"
+    "Owners": "903",
   },
   {
     "Collection": "OG Atadians",
@@ -1797,7 +1797,7 @@
     "Buyers": "15",
     "Sellers": "14",
     "Txns": "18",
-    "Owners": "2272"
+    "Owners": "2272",
   },
   {
     "Collection": "Super Cool World",
@@ -1807,7 +1807,7 @@
     "Buyers": "10",
     "Sellers": "8",
     "Txns": "12",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "HOWL",
@@ -1817,7 +1817,7 @@
     "Buyers": "74",
     "Sellers": "78",
     "Txns": "91",
-    "Owners": "270"
+    "Owners": "270",
   },
   {
     "Collection": "Grumpy Dragon",
@@ -1827,7 +1827,7 @@
     "Buyers": "33",
     "Sellers": "38",
     "Txns": "51",
-    "Owners": "5146"
+    "Owners": "5146",
   },
   {
     "Collection": "ENS Maxis",
@@ -1837,7 +1837,7 @@
     "Buyers": "66",
     "Sellers": "79",
     "Txns": "93",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Cardboard Citizens",
@@ -1847,7 +1847,7 @@
     "Buyers": "44",
     "Sellers": "79",
     "Txns": "101",
-    "Owners": "2365"
+    "Owners": "2365",
   },
   {
     "Collection": "DCity",
@@ -1857,7 +1857,7 @@
     "Buyers": "373",
     "Sellers": "394",
     "Txns": "2084",
-    "Owners": "1918"
+    "Owners": "1918",
   },
   {
     "Collection": "Shellz Orb",
@@ -1867,7 +1867,7 @@
     "Buyers": "64",
     "Sellers": "54",
     "Txns": "85",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Card8hW6RtSCK2hMf66q34ViaQcAfapHP1yzYze6cAzoVNjZ",
@@ -1877,7 +1877,7 @@
     "Buyers": "32",
     "Sellers": "20",
     "Txns": "39",
-    "Owners": "33"
+    "Owners": "33",
   },
   {
     "Collection": "Lazy Lions",
@@ -1887,7 +1887,7 @@
     "Buyers": "10",
     "Sellers": "9",
     "Txns": "11",
-    "Owners": "5132"
+    "Owners": "5132",
   },
   {
     "Collection": "Murakami Lucky Cat Coin Bank",
@@ -1897,7 +1897,7 @@
     "Buyers": "31",
     "Sellers": "33",
     "Txns": "37",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Taiyo Robotics",
@@ -1907,7 +1907,7 @@
     "Buyers": "2",
     "Sellers": "2",
     "Txns": "2",
-    "Owners": "1051"
+    "Owners": "1051",
   },
   {
     "Collection": "VeeHpPfPhGBb6huUaiijBNDASjcebegGja9PQXMFZfvLFTg",
@@ -1917,7 +1917,7 @@
     "Buyers": "143",
     "Sellers": "140",
     "Txns": "1158",
-    "Owners": "68"
+    "Owners": "68",
   },
   {
     "Collection": "Rags to Richie by Alec Monopoly",
@@ -1927,7 +1927,7 @@
     "Buyers": "12",
     "Sellers": "9",
     "Txns": "13",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Finiliar",
@@ -1937,7 +1937,7 @@
     "Buyers": "21",
     "Sellers": "25",
     "Txns": "28",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "ABCDG0x0",
@@ -1947,7 +1947,7 @@
     "Buyers": "556",
     "Sellers": "496",
     "Txns": "2044",
-    "Owners": "262"
+    "Owners": "262",
   },
   {
     "Collection": "Gutter Juice",
@@ -1957,7 +1957,7 @@
     "Buyers": "22",
     "Sellers": "11",
     "Txns": "24",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Monkey Baby Business",
@@ -1967,7 +1967,7 @@
     "Buyers": "6",
     "Sellers": "4",
     "Txns": "6",
-    "Owners": "1045"
+    "Owners": "1045",
   },
   {
     "Collection": "COWS",
@@ -1977,7 +1977,7 @@
     "Buyers": "42",
     "Sellers": "40",
     "Txns": "73",
-    "Owners": "2725"
+    "Owners": "2725",
   },
   {
     "Collection": "Blueberry Club",
@@ -1987,7 +1987,7 @@
     "Buyers": "10",
     "Sellers": "10",
     "Txns": "10",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Smol Brain",
@@ -1997,7 +1997,7 @@
     "Buyers": "6",
     "Sellers": "6",
     "Txns": "6",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "TYR-Infant",
@@ -2007,7 +2007,7 @@
     "Buyers": "6",
     "Sellers": "5",
     "Txns": "6",
-    "Owners": "534"
+    "Owners": "534",
   },
   {
     "Collection": "FULL SEND METACARD",
@@ -2017,7 +2017,7 @@
     "Buyers": "8",
     "Sellers": "9",
     "Txns": "10",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "GhostKid",
@@ -2027,7 +2027,7 @@
     "Buyers": "31",
     "Sellers": "33",
     "Txns": "44",
-    "Owners": "2564"
+    "Owners": "2564",
   },
   {
     "Collection": "MetaHero Universe Generative",
@@ -2037,7 +2037,7 @@
     "Buyers": "6",
     "Sellers": "5",
     "Txns": "7",
-    "Owners": "3036"
+    "Owners": "3036",
   },
   {
     "Collection": "Rabbitars",
@@ -2047,7 +2047,7 @@
     "Buyers": "9",
     "Sellers": "19",
     "Txns": "23",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Genesis Box",
@@ -2057,7 +2057,7 @@
     "Buyers": "24",
     "Sellers": "17",
     "Txns": "29",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "MetaHero",
@@ -2067,7 +2067,7 @@
     "Buyers": "6",
     "Sellers": "5",
     "Txns": "7",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Blockfriend NFT",
@@ -2077,7 +2077,7 @@
     "Buyers": "7",
     "Sellers": "7",
     "Txns": "7",
-    "Owners": "247"
+    "Owners": "247",
   },
   {
     "Collection": "Best Buds",
@@ -2087,7 +2087,7 @@
     "Buyers": "36",
     "Sellers": "36",
     "Txns": "46",
-    "Owners": "2214"
+    "Owners": "2214",
   },
   {
     "Collection": "The Humanoids",
@@ -2097,7 +2097,7 @@
     "Buyers": "22",
     "Sellers": "16",
     "Txns": "35",
-    "Owners": "4764"
+    "Owners": "4764",
   },
   {
     "Collection": "Sol City Donkey",
@@ -2107,7 +2107,7 @@
     "Buyers": "4",
     "Sellers": "7",
     "Txns": "12",
-    "Owners": "226"
+    "Owners": "226",
   },
   {
     "Collection": "Pixelmon",
@@ -2117,7 +2117,7 @@
     "Buyers": "16",
     "Sellers": "14",
     "Txns": "17",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Infected JNGL",
@@ -2127,7 +2127,7 @@
     "Buyers": "6",
     "Sellers": "7",
     "Txns": "9",
-    "Owners": "156"
+    "Owners": "156",
   },
   {
     "Collection": "MetaHelix",
@@ -2137,7 +2137,7 @@
     "Buyers": "37",
     "Sellers": "39",
     "Txns": "52",
-    "Owners": "1921"
+    "Owners": "1921",
   },
   {
     "Collection": "mcgoblinwtf",
@@ -2147,7 +2147,7 @@
     "Buyers": "7",
     "Sellers": "6",
     "Txns": "7",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Degenerate Trash Pandas",
@@ -2157,7 +2157,7 @@
     "Buyers": "15",
     "Sellers": "24",
     "Txns": "37",
-    "Owners": "19370"
+    "Owners": "19370",
   },
   {
     "Collection": "Chimpers",
@@ -2167,7 +2167,7 @@
     "Buyers": "4",
     "Sellers": "4",
     "Txns": "4",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "LOSTPOETS",
@@ -2177,7 +2177,7 @@
     "Buyers": "19",
     "Sellers": "16",
     "Txns": "26",
-    "Owners": "5735"
+    "Owners": "5735",
   },
   {
     "Collection": "The Stoned Frogs",
@@ -2187,7 +2187,7 @@
     "Buyers": "46",
     "Sellers": "69",
     "Txns": "84",
-    "Owners": "4806"
+    "Owners": "4806",
   },
   {
     "Collection": "Pixels",
@@ -2197,7 +2197,7 @@
     "Buyers": "6",
     "Sellers": "11",
     "Txns": "13",
-    "Owners": "1949"
+    "Owners": "1949",
   },
   {
     "Collection": "Hello Kitty and Friends World Eth",
@@ -2207,7 +2207,7 @@
     "Buyers": "33",
     "Sellers": "35",
     "Txns": "40",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "SolDough",
@@ -2217,7 +2217,7 @@
     "Buyers": "46",
     "Sellers": "71",
     "Txns": "94",
-    "Owners": "10114"
+    "Owners": "10114",
   },
   {
     "Collection": "Psychedelics Anonymous Genesis",
@@ -2227,7 +2227,7 @@
     "Buyers": "7",
     "Sellers": "7",
     "Txns": "7",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Toxic Skulls Club",
@@ -2237,7 +2237,7 @@
     "Buyers": "11",
     "Sellers": "17",
     "Txns": "20",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "OG Portal NFT",
@@ -2247,7 +2247,7 @@
     "Buyers": "5",
     "Sellers": "3",
     "Txns": "5",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Magic Ticket",
@@ -2257,7 +2257,7 @@
     "Buyers": "36",
     "Sellers": "60",
     "Txns": "94",
-    "Owners": "17952"
+    "Owners": "17952",
   },
   {
     "Collection": "DCWTF",
@@ -2267,7 +2267,7 @@
     "Buyers": "20",
     "Sellers": "17",
     "Txns": "29",
-    "Owners": "314"
+    "Owners": "314",
   },
   {
     "Collection": "SOLGods",
@@ -2277,7 +2277,7 @@
     "Buyers": "10",
     "Sellers": "8",
     "Txns": "11",
-    "Owners": "2856"
+    "Owners": "2856",
   },
   {
     "Collection": "Onigiri Pepes",
@@ -2287,7 +2287,7 @@
     "Buyers": "32",
     "Sellers": "47",
     "Txns": "53",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Paradise",
@@ -2297,7 +2297,7 @@
     "Buyers": "23",
     "Sellers": "30",
     "Txns": "48",
-    "Owners": "315"
+    "Owners": "315",
   },
   {
     "Collection": "Karafuru",
@@ -2307,7 +2307,7 @@
     "Buyers": "13",
     "Sellers": "13",
     "Txns": "13",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "GensoKishiOnline",
@@ -2317,7 +2317,7 @@
     "Buyers": "29",
     "Sellers": "35",
     "Txns": "85",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "ABZ",
@@ -2327,7 +2327,7 @@
     "Buyers": "104",
     "Sellers": "121",
     "Txns": "274",
-    "Owners": "219"
+    "Owners": "219",
   },
   {
     "Collection": "adidasCapsule",
@@ -2337,7 +2337,7 @@
     "Buyers": "13",
     "Sellers": "15",
     "Txns": "18",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "NUKE",
@@ -2347,7 +2347,7 @@
     "Buyers": "75",
     "Sellers": "72",
     "Txns": "113",
-    "Owners": "1473"
+    "Owners": "1473",
   },
   {
     "Collection": "MetaBuilder",
@@ -2357,7 +2357,7 @@
     "Buyers": "1",
     "Sellers": "1",
     "Txns": "1",
-    "Owners": "266"
+    "Owners": "266",
   },
   {
     "Collection": "Bubblegoose Baller",
@@ -2367,7 +2367,7 @@
     "Buyers": "29",
     "Sellers": "17",
     "Txns": "36",
-    "Owners": "2980"
+    "Owners": "2980",
   },
   {
     "Collection": "God Hates NFTees",
@@ -2377,7 +2377,7 @@
     "Buyers": "9",
     "Sellers": "9",
     "Txns": "10",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Stable",
@@ -2387,7 +2387,7 @@
     "Buyers": "89",
     "Sellers": "82",
     "Txns": "155",
-    "Owners": "709"
+    "Owners": "709",
   },
   {
     "Collection": "The Currency Eth",
@@ -2397,7 +2397,7 @@
     "Buyers": "1",
     "Sellers": "1",
     "Txns": "1",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Illuminati",
@@ -2407,7 +2407,7 @@
     "Buyers": "5",
     "Sellers": "3",
     "Txns": "5",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "ZOOT8ZJh8aCnAKdzEHdV7RxzeyiE5xnqRSy476TuT3aTat8o",
@@ -2417,7 +2417,7 @@
     "Buyers": "522",
     "Sellers": "441",
     "Txns": "2170",
-    "Owners": "115"
+    "Owners": "115",
   },
   {
     "Collection": "Pengsol",
@@ -2427,7 +2427,7 @@
     "Buyers": "37",
     "Sellers": "45",
     "Txns": "59",
-    "Owners": "2177"
+    "Owners": "2177",
   },
   {
     "Collection": "Forgotten Runes",
@@ -2437,7 +2437,7 @@
     "Buyers": "3",
     "Sellers": "3",
     "Txns": "3",
-    "Owners": "3081"
+    "Owners": "3081",
   },
   {
     "Collection": "Rarikey",
@@ -2447,7 +2447,7 @@
     "Buyers": "16",
     "Sellers": "16",
     "Txns": "17",
-    "Owners": "2541"
+    "Owners": "2541",
   },
   {
     "Collection": "Stylish Studs",
@@ -2457,7 +2457,7 @@
     "Buyers": "9",
     "Sellers": "9",
     "Txns": "16",
-    "Owners": "2129"
+    "Owners": "2129",
   },
   {
     "Collection": "The Possessed",
@@ -2467,7 +2467,7 @@
     "Buyers": "37",
     "Sellers": "38",
     "Txns": "42",
-    "Owners": "0"
+    "Owners": "0",
   },
   {
     "Collection": "Voxies",
@@ -2477,7 +2477,7 @@
     "Buyers": "7",
     "Sellers": "10",
     "Txns": "12",
-    "Owners": "2071"
+    "Owners": "2071",
   },
   {
     "Collection": "Vox Collectibles",
@@ -2487,6 +2487,7 @@
     "Buyers": "5",
     "Sellers": "3",
     "Txns": "5",
-    "Owners": "3272"
+    "Owners": "3272",
   }
 ]
+elds', 'Sales (USD)': '223670', 'Change (30d)': '59.88', 'Sales': '5787.72SOL', 'Buyers': '797', 'Sellers': '1106', 'Txns': '2629', 'Owners': '7058', '': '244'}, {'Collection': 'Quirklings', 'Sales (USD)': '223657', 'Change (30d)': '21.18', 'Sales': '134.95', 'Buyers': '340', 'Sellers': '462', 'Txns': '666', 'Owners': '0', '': '245'}, {'Collection': 'Hro', 'Sales (USD)': '223388', 'Change (30d)': '29.96', 'Sales': '456.45', 'Buyers': '286', 'Sellers': '161', 'Txns': '18466', 'Owners': '860', '': '246'}, {'Collection': 'Mines', 'Sales (USD)': '222586', 'Change (30d)': '-', 'Sales': '5311.51SOL', 'Buyers': '894', 'Sellers': '1075', 'Txns': '2338', 'Owners': '372', '': '247'}, {'Collection': 'projectPXN', 'Sales (USD)': '222329', 'Change (30d)': '22.43', 'Sales': '130.69', 'Buyers': '346', 'Sellers': '431', 'Txns': '588', 'Owners': '0', '': '248'}, {'Collection': 'Arcade Land', 'Sales (USD)': '220976', 'Change (30d)': '31.74', 'Sales': '130.60', 'Buyers': '265', 'Sellers': '344', 'Txns': '552', 'Owners': '0', '': '249'}, {'Collection': 'ProudKittyGang', 'Sales (USD)': '219371', 'Change (30d)': '47.35', 'Sales': '695.50', 'Buyers': '599', 'Sellers': '599', 'Txns': '666', 'Owners': '0', '': '250'}]

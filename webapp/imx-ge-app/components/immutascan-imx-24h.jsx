@@ -1,8 +1,9 @@
-import data from "../data/immutascan-imx-volume-24h.json";
+import data from "../data/immutascan-imx-chain-data-24h.json";
 
 // totalType is: total, 30d, 24h or 7d as a string
 export const ImxImmutascanTotal24h = (props) => {
   const differenceData = data[props.totalType];
+  console.log(differenceData)
   const headings = [...Object.keys(differenceData)];
   headings.pop(); // remove the change field data
 

@@ -6,15 +6,20 @@ import { ImxCryptoslamTotal24h } from "./cryptoslam-imx-24h";
 import cSlam24hData from "../data/cryptoslam-nft-ranking-sales-volume24h.json";
 import cSlam7dData from "../data/cryptoslam-nft-ranking-sales-volume7d.json";
 import cSlam30dData from "../data/cryptoslam-nft-ranking-sales-volume30d.json";
-import ImmutascancollectionData from "../data/immutascan-s2-collection-data.json";
+import ImmutascancollectionData from "../data/immutascan-collection-data.json";
 import { CompareCollectionsAcrossSites } from "./compare-collections-cross-site";
+import imaImxData from "../data/immutascan-imx-chain-data-24h.json";
+import blockchainsData from "../data/cs-blockchains-by-nft-sales-volume.json";
+import PrintTable from "./print-table";
+import { imxDataToCsDataFormat } from "../utils";
 
 export const Sections = () => {
   const immutascanCollectionData24h = [];
   const immutascanCollectionData7d = [];
   const immutascanCollectionData30d = [];
   const immutascanCollectionDataTotal = [];
-
+  const imxData24h = imxDataToCsDataFormat({...imaImxData["24h"]});
+  const csImxData24 = blockchainsData.find(chain => chain.Blockchain === 'ImmutableX');
   ImmutascancollectionData.forEach((collection) => {
     immutascanCollectionData24h.push({
       name: collection.name,
@@ -39,7 +44,8 @@ export const Sections = () => {
       {() => (
         <>
           <main className={styles.main}>
-            <h1> Immutascan vs Cryptoslam </h1>
+            <h1> 🪄 Immutascan vs Cryptoslam </h1>
+            <p> By Nivaaz 👋🏽</p>
             <p>
               We have seen differences in trading values across Immutascan and
               Cryptoslam. In an effort to understand where these differences
@@ -48,12 +54,7 @@ export const Sections = () => {
             </p>
 
             <section>
-              <h1> At a glance </h1>
-              {/*  TODO: */}
-            </section>
-
-            <section>
-              <h2> Section 1</h2>
+              <h2> ✨ Section 1</h2>
               <p>
                 Let us begin by exploring the total NFT sales volumes on
                 CryptoSlam vs Immutascan.
@@ -61,21 +62,21 @@ export const Sections = () => {
 
               <div>
                 <h3>
-                  CryptoSlam Volume on Immutable X over the last 24 hours.
+                 🔍 CryptoSlam Volume on Immutable X over the last 24 hours.
                 </h3>
                 <ImxCryptoslamTotal24h />
               </div>
 
               <div>
                 <h3>
-                  Immutascan Volume on Immutable X over the last 24 hours.
+                🔍  Immutascan Volume on Immutable X over the last 24 hours.
                 </h3>
                 <ImxImmutascanTotal24h totalType="24h" />
               </div>
               <div>
-                <h3> The differences </h3>
-                {/* TODO:IMX volume to compare. */}
-
+                <h3> 🔍 The differences </h3>
+                <PrintTable data = {[imxData24h]} tableType = "immutascan"/>
+                <PrintTable data = {[csImxData24]}/>
                 <p>
                   Now we have had a look at the data, let us deep dive on what
                   it all means!
@@ -84,25 +85,22 @@ export const Sections = () => {
 
               <div>
                 <h3>
-                  But, how does IMX compare to the top 10 chains? According to
-                  CryptoSlam
+                🔍  But, how does IMX compare to the top 10 chains? 
                 </h3>
-                {/* TODO:Table for the top 10 */}
+                <p> According to CryptoSlam:</p>
                 <ChainsTable />
-                {/* TODO:IMX volume to compare. */}
               </div>
             </section>
 
-            {/*  */}
             <section>
-              <h2> Section 2</h2>
+              <h2> ✨ Section 2</h2>
               <p>
                 Now that we have a high level overview, let us compare the
                 values that contribute to the overall volume.
               </p>
 
               <div>
-                <h3> Over 24 hours </h3>
+                <h3>🪄 Over 24 hours </h3>
                 <CompareCollectionsAcrossSites
                   imxdata={immutascanCollectionData24h}
                   csData={cSlam24hData}
@@ -110,7 +108,7 @@ export const Sections = () => {
               </div>
 
               <div>
-                <h3> Over 7 days </h3>
+                <h3>🪄 Over 7 days </h3>
                 <CompareCollectionsAcrossSites
                   imxdata={immutascanCollectionData7d}
                   csData={cSlam7dData}
@@ -118,13 +116,14 @@ export const Sections = () => {
               </div>
 
               <div>
-                <h3> Over 30 days </h3>
+                <h3>🪄 Over 30 days </h3>
                 <CompareCollectionsAcrossSites
                   imxdata={immutascanCollectionData30d}
                   csData={cSlam30dData}
                 />
               </div>
             </section>
+            <p> Thanks for reading 👋🏽</p>
           </main>
         </>
       )}
