@@ -35,12 +35,12 @@ table {
   color: #000;
 }
 tr{
-  border-bottom: 1px solid purple;
-  border-top: 1px solid purple;
+  border-bottom: 1px solid #555;
+  border-top: 1px solid #555;
 }
 td{
-  border-right: 1px solid purple;
-  border-left: 1px solid purple;
+  border-right: 1px solid #555;
+  border-left: 1px solid #555;
   padding:  0px 1em;
 }
 section{
